@@ -13,4 +13,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mraikero-01&repo=MinariiiBot&show_owner=true&theme=radical" />
 </a>
 
+#### Language
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mraikero-01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
