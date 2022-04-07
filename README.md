@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Welcome to my Profile 👋
 
 <!--
 **mraikero-01/mraikero-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 [![MrAik3ro's GitHub stats](https://github-readme-stats.vercel.app/api?username=mraikero-01&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mraikero-01&repo=mraikero-01&show_owner=true)](https://github.com/mraikero-01/mraikero-01)
-[![MinariiiBot](https://github-readme-stats.vercel.app/api/pin/?username=mraikero-01&repo=MinariiiBot&show_owner=true)](https://github.com/mraikero-01/MinariiiBot/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mraikero-01&repo=mraikero-01&show_owner=true&theme=radical)](https://github.com/mraikero-01/mraikero-01)
+[![MinariiiBot](https://github-readme-stats.vercel.app/api/pin/?username=mraikero-01&repo=MinariiiBot&show_owner=true&theme=radical)](https://github.com/mraikero-01/MinariiiBot/)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mraikero-01&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
