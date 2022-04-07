@@ -6,8 +6,8 @@
 
 #### My Repo
 
-<a href="https://github.com/mraikero-01/mraikero-01">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mraikero-01&repo=mraikero-01&show_owner=true&theme=radical" />
+<a href="https://github.com/mraikero-01/CUSTOM-RPC-WITH-SMALL-ICON">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mraikero-01&repo=CUSTOM-RPC-WITH-SMALL-ICON&show_owner=true&theme=radical" />
 </a>
 <a href="https://github.com/mraikero-01/MinariiiBot/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mraikero-01&repo=MinariiiBot&show_owner=true&theme=radical" />
