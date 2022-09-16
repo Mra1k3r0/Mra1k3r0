@@ -1,15 +1,13 @@
 ### Hi Welcome to my Profile 👋
 
-
-
-[![MrAik3ro's GitHub stats](https://github-readme-stats.vercel.app/api?username=mraikero-01&show_icons=true&theme=radical&count_private=true&text_color=32a885&border_color=a61414)](https://github.com/mraikero-01/mraikero-01)
-
- <div align="center">
+<div align="center">
+<img src="https://raw.githubusercontent.com/mraikero-01/mraikero-01/main/saikidesu/confused-i-dont-know.gif" width="270"/>
 <div style="display:flex;">
  <img src="https://komarev.com/ghpvc/?username=mraikero-01" />
 </div>
 </div>
- 
+
+[![MrAik3ro's GitHub stats](https://github-readme-stats.vercel.app/api?username=mraikero-01&show_icons=true&theme=radical&count_private=true&text_color=32a885&border_color=a61414)](https://github.com/mraikero-01/mraikero-01)
   
 #### My Repo
 
