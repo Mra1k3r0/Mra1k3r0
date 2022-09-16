@@ -20,10 +20,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mraikero-01&repo=CUSTOM-RPC-WITH-SMALL-ICON&show_owner=true&theme=radical&text_color=32a885&border_color=a61414" />
 </a>
 <a href="https://github.com/mraikero-01/imagerandom-api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mraikero-01&repo=MinariiiBot&show_owner=true&theme=radical&text_color=32a885&border_color=a61414" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mraikero-01&repo=imagerandom-api&show_owner=true&theme=radical&text_color=32a885&border_color=a61414" />
 </a>
 <a href="https://github.com/mraikero-01/api-vtuber-rmagesaikidesu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mraikero-01&repo=MinariiiBot&show_owner=true&theme=radical&text_color=32a885&border_color=a61414" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mraikero-01&repo=api-vtuber-rmagesaikidesu&show_owner=true&theme=radical&text_color=32a885&border_color=a61414" />
 </a>
 
 #### Language
