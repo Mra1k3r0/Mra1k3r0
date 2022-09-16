@@ -3,8 +3,11 @@
 
 
 [![MrAik3ro's GitHub stats](https://github-readme-stats.vercel.app/api?username=mraikero-01&show_icons=true&theme=radical&count_private=true&text_color=32a885&border_color=a61414)](https://github.com/mraikero-01/mraikero-01)
+
+ <div align="center">
 <div style="display:flex;">
  <img src="https://komarev.com/ghpvc/?username=mraikero-01" />
+</div>
 </div>
  
   
