@@ -15,9 +15,11 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mraikero-01&icon=5&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=MrA1k3r0&icon=5&color=0)](https://visitcount.itsvg.in)
+![](https://hit.yhype.me/github/profile?user_id=61144642)
 
   ## 💰 You can help me by Donating
   [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/saikidesudev_) 
+  
 
   
