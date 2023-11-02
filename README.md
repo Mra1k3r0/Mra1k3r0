@@ -15,6 +15,11 @@
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
+### 🌸 My recent AniList activity
+
+<!-- ANILIST_ACTIVITY:start -->
+
+<!-- ANILIST_ACTIVITY:end -->
 ---
 [![](https://visitcount.itsvg.in/api?id=MrA1k3r0&icon=5&color=0)](https://visitcount.itsvg.in)
 ![](https://hit.yhype.me/github/profile?user_id=61144642)
