@@ -1,4 +1,4 @@
-## 🌐 Socials:
+9## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/johnpaul.caigas001) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tzudaki_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/john-paul-caigas-48948123a) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/saikidesudev) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Dangerous-Swimmer-90) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@johnpaulcaigas) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/saikidesu_dev) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@MrAik3ro) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/mra1k3r0)
 
 # 💻 Tech Stack:
@@ -18,12 +18,6 @@
 ### 🌸 My recent AniList activity
 
 <!-- ANILIST_ACTIVITY:start -->
-
--   📖 Read chapter 3 - 4 of [How to Use a Returner](https://anilist.co/manga/141007) (17:45 02 November 2023)
--   📺 Completed [The Rising of the Shield Hero Season 2](https://anilist.co/anime/111321) (12:22 26 October 2023)
--   📺 Watched episode 1 - 12 of [The Rising of the Shield Hero Season 2](https://anilist.co/anime/111321) (12:00 26 October 2023)
--   📺 Completed [The Rising of the Shield Hero](https://anilist.co/anime/99263) (06:09 26 October 2023)
--   📺 Watched episode 1 of [The Rising of the Shield Hero](https://anilist.co/anime/99263) (06:07 26 October 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
