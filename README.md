@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 26 - 28 of [Bupaeui Saje](https://anilist.co/manga/167165) (09:04 05 November 2023)
 -   📺 Watched episode 3 - 5 of [The Eminence in Shadow Season 2](https://anilist.co/anime/161964) (18:35 03 November 2023)
 -   📖 Read chapter 3 - 4 of [How to Use a Returner](https://anilist.co/manga/141007) (17:45 02 November 2023)
 -   📺 Completed [The Rising of the Shield Hero Season 2](https://anilist.co/anime/111321) (12:22 26 October 2023)
 -   📺 Watched episode 1 - 12 of [The Rising of the Shield Hero Season 2](https://anilist.co/anime/111321) (12:00 26 October 2023)
--   📺 Completed [The Rising of the Shield Hero](https://anilist.co/anime/99263) (06:09 26 October 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
