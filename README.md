@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 49 of [I Was the Final Boss](https://anilist.co/manga/159385) (09:27 05 November 2023)
+-   📖 Read chapter 49 - 51 of [I Was the Final Boss](https://anilist.co/manga/159385) (11:07 05 November 2023)
 -   📖 Read chapter 26 - 28 of [Bupaeui Saje](https://anilist.co/manga/167165) (09:04 05 November 2023)
 -   📺 Watched episode 3 - 5 of [The Eminence in Shadow Season 2](https://anilist.co/anime/161964) (18:35 03 November 2023)
 -   📖 Read chapter 3 - 4 of [How to Use a Returner](https://anilist.co/manga/141007) (17:45 02 November 2023)
