@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 75 of [The Novel's Extra](https://anilist.co/manga/152128) (00:48 06 November 2023)
 -   📖 Read chapter 48 - 50 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (17:27 05 November 2023)
 -   📖 Read chapter 49 - 52 of [I Was the Final Boss](https://anilist.co/manga/159385) (11:13 05 November 2023)
 -   📖 Read chapter 26 - 28 of [Bupaeui Saje](https://anilist.co/manga/167165) (09:04 05 November 2023)
 -   📺 Watched episode 3 - 5 of [The Eminence in Shadow Season 2](https://anilist.co/anime/161964) (18:35 03 November 2023)
--   📖 Read chapter 3 - 4 of [How to Use a Returner](https://anilist.co/manga/141007) (17:45 02 November 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
