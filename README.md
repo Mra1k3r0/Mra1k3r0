@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 75 of [The Novel's Extra](https://anilist.co/manga/152128) (00:48 06 November 2023)
+-   📖 Read chapter 75 - 77 of [The Novel's Extra](https://anilist.co/manga/152128) (03:32 06 November 2023)
 -   📖 Read chapter 48 - 50 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (17:27 05 November 2023)
 -   📖 Read chapter 49 - 52 of [I Was the Final Boss](https://anilist.co/manga/159385) (11:13 05 November 2023)
 -   📖 Read chapter 26 - 28 of [Bupaeui Saje](https://anilist.co/manga/167165) (09:04 05 November 2023)
