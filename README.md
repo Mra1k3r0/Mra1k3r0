@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 8 of [How to Use a Returner](https://anilist.co/manga/141007) (12:08 06 November 2023)
--   📖 Read chapter 124 - 125 of [I’m the Max-Level Newbie](https://anilist.co/manga/137280) (12:08 06 November 2023)
--   📖 Read chapter 75 - 81 of [The Novel's Extra](https://anilist.co/manga/152128) (06:36 06 November 2023)
--   📖 Read chapter 48 - 50 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (17:27 05 November 2023)
--   📖 Read chapter 49 - 52 of [I Was the Final Boss](https://anilist.co/manga/159385) (11:13 05 November 2023)
+-   📺 Watched episode 1 - 5 of [The Eminence in Shadow Season 2](https://anilist.co/anime/161964) (12:12 10 November 2023)
+-   📺 Completed [Black Clover](https://anilist.co/anime/97940) (12:09 10 November 2023)
+-   📺 Completed [Overlord III](https://anilist.co/anime/101474) (12:09 10 November 2023)
+-   📺 Completed [Overlord II](https://anilist.co/anime/98437) (12:09 10 November 2023)
+-   📺 Completed [The Rising of the Shield Hero Season 2](https://anilist.co/anime/111321) (12:08 10 November 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
