@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 5 of [The Eminence in Shadow Season 2](https://anilist.co/anime/161964) (12:12 10 November 2023)
+-   📺 Watched episode 1 - 6 of [The Eminence in Shadow Season 2](https://anilist.co/anime/161964) (15:38 10 November 2023)
 -   📺 Completed [Black Clover](https://anilist.co/anime/97940) (12:09 10 November 2023)
 -   📺 Completed [Overlord III](https://anilist.co/anime/101474) (12:09 10 November 2023)
 -   📺 Completed [Overlord II](https://anilist.co/anime/98437) (12:09 10 November 2023)
