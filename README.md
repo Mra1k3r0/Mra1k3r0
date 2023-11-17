@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 53 - 54 of [Becoming a Magic School Mage](https://anilist.co/manga/159397) (16:56 16 November 2023)
+-   📖 Read chapter 53 - 57 of [Becoming a Magic School Mage](https://anilist.co/manga/159397) (04:56 17 November 2023)
 -   📖 Read chapter 183 of [Omniscient Reader](https://anilist.co/manga/119257) (19:42 15 November 2023)
 -   📖 Read chapter 98 of [The Swordmaster's Son](https://anilist.co/manga/149332) (03:16 14 November 2023)
 -   📖 Read chapter 95 of [The Swordmaster's Son](https://anilist.co/manga/149332) (05:12 13 November 2023)
