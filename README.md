@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 99 of [The Swordmaster's Son](https://anilist.co/manga/149332) (16:59 18 November 2023)
 -   📖 Read chapter 70 - 73 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (18:26 17 November 2023)
 -   📖 Read chapter 62 of [The Reaper](https://anilist.co/manga/153432) (16:38 17 November 2023)
 -   📖 Read chapter 53 - 57 of [Becoming a Magic School Mage](https://anilist.co/manga/159397) (04:56 17 November 2023)
 -   📖 Read chapter 183 of [Omniscient Reader](https://anilist.co/manga/119257) (19:42 15 November 2023)
--   📖 Read chapter 98 of [The Swordmaster's Son](https://anilist.co/manga/149332) (03:16 14 November 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
