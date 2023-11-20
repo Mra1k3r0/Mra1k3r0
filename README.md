@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 59 - 63 of [Becoming a Magic School Mage](https://anilist.co/manga/159397) (11:06 20 November 2023)
+-   📖 Read chapter 59 - 65 of [Becoming a Magic School Mage](https://anilist.co/manga/159397) (11:21 20 November 2023)
 -   📖 Plans to read [Ah Dai is a Yes-Man](https://anilist.co/manga/86666) (07:27 20 November 2023)
 -   📖 Read chapter 58 of [Becoming a Magic School Mage](https://anilist.co/manga/159397) (17:58 19 November 2023)
 -   📖 Read chapter 99 of [The Swordmaster's Son](https://anilist.co/manga/149332) (16:59 18 November 2023)
