@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Ah Dai is a Yes-Man](https://anilist.co/manga/86666) (07:27 20 November 2023)
 -   📖 Read chapter 58 of [Becoming a Magic School Mage](https://anilist.co/manga/159397) (17:58 19 November 2023)
 -   📖 Read chapter 99 of [The Swordmaster's Son](https://anilist.co/manga/149332) (16:59 18 November 2023)
 -   📖 Read chapter 70 - 73 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (18:26 17 November 2023)
 -   📖 Read chapter 62 of [The Reaper](https://anilist.co/manga/153432) (16:38 17 November 2023)
--   📖 Read chapter 53 - 57 of [Becoming a Magic School Mage](https://anilist.co/manga/159397) (04:56 17 November 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
