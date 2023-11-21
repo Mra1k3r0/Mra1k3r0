@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 11 of [2 Level Hoegwihan Musin](https://anilist.co/manga/167834) (10:07 21 November 2023)
+-   📖 Read chapter 1 - 12 of [2 Level Hoegwihan Musin](https://anilist.co/manga/167834) (12:48 21 November 2023)
 -   📖 Plans to read [2 Level Hoegwihan Musin](https://anilist.co/manga/167834) (03:19 21 November 2023)
 -   📖 Read chapter 59 - 67 of [Becoming a Magic School Mage](https://anilist.co/manga/159397) (13:12 20 November 2023)
 -   📖 Plans to read [Ah Dai is a Yes-Man](https://anilist.co/manga/86666) (07:27 20 November 2023)
