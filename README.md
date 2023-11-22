@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 32 - 34 of [2 Level Hoegwihan Musin](https://anilist.co/manga/167834) (05:13 22 November 2023)
+-   📖 Read chapter 24 - 28 of [The Player Hides His Past](https://anilist.co/manga/166154) (06:17 22 November 2023)
+-   📖 Read chapter 32 - 36 of [2 Level Hoegwihan Musin](https://anilist.co/manga/167834) (05:22 22 November 2023)
 -   📖 Read chapter 1 - 31 of [2 Level Hoegwihan Musin](https://anilist.co/manga/167834) (16:20 21 November 2023)
 -   📖 Plans to read [2 Level Hoegwihan Musin](https://anilist.co/manga/167834) (03:19 21 November 2023)
 -   📖 Read chapter 59 - 67 of [Becoming a Magic School Mage](https://anilist.co/manga/159397) (13:12 20 November 2023)
--   📖 Plans to read [Ah Dai is a Yes-Man](https://anilist.co/manga/86666) (07:27 20 November 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
