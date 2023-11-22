@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 24 - 28 of [The Player Hides His Past](https://anilist.co/manga/166154) (06:17 22 November 2023)
+-   📖 Read chapter 24 - 30 of [The Player Hides His Past](https://anilist.co/manga/166154) (06:31 22 November 2023)
 -   📖 Read chapter 32 - 36 of [2 Level Hoegwihan Musin](https://anilist.co/manga/167834) (05:22 22 November 2023)
 -   📖 Read chapter 1 - 31 of [2 Level Hoegwihan Musin](https://anilist.co/manga/167834) (16:20 21 November 2023)
 -   📖 Plans to read [2 Level Hoegwihan Musin](https://anilist.co/manga/167834) (03:19 21 November 2023)
