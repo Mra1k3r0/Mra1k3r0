@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 160 - 165 of [Nano Machine](https://anilist.co/manga/120980) (19:51 28 November 2023)
 -   📖 Read chapter 84 of [The Novel's Extra](https://anilist.co/manga/152128) (08:42 27 November 2023)
 -   📖 Read chapter 1 of [Ah Dai is a Yes-Man](https://anilist.co/manga/86666) (17:42 25 November 2023)
 -   📖 Read chapter 63 of [The Reaper](https://anilist.co/manga/153432) (09:55 23 November 2023)
 -   📖 Read chapter 16 - 26 of [Reborn as the Enemy Prince](https://anilist.co/manga/169135) (08:58 23 November 2023)
--   📖 Read chapter 184 - 185 of [Omniscient Reader](https://anilist.co/manga/119257) (07:01 23 November 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
