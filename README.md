@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 31 of [The Player Hides His Past](https://anilist.co/manga/166154) (15:21 03 December 2023)
 -   📖 Read chapter 160 - 181 of [Nano Machine](https://anilist.co/manga/120980) (09:15 29 November 2023)
 -   📖 Read chapter 160 - 178 of [Nano Machine](https://anilist.co/manga/120980) (08:59 29 November 2023)
 -   📖 Read chapter 84 of [The Novel's Extra](https://anilist.co/manga/152128) (08:42 27 November 2023)
 -   📖 Read chapter 1 of [Ah Dai is a Yes-Man](https://anilist.co/manga/86666) (17:42 25 November 2023)
--   📖 Read chapter 63 of [The Reaper](https://anilist.co/manga/153432) (09:55 23 November 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
