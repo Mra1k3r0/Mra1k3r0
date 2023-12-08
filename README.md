@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 34 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (04:24 08 December 2023)
+-   📖 Read chapter 107 of [I’m Really Not the Devil’s Lackey](https://anilist.co/manga/139741) (04:23 08 December 2023)
 -   📖 Read chapter 182 of [Nano Machine](https://anilist.co/manga/120980) (02:02 06 December 2023)
 -   📖 Read chapter 75 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (01:44 06 December 2023)
 -   📖 Read chapter 3 - 12 of [Ah Dai is a Yes-Man](https://anilist.co/manga/86666) (03:28 05 December 2023)
--   📖 Read chapter 31 of [The Player Hides His Past](https://anilist.co/manga/166154) (15:21 03 December 2023)
--   📖 Read chapter 160 - 181 of [Nano Machine](https://anilist.co/manga/120980) (09:15 29 November 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
