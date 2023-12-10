@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 60 - 69 of [Pick Me Up!](https://anilist.co/manga/159441) (08:20 10 December 2023)
+-   📖 Read chapter 21 of [+99 Reinforced Wooden Stick](https://anilist.co/manga/147102) (09:44 10 December 2023)
+-   📖 Read chapter 333 of [Black Clover](https://anilist.co/manga/86123) (09:43 10 December 2023)
+-   📖 Read chapter 60 - 71 of [Pick Me Up!](https://anilist.co/manga/159441) (09:21 10 December 2023)
 -   📖 Read chapter 59 of [Pick Me Up!](https://anilist.co/manga/159441) (11:44 09 December 2023)
 -   📖 Read chapter 35 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (18:13 08 December 2023)
--   📖 Read chapter 108 of [I’m Really Not the Devil’s Lackey](https://anilist.co/manga/139741) (18:07 08 December 2023)
--   📖 Read chapter 34 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (04:24 08 December 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
