@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 60 - 63 of [Pick Me Up!](https://anilist.co/manga/159441) (07:07 10 December 2023)
+-   📖 Read chapter 60 - 68 of [Pick Me Up!](https://anilist.co/manga/159441) (07:52 10 December 2023)
 -   📖 Read chapter 59 of [Pick Me Up!](https://anilist.co/manga/159441) (11:44 09 December 2023)
 -   📖 Read chapter 35 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (18:13 08 December 2023)
 -   📖 Read chapter 108 of [I’m Really Not the Devil’s Lackey](https://anilist.co/manga/139741) (18:07 08 December 2023)
