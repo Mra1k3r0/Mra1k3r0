@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 7 of [The Eminence in Shadow Season 2](https://anilist.co/anime/161964) (07:01 11 December 2023)
 -   📖 Read chapter 21 of [+99 Reinforced Wooden Stick](https://anilist.co/manga/147102) (09:44 10 December 2023)
 -   📖 Read chapter 333 of [Black Clover](https://anilist.co/manga/86123) (09:43 10 December 2023)
 -   📖 Read chapter 60 - 71 of [Pick Me Up!](https://anilist.co/manga/159441) (09:21 10 December 2023)
 -   📖 Read chapter 59 of [Pick Me Up!](https://anilist.co/manga/159441) (11:44 09 December 2023)
--   📖 Read chapter 35 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (18:13 08 December 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
