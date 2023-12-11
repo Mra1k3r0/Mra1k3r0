@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 5 of [Berserk of Gluttony](https://anilist.co/anime/156039) (12:13 11 December 2023)
+-   📺 Watched episode 1 - 7 of [Berserk of Gluttony](https://anilist.co/anime/156039) (12:59 11 December 2023)
 -   📺 Watched episode 7 - 10 of [The Eminence in Shadow Season 2](https://anilist.co/anime/161964) (08:26 11 December 2023)
 -   📖 Read chapter 21 of [+99 Reinforced Wooden Stick](https://anilist.co/manga/147102) (09:44 10 December 2023)
 -   📖 Read chapter 333 of [Black Clover](https://anilist.co/manga/86123) (09:43 10 December 2023)
