@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 126 of [I’m the Max-Level Newbie](https://anilist.co/manga/137280) (01:53 12 December 2023)
+-   📖 Read chapter 186 - 187 of [Omniscient Reader](https://anilist.co/manga/119257) (01:41 12 December 2023)
 -   📺 Watched episode 1 - 11 of [Berserk of Gluttony](https://anilist.co/anime/156039) (15:26 11 December 2023)
 -   📺 Watched episode 7 - 10 of [The Eminence in Shadow Season 2](https://anilist.co/anime/161964) (08:26 11 December 2023)
 -   📖 Read chapter 21 of [+99 Reinforced Wooden Stick](https://anilist.co/manga/147102) (09:44 10 December 2023)
--   📖 Read chapter 333 of [Black Clover](https://anilist.co/manga/86123) (09:43 10 December 2023)
--   📖 Read chapter 60 - 71 of [Pick Me Up!](https://anilist.co/manga/159441) (09:21 10 December 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
