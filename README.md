@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 188 of [Omniscient Reader](https://anilist.co/manga/119257) (05:27 13 December 2023)
+-   📖 Read chapter 76 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (05:24 13 December 2023)
 -   📖 Read chapter 51 - 55 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (05:19 12 December 2023)
 -   📖 Read chapter 126 - 130 of [I’m the Max-Level Newbie](https://anilist.co/manga/137280) (03:40 12 December 2023)
 -   📖 Read chapter 186 - 187 of [Omniscient Reader](https://anilist.co/manga/119257) (01:41 12 December 2023)
--   📺 Watched episode 1 - 11 of [Berserk of Gluttony](https://anilist.co/anime/156039) (15:26 11 December 2023)
--   📺 Watched episode 7 - 10 of [The Eminence in Shadow Season 2](https://anilist.co/anime/161964) (08:26 11 December 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
