@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 2 of [Grand Blue Dreaming](https://anilist.co/anime/100922) (14:14 14 December 2023)
 -   📖 Read chapter 188 of [Omniscient Reader](https://anilist.co/manga/119257) (05:27 13 December 2023)
 -   📖 Read chapter 76 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (05:24 13 December 2023)
 -   📖 Read chapter 51 - 55 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (05:19 12 December 2023)
 -   📖 Read chapter 126 - 130 of [I’m the Max-Level Newbie](https://anilist.co/manga/137280) (03:40 12 December 2023)
--   📖 Read chapter 186 - 187 of [Omniscient Reader](https://anilist.co/manga/119257) (01:41 12 December 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
