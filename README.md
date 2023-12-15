@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 14 - 23 of [Eoneunal Gapjagi Seoul-eun](https://anilist.co/manga/140908) (08:51 15 December 2023)
+-   📖 Read chapter 14 - 28 of [Eoneunal Gapjagi Seoul-eun](https://anilist.co/manga/140908) (09:46 15 December 2023)
 -   📖 Read chapter 72 of [Pick Me Up!](https://anilist.co/manga/159441) (01:29 15 December 2023)
 -   📖 Read chapter 183 - 184 of [Nano Machine](https://anilist.co/manga/120980) (01:24 15 December 2023)
 -   📖 Read chapter 77 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (01:14 15 December 2023)
