@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 89 - 90 of [Eoneunal Gapjagi Seoul-eun](https://anilist.co/manga/140908) (04:05 17 December 2023)
 -   📖 Read chapter 14 - 88 of [Eoneunal Gapjagi Seoul-eun](https://anilist.co/manga/140908) (06:09 16 December 2023)
 -   📖 Read chapter 72 of [Pick Me Up!](https://anilist.co/manga/159441) (01:29 15 December 2023)
 -   📖 Read chapter 183 - 184 of [Nano Machine](https://anilist.co/manga/120980) (01:24 15 December 2023)
 -   📖 Read chapter 77 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (01:14 15 December 2023)
--   📺 Watched episode 1 - 6 of [Grand Blue Dreaming](https://anilist.co/anime/100922) (17:19 14 December 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
