@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 7 - 11 of [Grand Blue Dreaming](https://anilist.co/anime/100922) (05:57 22 December 2023)
+-   📺 Watched episode 7 - 12 of [Grand Blue Dreaming](https://anilist.co/anime/100922) (06:21 22 December 2023)
 -   📺 Watched episode 12 of [The Eminence in Shadow Season 2](https://anilist.co/anime/161964) (19:16 21 December 2023)
 -   📖 Read chapter 56 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (09:56 20 December 2023)
 -   📖 Read chapter 189 of [Omniscient Reader](https://anilist.co/manga/119257) (08:52 20 December 2023)
