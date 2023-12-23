@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 4 of [One-Punch Man Season 2](https://anilist.co/anime/97668) (09:47 23 December 2023)
+-   📺 Watched episode 1 - 5 of [One-Punch Man Season 2](https://anilist.co/anime/97668) (11:02 23 December 2023)
 -   📺 Completed [One-Punch Man OVA](https://anilist.co/anime/21416) (07:44 23 December 2023)
 -   📺 Watched episode 1 - 5 of [One-Punch Man OVA](https://anilist.co/anime/21416) (07:33 23 December 2023)
 -   📺 Completed [One-Punch Man](https://anilist.co/anime/21087) (14:47 22 December 2023)
