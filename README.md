@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 82 of [Shijou Saikyou no Mahou Kenshi, F Rank Boukensha ni Tensei Suru: Kensei to Matei, 2-tsu no Zense wo Motta Otoko no Eiyuutan](https://anilist.co/manga/113987) (08:34 24 December 2023)
 -   📺 Completed [One-Punch Man Season 2](https://anilist.co/anime/97668) (13:51 23 December 2023)
 -   📺 Watched episode 1 - 11 of [One-Punch Man Season 2](https://anilist.co/anime/97668) (13:28 23 December 2023)
 -   📺 Completed [One-Punch Man OVA](https://anilist.co/anime/21416) (07:44 23 December 2023)
 -   📺 Watched episode 1 - 5 of [One-Punch Man OVA](https://anilist.co/anime/21416) (07:33 23 December 2023)
--   📺 Completed [One-Punch Man](https://anilist.co/anime/21087) (14:47 22 December 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
