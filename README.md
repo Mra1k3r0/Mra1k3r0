@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 3 of [Usogui](https://anilist.co/manga/39982) (16:58 26 December 2023)
+-   📖 Read chapter 1 - 4 of [Usogui](https://anilist.co/manga/39982) (17:05 26 December 2023)
 -   📺 Completed [The Kingdoms of Ruin](https://anilist.co/anime/160900) (08:59 26 December 2023)
 -   📺 Watched episode 1 - 11 of [The Kingdoms of Ruin](https://anilist.co/anime/160900) (08:37 26 December 2023)
 -   📖 Plans to read [Usogui](https://anilist.co/manga/39982) (14:20 25 December 2023)
