@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 2 of [The Kingdoms of Ruin](https://anilist.co/anime/160900) (05:06 26 December 2023)
+-   📺 Watched episode 1 - 4 of [The Kingdoms of Ruin](https://anilist.co/anime/160900) (05:50 26 December 2023)
 -   📖 Plans to read [Usogui](https://anilist.co/manga/39982) (14:20 25 December 2023)
 -   📖 Read chapter 57 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (14:35 24 December 2023)
 -   📖 Read chapter 78 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (14:25 24 December 2023)
