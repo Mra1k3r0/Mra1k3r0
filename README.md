@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 185 of [Nano Machine](https://anilist.co/manga/120980) (04:21 31 December 2023)
+-   📖 Read chapter 109 of [I’m Really Not the Devil’s Lackey](https://anilist.co/manga/139741) (05:45 31 December 2023)
+-   📖 Read chapter 58 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (05:24 31 December 2023)
+-   📖 Read chapter 185 - 186 of [Nano Machine](https://anilist.co/manga/120980) (05:17 31 December 2023)
 -   📖 Read chapter 190 of [Omniscient Reader](https://anilist.co/manga/119257) (03:05 31 December 2023)
 -   📖 Read chapter 79 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (02:52 31 December 2023)
--   📖 Read chapter 1 - 10 of [Usogui](https://anilist.co/manga/39982) (02:28 27 December 2023)
--   📺 Completed [The Kingdoms of Ruin](https://anilist.co/anime/160900) (08:59 26 December 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
