@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 190 of [Omniscient Reader](https://anilist.co/manga/119257) (03:05 31 December 2023)
+-   📖 Read chapter 79 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (02:52 31 December 2023)
 -   📖 Read chapter 1 - 10 of [Usogui](https://anilist.co/manga/39982) (02:28 27 December 2023)
 -   📺 Completed [The Kingdoms of Ruin](https://anilist.co/anime/160900) (08:59 26 December 2023)
 -   📺 Watched episode 1 - 11 of [The Kingdoms of Ruin](https://anilist.co/anime/160900) (08:37 26 December 2023)
--   📖 Plans to read [Usogui](https://anilist.co/manga/39982) (14:20 25 December 2023)
--   📖 Read chapter 57 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (14:35 24 December 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
