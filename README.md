@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 85 - 98 of [I Am The Fated Villain](https://anilist.co/manga/142287) (07:59 04 January 2024)
+-   📖 Read chapter 85 - 99 of [I Am The Fated Villain](https://anilist.co/manga/142287) (08:14 04 January 2024)
 -   📖 Read chapter 84 of [I Am The Fated Villain](https://anilist.co/manga/142287) (08:54 31 December 2023)
 -   📖 Read chapter 109 - 110 of [I’m Really Not the Devil’s Lackey](https://anilist.co/manga/139741) (06:39 31 December 2023)
 -   📖 Read chapter 58 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (05:24 31 December 2023)
