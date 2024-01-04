@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 85 - 87 of [I Am The Fated Villain](https://anilist.co/manga/142287) (06:08 04 January 2024)
 -   📖 Read chapter 84 of [I Am The Fated Villain](https://anilist.co/manga/142287) (08:54 31 December 2023)
 -   📖 Read chapter 109 - 110 of [I’m Really Not the Devil’s Lackey](https://anilist.co/manga/139741) (06:39 31 December 2023)
 -   📖 Read chapter 58 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (05:24 31 December 2023)
 -   📖 Read chapter 185 - 186 of [Nano Machine](https://anilist.co/manga/120980) (05:17 31 December 2023)
--   📖 Read chapter 190 of [Omniscient Reader](https://anilist.co/manga/119257) (03:05 31 December 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
