@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 100 - 101 of [I Am The Fated Villain](https://anilist.co/manga/142287) (08:29 05 January 2024)
+-   📖 Read chapter 100 - 104 of [I Am The Fated Villain](https://anilist.co/manga/142287) (19:01 05 January 2024)
 -   📖 Read chapter 64 - 69 of [The Reaper](https://anilist.co/manga/153432) (07:19 05 January 2024)
 -   📖 Read chapter 85 - 99 of [I Am The Fated Villain](https://anilist.co/manga/142287) (08:14 04 January 2024)
 -   📖 Read chapter 84 of [I Am The Fated Villain](https://anilist.co/manga/142287) (08:54 31 December 2023)
