@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 47 - 96 of [Descended from Divinity](https://anilist.co/manga/136204) (06:55 14 January 2024)
+-   📖 Read chapter 47 - 102 of [Descended from Divinity](https://anilist.co/manga/136204) (07:48 14 January 2024)
 -   📖 Read chapter 100 - 106 of [I Am The Fated Villain](https://anilist.co/manga/142287) (19:14 05 January 2024)
 -   📖 Read chapter 64 - 69 of [The Reaper](https://anilist.co/manga/153432) (07:19 05 January 2024)
 -   📖 Read chapter 85 - 99 of [I Am The Fated Villain](https://anilist.co/manga/142287) (08:14 04 January 2024)
