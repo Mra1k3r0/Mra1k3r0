@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 37 of [The Player Hides His Past](https://anilist.co/manga/166154) (00:56 17 January 2024)
 -   📖 Read chapter 32 - 36 of [The Player Hides His Past](https://anilist.co/manga/166154) (11:21 16 January 2024)
 -   📖 Read chapter 32 - 39 of [Cleric of Decay](https://anilist.co/manga/167165) (07:14 16 January 2024)
 -   📖 Read chapter 30 - 31 of [Cleric of Decay](https://anilist.co/manga/167165) (11:32 15 January 2024)
 -   📖 Read chapter 47 - 102 of [Descended from Divinity](https://anilist.co/manga/136204) (07:48 14 January 2024)
--   📖 Read chapter 100 - 106 of [I Am The Fated Villain](https://anilist.co/manga/142287) (19:14 05 January 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
