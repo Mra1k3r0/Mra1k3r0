@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 of [Solo Leveling](https://anilist.co/anime/151807) (15:36 20 January 2024)
+-   📺 Watched episode 1 - 2 of [Solo Leveling](https://anilist.co/anime/151807) (17:25 20 January 2024)
 -   📖 Read chapter 61 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (04:31 18 January 2024)
 -   📖 Read chapter 59 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (03:47 17 January 2024)
 -   📖 Read chapter 187 - 188 of [Nano Machine](https://anilist.co/manga/120980) (02:21 17 January 2024)
