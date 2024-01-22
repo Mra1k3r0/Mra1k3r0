@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 80 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (04:06 22 January 2024)
+-   📖 Read chapter 62 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (03:49 22 January 2024)
 -   📺 Watched episode 1 - 2 of [Solo Leveling](https://anilist.co/anime/151807) (17:25 20 January 2024)
 -   📖 Read chapter 61 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (04:31 18 January 2024)
 -   📖 Read chapter 59 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (03:47 17 January 2024)
--   📖 Read chapter 187 - 188 of [Nano Machine](https://anilist.co/manga/120980) (02:21 17 January 2024)
--   📖 Read chapter 37 of [The Player Hides His Past](https://anilist.co/manga/166154) (00:56 17 January 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
