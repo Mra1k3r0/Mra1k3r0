@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 69 of [Becoming a Magic School Mage](https://anilist.co/manga/159397) (09:48 22 January 2024)
 -   📖 Read chapter 38 of [The Player Hides His Past](https://anilist.co/manga/166154) (07:08 22 January 2024)
 -   📖 Read chapter 80 - 81 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (04:10 22 January 2024)
 -   📖 Read chapter 62 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (03:49 22 January 2024)
 -   📺 Watched episode 1 - 2 of [Solo Leveling](https://anilist.co/anime/151807) (17:25 20 January 2024)
--   📖 Read chapter 61 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (04:31 18 January 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
