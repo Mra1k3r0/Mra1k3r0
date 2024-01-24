@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 9 of [Gwihwanhaenneunde Ipdae Jeonnarida](https://anilist.co/manga/164122) (07:19 24 January 2024)
 -   📖 Read chapter 1 - 8 of [Gwihwanhaenneunde Ipdae Jeonnarida](https://anilist.co/manga/164122) (14:05 23 January 2024)
 -   📖 Read chapter 69 - 76 of [Becoming a Magic School Mage](https://anilist.co/manga/159397) (19:05 22 January 2024)
 -   📖 Read chapter 38 of [The Player Hides His Past](https://anilist.co/manga/166154) (07:08 22 January 2024)
 -   📖 Read chapter 80 - 81 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (04:10 22 January 2024)
--   📖 Read chapter 62 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (03:49 22 January 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
