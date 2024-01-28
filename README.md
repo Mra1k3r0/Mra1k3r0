@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 31 - 42 of [Gwihwanhaenneunde Ipdae Jeonnarida](https://anilist.co/manga/164122) (18:03 28 January 2024)
+-   📖 Read chapter 31 - 50 of [Gwihwanhaenneunde Ipdae Jeonnarida](https://anilist.co/manga/164122) (18:44 28 January 2024)
 -   📖 Read chapter 19 - 30 of [Gwihwanhaenneunde Ipdae Jeonnarida](https://anilist.co/manga/164122) (18:48 27 January 2024)
 -   📖 Read chapter 12 - 18 of [Gwihwanhaenneunde Ipdae Jeonnarida](https://anilist.co/manga/164122) (14:14 26 January 2024)
 -   📖 Read chapter 9 - 11 of [Gwihwanhaenneunde Ipdae Jeonnarida](https://anilist.co/manga/164122) (11:38 24 January 2024)
