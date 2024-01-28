@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 31 - 36 of [Gwihwanhaenneunde Ipdae Jeonnarida](https://anilist.co/manga/164122) (09:04 28 January 2024)
 -   📖 Read chapter 19 - 30 of [Gwihwanhaenneunde Ipdae Jeonnarida](https://anilist.co/manga/164122) (18:48 27 January 2024)
 -   📖 Read chapter 12 - 18 of [Gwihwanhaenneunde Ipdae Jeonnarida](https://anilist.co/manga/164122) (14:14 26 January 2024)
 -   📖 Read chapter 9 - 11 of [Gwihwanhaenneunde Ipdae Jeonnarida](https://anilist.co/manga/164122) (11:38 24 January 2024)
 -   📖 Read chapter 1 - 8 of [Gwihwanhaenneunde Ipdae Jeonnarida](https://anilist.co/manga/164122) (14:05 23 January 2024)
--   📖 Read chapter 69 - 76 of [Becoming a Magic School Mage](https://anilist.co/manga/159397) (19:05 22 January 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
