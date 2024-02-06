@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 64 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (03:07 06 February 2024)
 -   📖 Read chapter 66 - 67 of [After Ten Millennia in Hell](https://anilist.co/manga/153284) (19:02 29 January 2024)
 -   📖 Read chapter 63 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (07:50 29 January 2024)
 -   📖 Read chapter 31 - 50 of [Gwihwanhaenneunde Ipdae Jeonnarida](https://anilist.co/manga/164122) (18:44 28 January 2024)
 -   📖 Read chapter 19 - 30 of [Gwihwanhaenneunde Ipdae Jeonnarida](https://anilist.co/manga/164122) (18:48 27 January 2024)
--   📖 Read chapter 12 - 18 of [Gwihwanhaenneunde Ipdae Jeonnarida](https://anilist.co/manga/164122) (14:14 26 January 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
