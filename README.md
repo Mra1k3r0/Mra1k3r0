@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 83 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (15:51 11 February 2024)
+-   📖 Read chapter 83 - 85 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (16:18 11 February 2024)
 -   📖 Read chapter 64 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (03:07 06 February 2024)
 -   📖 Read chapter 66 - 67 of [After Ten Millennia in Hell](https://anilist.co/manga/153284) (19:02 29 January 2024)
 -   📖 Read chapter 63 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (07:50 29 January 2024)
