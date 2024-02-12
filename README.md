@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 85 - 86 of [The Novel's Extra](https://anilist.co/manga/152128) (04:50 12 February 2024)
+-   📖 Read chapter 85 - 90 of [The Novel's Extra](https://anilist.co/manga/152128) (08:34 12 February 2024)
 -   📖 Read chapter 68 - 69 of [After Ten Millennia in Hell](https://anilist.co/manga/153284) (19:06 11 February 2024)
 -   📖 Read chapter 103 - 107 of [Descended from Divinity](https://anilist.co/manga/136204) (18:56 11 February 2024)
 -   📖 Read chapter 189 - 192 of [Nano Machine](https://anilist.co/manga/120980) (18:26 11 February 2024)
