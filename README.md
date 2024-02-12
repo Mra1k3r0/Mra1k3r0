@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 85 - 86 of [The Novel's Extra](https://anilist.co/manga/152128) (04:50 12 February 2024)
 -   📖 Read chapter 68 - 69 of [After Ten Millennia in Hell](https://anilist.co/manga/153284) (19:06 11 February 2024)
 -   📖 Read chapter 103 - 107 of [Descended from Divinity](https://anilist.co/manga/136204) (18:56 11 February 2024)
 -   📖 Read chapter 189 - 192 of [Nano Machine](https://anilist.co/manga/120980) (18:26 11 February 2024)
 -   📖 Read chapter 65 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (17:52 11 February 2024)
--   📖 Read chapter 83 - 85 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (16:18 11 February 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
