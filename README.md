@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 53 of [I Was the Final Boss](https://anilist.co/manga/159385) (18:01 17 February 2024)
+-   📖 Read chapter 193 of [Nano Machine](https://anilist.co/manga/120980) (17:40 17 February 2024)
 -   📖 Read chapter 96 of [The Novel's Extra](https://anilist.co/manga/152128) (20:16 13 February 2024)
 -   📖 Read chapter 108 of [Descended from Divinity](https://anilist.co/manga/136204) (20:09 13 February 2024)
 -   📖 Read chapter 85 - 95 of [The Novel's Extra](https://anilist.co/manga/152128) (15:38 12 February 2024)
--   📖 Read chapter 68 - 69 of [After Ten Millennia in Hell](https://anilist.co/manga/153284) (19:06 11 February 2024)
--   📖 Read chapter 103 - 107 of [Descended from Divinity](https://anilist.co/manga/136204) (18:56 11 February 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
