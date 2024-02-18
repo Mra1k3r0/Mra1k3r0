@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 71 of [Boundless Ascension](https://anilist.co/manga/159439) (18:01 18 February 2024)
+-   📖 Read chapter 67 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (17:42 18 February 2024)
 -   📖 Read chapter 53 - 63 of [I Was the Final Boss](https://anilist.co/manga/159385) (08:37 18 February 2024)
 -   📖 Read chapter 193 of [Nano Machine](https://anilist.co/manga/120980) (17:40 17 February 2024)
 -   📖 Read chapter 96 of [The Novel's Extra](https://anilist.co/manga/152128) (20:16 13 February 2024)
--   📖 Read chapter 108 of [Descended from Divinity](https://anilist.co/manga/136204) (20:09 13 February 2024)
--   📖 Read chapter 85 - 95 of [The Novel's Extra](https://anilist.co/manga/152128) (15:38 12 February 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
