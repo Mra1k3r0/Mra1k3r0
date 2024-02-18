@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 53 - 55 of [I Was the Final Boss](https://anilist.co/manga/159385) (19:50 17 February 2024)
+-   📖 Read chapter 53 - 61 of [I Was the Final Boss](https://anilist.co/manga/159385) (08:03 18 February 2024)
 -   📖 Read chapter 193 of [Nano Machine](https://anilist.co/manga/120980) (17:40 17 February 2024)
 -   📖 Read chapter 96 of [The Novel's Extra](https://anilist.co/manga/152128) (20:16 13 February 2024)
 -   📖 Read chapter 108 of [Descended from Divinity](https://anilist.co/manga/136204) (20:09 13 February 2024)
