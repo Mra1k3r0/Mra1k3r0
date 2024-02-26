@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 113 - 114 of [I’m Really Not the Devil’s Lackey](https://anilist.co/manga/139741) (04:00 26 February 2024)
 -   📖 Read chapter 111 - 112 of [I’m Really Not the Devil’s Lackey](https://anilist.co/manga/139741) (20:41 24 February 2024)
 -   📖 Read chapter 86 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (20:11 24 February 2024)
 -   📖 Read chapter 194 of [Nano Machine](https://anilist.co/manga/120980) (04:36 23 February 2024)
 -   📖 Read chapter 71 of [Boundless Ascension](https://anilist.co/manga/159439) (18:01 18 February 2024)
--   📖 Read chapter 67 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (17:42 18 February 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
