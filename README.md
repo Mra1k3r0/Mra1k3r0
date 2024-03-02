@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 2 of [Classroom of the Elite Season 3](https://anilist.co/anime/146066) (06:18 02 March 2024)
+-   📺 Watched episode 2 - 5 of [Classroom of the Elite Season 3](https://anilist.co/anime/146066) (07:54 02 March 2024)
 -   📺 Watched episode 1 of [Classroom of the Elite Season 3](https://anilist.co/anime/146066) (17:23 01 March 2024)
 -   📖 Read chapter 113 - 115 of [I’m Really Not the Devil’s Lackey](https://anilist.co/manga/139741) (09:18 26 February 2024)
 -   📖 Read chapter 111 - 112 of [I’m Really Not the Devil’s Lackey](https://anilist.co/manga/139741) (20:41 24 February 2024)
