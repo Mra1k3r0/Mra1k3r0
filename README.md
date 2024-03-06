@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 68 - 70 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (18:07 06 March 2024)
+-   📖 Read chapter 31 of [Steel-Eating Player](https://anilist.co/manga/170956) (17:40 06 March 2024)
+-   📖 Read chapter 196 of [Nano Machine](https://anilist.co/manga/120980) (17:21 06 March 2024)
+-   📖 Read chapter 100 of [Heaven's List: Saint's Era](https://anilist.co/manga/105676) (17:13 06 March 2024)
 -   📺 Watched episode 6 - 9 of [Classroom of the Elite Season 3](https://anilist.co/anime/146066) (15:29 03 March 2024)
--   📺 Watched episode 2 - 5 of [Classroom of the Elite Season 3](https://anilist.co/anime/146066) (07:54 02 March 2024)
--   📺 Watched episode 1 of [Classroom of the Elite Season 3](https://anilist.co/anime/146066) (17:23 01 March 2024)
--   📖 Read chapter 113 - 115 of [I’m Really Not the Devil’s Lackey](https://anilist.co/manga/139741) (09:18 26 February 2024)
--   📖 Read chapter 111 - 112 of [I’m Really Not the Devil’s Lackey](https://anilist.co/manga/139741) (20:41 24 February 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
