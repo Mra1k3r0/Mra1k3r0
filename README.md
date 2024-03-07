@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 87 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (05:43 07 March 2024)
 -   📖 Read chapter 38 of [Leveling Beyond the Max](https://anilist.co/manga/143059) (18:22 06 March 2024)
 -   📖 Read chapter 68 - 70 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (18:07 06 March 2024)
 -   📖 Read chapter 31 of [Steel-Eating Player](https://anilist.co/manga/170956) (17:40 06 March 2024)
 -   📖 Read chapter 196 of [Nano Machine](https://anilist.co/manga/120980) (17:21 06 March 2024)
--   📖 Read chapter 100 of [Heaven's List: Saint's Era](https://anilist.co/manga/105676) (17:13 06 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
