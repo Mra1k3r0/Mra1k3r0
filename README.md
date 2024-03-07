@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 70 - 71 of [The Reaper](https://anilist.co/manga/153432) (14:58 07 March 2024)
+-   📖 Read chapter 70 - 77 of [The Reaper](https://anilist.co/manga/153432) (15:33 07 March 2024)
 -   📖 Read chapter 87 - 88 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (06:19 07 March 2024)
 -   📖 Read chapter 38 of [Leveling Beyond the Max](https://anilist.co/manga/143059) (18:22 06 March 2024)
 -   📖 Read chapter 68 - 70 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (18:07 06 March 2024)
