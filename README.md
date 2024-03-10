@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 36 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (14:13 10 March 2024)
 -   📖 Read chapter 39 of [The Player Hides His Past](https://anilist.co/manga/166154) (09:23 09 March 2024)
 -   📖 Read chapter 99 of [The Novel's Extra](https://anilist.co/manga/152128) (09:23 09 March 2024)
 -   📖 Read chapter 47 of [Cleric of Decay](https://anilist.co/manga/167165) (09:23 09 March 2024)
 -   📖 Read chapter 70 - 77 of [The Reaper](https://anilist.co/manga/153432) (15:33 07 March 2024)
--   📖 Read chapter 87 - 88 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (06:19 07 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
