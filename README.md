@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 36 - 37 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (15:24 10 March 2024)
+-   📖 Read chapter 36 - 44 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (17:05 10 March 2024)
 -   📖 Read chapter 39 of [The Player Hides His Past](https://anilist.co/manga/166154) (09:23 09 March 2024)
 -   📖 Read chapter 99 of [The Novel's Extra](https://anilist.co/manga/152128) (09:23 09 March 2024)
 -   📖 Read chapter 47 of [Cleric of Decay](https://anilist.co/manga/167165) (09:23 09 March 2024)
