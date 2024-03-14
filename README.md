@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 89 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (19:00 14 March 2024)
+-   📖 Read chapter 197 of [Nano Machine](https://anilist.co/manga/120980) (18:24 14 March 2024)
 -   📖 Read chapter 71 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (17:50 10 March 2024)
 -   📖 Read chapter 78 of [The Reaper](https://anilist.co/manga/153432) (17:29 10 March 2024)
 -   📖 Read chapter 36 - 48 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (17:25 10 March 2024)
--   📖 Read chapter 39 of [The Player Hides His Past](https://anilist.co/manga/166154) (09:23 09 March 2024)
--   📖 Read chapter 99 of [The Novel's Extra](https://anilist.co/manga/152128) (09:23 09 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
