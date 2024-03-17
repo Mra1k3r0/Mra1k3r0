@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 10 - 11 of [Classroom of the Elite Season 3](https://anilist.co/anime/146066) (12:04 17 March 2024)
 -   📖 Read chapter 48 of [Cleric of Decay](https://anilist.co/manga/167165) (19:10 14 March 2024)
 -   📖 Read chapter 32 of [Steel-Eating Player](https://anilist.co/manga/170956) (19:05 14 March 2024)
 -   📖 Read chapter 89 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (19:00 14 March 2024)
 -   📖 Read chapter 197 of [Nano Machine](https://anilist.co/manga/120980) (18:24 14 March 2024)
--   📖 Read chapter 71 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (17:50 10 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
