@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 191 - 194 of [Omniscient Reader](https://anilist.co/manga/119257) (16:04 18 March 2024)
+-   📖 Read chapter 191 - 200 of [Omniscient Reader](https://anilist.co/manga/119257) (17:02 18 March 2024)
 -   📖 Read chapter 79 of [The Reaper](https://anilist.co/manga/153432) (18:23 17 March 2024)
 -   📺 Watched episode 10 - 11 of [Classroom of the Elite Season 3](https://anilist.co/anime/146066) (12:04 17 March 2024)
 -   📖 Read chapter 48 of [Cleric of Decay](https://anilist.co/manga/167165) (19:10 14 March 2024)
