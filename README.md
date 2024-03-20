@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 198 of [Nano Machine](https://anilist.co/manga/120980) (18:01 20 March 2024)
 -   📖 Read chapter 71 - 73 of [After Ten Millennia in Hell](https://anilist.co/manga/153284) (07:48 19 March 2024)
 -   📖 Read chapter 70 of [After Ten Millennia in Hell](https://anilist.co/manga/153284) (17:49 18 March 2024)
 -   📖 Read chapter 191 - 202 of [Omniscient Reader](https://anilist.co/manga/119257) (17:14 18 March 2024)
 -   📖 Read chapter 79 of [The Reaper](https://anilist.co/manga/153432) (18:23 17 March 2024)
--   📺 Watched episode 10 - 11 of [Classroom of the Elite Season 3](https://anilist.co/anime/146066) (12:04 17 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
