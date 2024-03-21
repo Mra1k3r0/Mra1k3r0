@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 72 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (13:06 21 March 2024)
 -   📖 Read chapter 73 - 85 of [Pick Me Up](https://anilist.co/manga/159441) (06:36 21 March 2024)
 -   📖 Read chapter 198 of [Nano Machine](https://anilist.co/manga/120980) (18:01 20 March 2024)
 -   📖 Read chapter 71 - 73 of [After Ten Millennia in Hell](https://anilist.co/manga/153284) (07:48 19 March 2024)
 -   📖 Read chapter 70 of [After Ten Millennia in Hell](https://anilist.co/manga/153284) (17:49 18 March 2024)
--   📖 Read chapter 191 - 202 of [Omniscient Reader](https://anilist.co/manga/119257) (17:14 18 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
