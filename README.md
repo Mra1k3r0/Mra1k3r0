@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 27 of [Reborn as the Enemy Prince](https://anilist.co/manga/169135) (07:05 22 March 2024)
+-   📖 Read chapter 27 - 32 of [Reborn as the Enemy Prince](https://anilist.co/manga/169135) (07:46 22 March 2024)
 -   📖 Read chapter 49 - 50 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (20:46 21 March 2024)
 -   📖 Read chapter 203 of [Omniscient Reader](https://anilist.co/manga/119257) (20:19 21 March 2024)
 -   📖 Read chapter 86 - 87 of [Pick Me Up](https://anilist.co/manga/159441) (20:12 21 March 2024)
