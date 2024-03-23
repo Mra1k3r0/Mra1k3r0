@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 109 - 112 of [Descended from Divinity](https://anilist.co/manga/136204) (08:03 23 March 2024)
 -   📖 Read chapter 37 - 51 of [The Martial God Who Regressed Back to Level 2](https://anilist.co/manga/167834) (19:55 22 March 2024)
 -   📖 Read chapter 27 - 33 of [Reborn as the Enemy Prince](https://anilist.co/manga/169135) (08:11 22 March 2024)
 -   📖 Read chapter 49 - 50 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (20:46 21 March 2024)
 -   📖 Read chapter 203 of [Omniscient Reader](https://anilist.co/manga/119257) (20:19 21 March 2024)
--   📖 Read chapter 86 - 87 of [Pick Me Up](https://anilist.co/manga/159441) (20:12 21 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
