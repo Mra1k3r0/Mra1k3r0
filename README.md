@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 5 - 9 of [Mushoku Tensei: Jobless Reincarnation Season 2](https://anilist.co/anime/146065) (19:56 24 March 2024)
+-   📺 Watched episode 5 - 10 of [Mushoku Tensei: Jobless Reincarnation Season 2](https://anilist.co/anime/146065) (20:18 24 March 2024)
 -   📺 Watched episode 1 - 4 of [Mushoku Tensei: Jobless Reincarnation Season 2](https://anilist.co/anime/146065) (17:17 23 March 2024)
 -   📺 Completed [Mushoku Tensei: Jobless Reincarnation Cour 2 - Eris the Goblin Slayer](https://anilist.co/anime/141534) (15:50 23 March 2024)
 -   📖 Read chapter 109 - 113 of [Descended from Divinity](https://anilist.co/manga/136204) (08:07 23 March 2024)
