@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 90 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (21:00 28 March 2024)
 -   📖 Read chapter 88 of [Pick Me Up](https://anilist.co/manga/159441) (21:28 27 March 2024)
 -   📖 Read chapter 199 of [Nano Machine](https://anilist.co/manga/120980) (20:57 27 March 2024)
 -   📖 Read chapter 80 of [The Reaper](https://anilist.co/manga/153432) (19:31 25 March 2024)
 -   📺 Watched episode 5 - 12 of [Mushoku Tensei: Jobless Reincarnation Season 2](https://anilist.co/anime/146065) (07:08 25 March 2024)
--   📺 Watched episode 1 - 4 of [Mushoku Tensei: Jobless Reincarnation Season 2](https://anilist.co/anime/146065) (17:17 23 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
