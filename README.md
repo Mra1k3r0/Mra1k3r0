@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 4 of [Solo Leveling](https://anilist.co/anime/151807) (07:25 01 April 2024)
 -   📖 Read chapter 90 - 91 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (21:08 28 March 2024)
 -   📖 Read chapter 88 of [Pick Me Up](https://anilist.co/manga/159441) (21:28 27 March 2024)
 -   📖 Read chapter 199 of [Nano Machine](https://anilist.co/manga/120980) (20:57 27 March 2024)
 -   📖 Read chapter 80 of [The Reaper](https://anilist.co/manga/153432) (19:31 25 March 2024)
--   📺 Watched episode 5 - 12 of [Mushoku Tensei: Jobless Reincarnation Season 2](https://anilist.co/anime/146065) (07:08 25 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
