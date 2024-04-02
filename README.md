@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 10 of [Solo Leveling](https://anilist.co/anime/151807) (14:57 02 April 2024)
+-   📺 Completed [Solo Leveling](https://anilist.co/anime/151807) (15:44 02 April 2024)
+-   📺 Watched episode 10 - 11 of [Solo Leveling](https://anilist.co/anime/151807) (15:22 02 April 2024)
 -   📺 Watched episode 1 - 9 of [Solo Leveling](https://anilist.co/anime/151807) (16:29 01 April 2024)
 -   📖 Read chapter 90 - 91 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (21:08 28 March 2024)
 -   📖 Read chapter 88 of [Pick Me Up](https://anilist.co/manga/159441) (21:28 27 March 2024)
--   📖 Read chapter 199 of [Nano Machine](https://anilist.co/manga/120980) (20:57 27 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
