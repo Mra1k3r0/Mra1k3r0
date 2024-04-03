@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 9 of [The Unwanted Undead Adventurer](https://anilist.co/anime/147642) (09:11 03 April 2024)
+-   📺 Watched episode 9 - 11 of [The Unwanted Undead Adventurer](https://anilist.co/anime/147642) (11:38 03 April 2024)
 -   📺 Watched episode 1 - 8 of [The Unwanted Undead Adventurer](https://anilist.co/anime/147642) (19:14 02 April 2024)
 -   📺 Completed [Solo Leveling](https://anilist.co/anime/151807) (15:44 02 April 2024)
 -   📺 Watched episode 10 - 11 of [Solo Leveling](https://anilist.co/anime/151807) (15:22 02 April 2024)
