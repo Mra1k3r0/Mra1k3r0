@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 24 of [Gwonwangjeonsaeng](https://anilist.co/manga/176812) (08:33 10 April 2024)
 -   📖 Read chapter 82 of [The Reaper](https://anilist.co/manga/153432) (09:29 06 April 2024)
 -   📖 Read chapter 81 of [The Reaper](https://anilist.co/manga/153432) (02:35 04 April 2024)
 -   📖 Read chapter 200 of [Nano Machine](https://anilist.co/manga/120980) (02:29 04 April 2024)
 -   📖 Read chapter 89 of [Pick Me Up](https://anilist.co/manga/159441) (02:22 04 April 2024)
--   📺 Completed [The Unwanted Undead Adventurer](https://anilist.co/anime/147642) (16:25 03 April 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
