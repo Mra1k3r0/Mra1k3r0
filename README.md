@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 90 of [Pick Me Up](https://anilist.co/manga/159441) (18:11 13 April 2024)
 -   📖 Read chapter 83 of [The Reaper](https://anilist.co/manga/153432) (18:00 13 April 2024)
 -   📖 Read chapter 201 of [Nano Machine](https://anilist.co/manga/120980) (05:15 11 April 2024)
 -   📖 Read chapter 24 of [Gwonwangjeonsaeng](https://anilist.co/manga/176812) (08:33 10 April 2024)
 -   📖 Read chapter 82 of [The Reaper](https://anilist.co/manga/153432) (09:29 06 April 2024)
--   📖 Read chapter 81 of [The Reaper](https://anilist.co/manga/153432) (02:35 04 April 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
