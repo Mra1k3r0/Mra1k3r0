@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 2 of [My Teen Romantic Comedy SNAFU](https://anilist.co/anime/14813) (10:09 14 April 2024)
+-   📺 Watched episode 1 - 5 of [My Teen Romantic Comedy SNAFU](https://anilist.co/anime/14813) (13:28 14 April 2024)
 -   📖 Read chapter 90 of [Pick Me Up](https://anilist.co/manga/159441) (18:11 13 April 2024)
 -   📖 Read chapter 83 of [The Reaper](https://anilist.co/manga/153432) (18:00 13 April 2024)
 -   📖 Read chapter 201 of [Nano Machine](https://anilist.co/manga/120980) (05:15 11 April 2024)
