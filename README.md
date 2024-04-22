@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 202 of [Nano Machine](https://anilist.co/manga/120980) (10:21 22 April 2024)
 -   📖 Read chapter 41 - 55 of [Helmut](https://anilist.co/manga/154782) (20:00 21 April 2024)
 -   📺 Watched episode 1 - 6 of [My Teen Romantic Comedy SNAFU](https://anilist.co/anime/14813) (15:49 14 April 2024)
 -   📖 Read chapter 90 of [Pick Me Up](https://anilist.co/manga/159441) (18:11 13 April 2024)
 -   📖 Read chapter 83 of [The Reaper](https://anilist.co/manga/153432) (18:00 13 April 2024)
--   📖 Read chapter 201 of [Nano Machine](https://anilist.co/manga/120980) (05:15 11 April 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
