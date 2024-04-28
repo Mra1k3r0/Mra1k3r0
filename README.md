@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 7 of [My Teen Romantic Comedy SNAFU](https://anilist.co/anime/14813) (18:00 28 April 2024)
 -   📖 Read chapter 52 - 53 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (19:48 26 April 2024)
 -   📖 Read chapter 51 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (22:03 25 April 2024)
 -   📖 Read chapter 203 of [Nano Machine](https://anilist.co/manga/120980) (21:31 25 April 2024)
 -   📖 Read chapter 84 of [The Reaper](https://anilist.co/manga/153432) (21:27 25 April 2024)
--   📖 Read chapter 91 - 92 of [Pick Me Up](https://anilist.co/manga/159441) (20:56 25 April 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
