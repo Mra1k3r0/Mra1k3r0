@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 9 of [My Teen Romantic Comedy SNAFU](https://anilist.co/anime/14813) (07:08 29 April 2024)
+-   📺 Watched episode 9 - 10 of [My Teen Romantic Comedy SNAFU](https://anilist.co/anime/14813) (09:02 29 April 2024)
 -   📺 Watched episode 7 - 8 of [My Teen Romantic Comedy SNAFU](https://anilist.co/anime/14813) (18:30 28 April 2024)
 -   📖 Read chapter 52 - 53 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (19:48 26 April 2024)
 -   📖 Read chapter 51 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (22:03 25 April 2024)
