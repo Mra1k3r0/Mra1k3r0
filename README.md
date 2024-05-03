@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 93 of [Pick Me Up](https://anilist.co/manga/159441) (17:03 03 May 2024)
+-   📖 Read chapter 204 of [Nano Machine](https://anilist.co/manga/120980) (16:12 03 May 2024)
 -   📖 Read chapter 74 - 78 of [After Ten Millennia in Hell](https://anilist.co/manga/153284) (16:03 29 April 2024)
 -   📖 Read chapter 85 of [The Reaper](https://anilist.co/manga/153432) (15:31 29 April 2024)
 -   📖 Read chapter 54 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (15:17 29 April 2024)
--   📺 Watched episode 9 - 10 of [My Teen Romantic Comedy SNAFU](https://anilist.co/anime/14813) (09:02 29 April 2024)
--   📺 Watched episode 7 - 8 of [My Teen Romantic Comedy SNAFU](https://anilist.co/anime/14813) (18:30 28 April 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
