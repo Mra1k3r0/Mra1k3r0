@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 3 of [That Time I Got Reincarnated as a Slime Season 3](https://anilist.co/anime/156822) (18:33 10 May 2024)
+-   📺 Watched episode 1 - 6 of [That Time I Got Reincarnated as a Slime Season 3](https://anilist.co/anime/156822) (19:59 10 May 2024)
 -   📖 Read chapter 86 of [The Reaper](https://anilist.co/manga/153432) (15:29 07 May 2024)
 -   📺 Watched episode 1 - 5 of [Mushoku Tensei: Jobless Reincarnation Season 2 Part 2](https://anilist.co/anime/166873) (18:57 05 May 2024)
 -   📖 Read chapter 93 of [Pick Me Up](https://anilist.co/manga/159441) (17:03 03 May 2024)
