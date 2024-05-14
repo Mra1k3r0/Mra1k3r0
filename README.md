@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 2 of [Michin Jaeneungui Player](https://anilist.co/manga/170163) (09:23 14 May 2024)
+-   📖 Read chapter 2 - 3 of [Michin Jaeneungui Player](https://anilist.co/manga/170163) (13:57 14 May 2024)
 -   📖 Read chapter 1 of [Michin Jaeneungui Player](https://anilist.co/manga/170163) (19:39 13 May 2024)
 -   📖 Plans to read [Michin Jaeneungui Player](https://anilist.co/manga/170163) (18:56 12 May 2024)
 -   📖 Read chapter 205 of [Nano Machine](https://anilist.co/manga/120980) (18:23 12 May 2024)
