@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 7 of [That Time I Got Reincarnated as a Slime Season 3](https://anilist.co/anime/156822) (05:40 18 May 2024)
 -   📖 Read chapter 2 - 7 of [Michin Jaeneungui Player](https://anilist.co/manga/170163) (19:56 14 May 2024)
 -   📖 Read chapter 1 of [Michin Jaeneungui Player](https://anilist.co/manga/170163) (19:39 13 May 2024)
 -   📖 Plans to read [Michin Jaeneungui Player](https://anilist.co/manga/170163) (18:56 12 May 2024)
 -   📖 Read chapter 205 of [Nano Machine](https://anilist.co/manga/120980) (18:23 12 May 2024)
--   📖 Read chapter 94 of [Pick Me Up](https://anilist.co/manga/159441) (18:22 12 May 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
