@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 41 of [Necromancer Academy and the Genius Summoner](https://anilist.co/manga/171818) (19:02 20 May 2024)
+-   📖 Read chapter 87 of [The Reaper](https://anilist.co/manga/153432) (18:56 20 May 2024)
+-   📖 Read chapter 206 - 207 of [Nano Machine](https://anilist.co/manga/120980) (18:50 20 May 2024)
 -   📺 Watched episode 1 - 6 of [Kaiju No.8](https://anilist.co/anime/153288) (19:41 19 May 2024)
 -   📖 Read chapter 8 - 13 of [Michin Jaeneungui Player](https://anilist.co/manga/170163) (18:46 18 May 2024)
--   📺 Watched episode 7 of [That Time I Got Reincarnated as a Slime Season 3](https://anilist.co/anime/156822) (05:40 18 May 2024)
--   📖 Read chapter 2 - 7 of [Michin Jaeneungui Player](https://anilist.co/manga/170163) (19:56 14 May 2024)
--   📖 Read chapter 1 of [Michin Jaeneungui Player](https://anilist.co/manga/170163) (19:39 13 May 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
