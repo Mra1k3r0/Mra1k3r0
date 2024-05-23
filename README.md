@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 4 of [TSUKIMICHI -Moonlit Fantasy-](https://anilist.co/anime/125206) (10:39 23 May 2024)
+-   📺 Watched episode 1 - 5 of [TSUKIMICHI -Moonlit Fantasy-](https://anilist.co/anime/125206) (14:49 23 May 2024)
 -   📖 Read chapter 77 - 83 of [Becoming a Magic School Mage](https://anilist.co/manga/159397) (20:08 22 May 2024)
 -   📖 Plans to read [The Executed Sage Who Was Reincarnated as a Lich and Started an All-Out War](https://anilist.co/manga/123582) (19:06 20 May 2024)
 -   📖 Read chapter 41 of [Necromancer Academy and the Genius Summoner](https://anilist.co/manga/171818) (19:02 20 May 2024)
