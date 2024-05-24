@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 12 of [TSUKIMICHI -Moonlit Fantasy- Season 2](https://anilist.co/anime/139518) (09:37 24 May 2024)
+-   📺 Watched episode 1 - 13 of [TSUKIMICHI -Moonlit Fantasy- Season 2](https://anilist.co/anime/139518) (12:13 24 May 2024)
 -   📺 Completed [TSUKIMICHI -Moonlit Fantasy-](https://anilist.co/anime/125206) (18:33 23 May 2024)
 -   📺 Watched episode 1 - 11 of [TSUKIMICHI -Moonlit Fantasy-](https://anilist.co/anime/125206) (18:11 23 May 2024)
 -   📖 Read chapter 77 - 83 of [Becoming a Magic School Mage](https://anilist.co/manga/159397) (20:08 22 May 2024)
