@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 5 of [I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability](https://anilist.co/anime/156415) (17:56 27 May 2024)
+-   📺 Watched episode 1 - 8 of [I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability](https://anilist.co/anime/156415) (19:06 27 May 2024)
 -   📖 Read chapter 208 of [Nano Machine](https://anilist.co/manga/120980) (17:22 25 May 2024)
 -   📖 Read chapter 84 of [Becoming a Magic School Mage](https://anilist.co/manga/159397) (05:03 25 May 2024)
 -   📺 Watched episode 1 - 20 of [TSUKIMICHI -Moonlit Fantasy- Season 2](https://anilist.co/anime/139518) (16:52 24 May 2024)
