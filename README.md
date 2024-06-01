@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 8 of [That Time I Got Reincarnated as a Slime Season 2](https://anilist.co/anime/108511) (18:00 01 June 2024)
 -   📖 Read chapter 85 of [Becoming a Magic School Mage](https://anilist.co/manga/159397) (14:00 01 June 2024)
 -   📺 Watched episode 6 of [Mushoku Tensei: Jobless Reincarnation Season 2 Part 2](https://anilist.co/anime/166873) (12:10 31 May 2024)
 -   📺 Watched episode 8 of [That Time I Got Reincarnated as a Slime Season 3](https://anilist.co/anime/156822) (11:43 28 May 2024)
 -   📺 Watched episode 1 - 9 of [I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability](https://anilist.co/anime/156415) (19:26 27 May 2024)
--   📖 Read chapter 208 of [Nano Machine](https://anilist.co/manga/120980) (17:22 25 May 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
