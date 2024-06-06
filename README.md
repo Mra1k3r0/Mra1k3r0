@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 21 - 22 of [TSUKIMICHI -Moonlit Fantasy- Season 2](https://anilist.co/anime/139518) (14:37 06 June 2024)
 -   📺 Watched episode 10 of [I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability](https://anilist.co/anime/156415) (13:07 06 June 2024)
 -   📖 Read chapter 209 - 210 of [Nano Machine](https://anilist.co/manga/120980) (08:15 06 June 2024)
 -   📺 Watched episode 1 - 7 of [MASHLE: MAGIC AND MUSCLES Season 2](https://anilist.co/anime/166610) (08:36 05 June 2024)
 -   📺 Completed [MASHLE: MAGIC AND MUSCLES](https://anilist.co/anime/151801) (16:07 04 June 2024)
--   📺 Watched episode 1 - 11 of [MASHLE: MAGIC AND MUSCLES](https://anilist.co/anime/151801) (15:37 04 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
