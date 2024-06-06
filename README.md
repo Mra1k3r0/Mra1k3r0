@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 209 of [Nano Machine](https://anilist.co/manga/120980) (08:08 06 June 2024)
+-   📖 Read chapter 209 - 210 of [Nano Machine](https://anilist.co/manga/120980) (08:15 06 June 2024)
 -   📺 Watched episode 1 - 7 of [MASHLE: MAGIC AND MUSCLES Season 2](https://anilist.co/anime/166610) (08:36 05 June 2024)
 -   📺 Completed [MASHLE: MAGIC AND MUSCLES](https://anilist.co/anime/151801) (16:07 04 June 2024)
 -   📺 Watched episode 1 - 11 of [MASHLE: MAGIC AND MUSCLES](https://anilist.co/anime/151801) (15:37 04 June 2024)
