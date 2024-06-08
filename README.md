@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 64 - 67 of [I Was the Final Boss](https://anilist.co/manga/159385) (16:57 08 June 2024)
 -   📖 Read chapter 95 - 98 of [Pick Me Up](https://anilist.co/manga/159441) (21:54 07 June 2024)
 -   📖 Read chapter 88 of [The Reaper](https://anilist.co/manga/153432) (19:56 06 June 2024)
 -   📖 Read chapter 96 of [Tsukimichi: Moonlit Fantasy](https://anilist.co/manga/87225) (18:19 06 June 2024)
 -   📺 Watched episode 21 - 22 of [TSUKIMICHI -Moonlit Fantasy- Season 2](https://anilist.co/anime/139518) (14:37 06 June 2024)
--   📺 Watched episode 10 of [I Was Reincarnated as the 7th Prince So I Can Take My Time Perfecting My Magical Ability](https://anilist.co/anime/156415) (13:07 06 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
