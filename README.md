@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 57 of [Kaiju No.8](https://anilist.co/manga/120760) (19:02 14 June 2024)
 -   📖 Read chapter 89 of [The Reaper](https://anilist.co/manga/153432) (12:06 14 June 2024)
 -   📖 Read chapter 64 - 73 of [I Was the Final Boss](https://anilist.co/manga/159385) (17:59 08 June 2024)
 -   📖 Read chapter 95 - 98 of [Pick Me Up](https://anilist.co/manga/159441) (21:54 07 June 2024)
 -   📖 Read chapter 88 of [The Reaper](https://anilist.co/manga/153432) (19:56 06 June 2024)
--   📖 Read chapter 96 of [Tsukimichi: Moonlit Fantasy](https://anilist.co/manga/87225) (18:19 06 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
