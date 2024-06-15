@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Persona 3 the Movie: #1 Spring of Birth](https://anilist.co/anime/14407) (21:22 15 June 2024)
 -   📺 Watched episode 10 - 11 of [That Time I Got Reincarnated as a Slime Season 3](https://anilist.co/anime/156822) (18:41 15 June 2024)
 -   📖 Read chapter 57 - 65 of [Kaiju No.8](https://anilist.co/manga/120760) (20:04 14 June 2024)
 -   📖 Read chapter 89 of [The Reaper](https://anilist.co/manga/153432) (12:06 14 June 2024)
 -   📖 Read chapter 64 - 73 of [I Was the Final Boss](https://anilist.co/manga/159385) (17:59 08 June 2024)
--   📖 Read chapter 95 - 98 of [Pick Me Up](https://anilist.co/manga/159441) (21:54 07 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
