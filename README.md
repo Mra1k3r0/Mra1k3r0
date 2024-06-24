@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 212 of [Nano Machine](https://anilist.co/manga/120980) (23:52 23 June 2024)
 -   📖 Read chapter 90 - 91 of [The Reaper](https://anilist.co/manga/153432) (06:37 19 June 2024)
 -   📖 Read chapter 211 of [Nano Machine](https://anilist.co/manga/120980) (06:27 19 June 2024)
 -   📺 Completed [Persona 3 the Movie: #1 Spring of Birth](https://anilist.co/anime/14407) (21:22 15 June 2024)
 -   📺 Watched episode 10 - 11 of [That Time I Got Reincarnated as a Slime Season 3](https://anilist.co/anime/156822) (18:41 15 June 2024)
--   📖 Read chapter 57 - 65 of [Kaiju No.8](https://anilist.co/manga/120760) (20:04 14 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
