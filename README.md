@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 99 - 101 of [Pick Me Up](https://anilist.co/manga/159441) (18:52 28 June 2024)
 -   📖 Read chapter 15 of [The Executioner](https://anilist.co/manga/176845) (17:48 28 June 2024)
 -   📖 Read chapter 92 of [The Reaper](https://anilist.co/manga/153432) (17:42 28 June 2024)
 -   📖 Read chapter 213 of [Nano Machine](https://anilist.co/manga/120980) (13:59 28 June 2024)
 -   📖 Read chapter 212 of [Nano Machine](https://anilist.co/manga/120980) (23:52 23 June 2024)
--   📖 Read chapter 90 - 91 of [The Reaper](https://anilist.co/manga/153432) (06:37 19 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
