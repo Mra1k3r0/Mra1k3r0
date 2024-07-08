@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 93 of [The Reaper](https://anilist.co/manga/153432) (09:16 08 July 2024)
+-   📖 Read chapter 64 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (09:13 08 July 2024)
 -   📖 Read chapter 214 of [Nano Machine](https://anilist.co/manga/120980) (05:04 08 July 2024)
 -   📺 Watched episode 2 of [Bakemonogatari](https://anilist.co/anime/5081) (16:19 02 July 2024)
 -   📺 Plans to watch [Kaiju No.8 (Sequel)](https://anilist.co/anime/178754) (15:42 02 July 2024)
--   📖 Read chapter 55 - 63 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (18:24 30 June 2024)
--   📖 Read chapter 99 - 101 of [Pick Me Up](https://anilist.co/manga/159441) (18:52 28 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
