@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 12 - 13 of [That Time I Got Reincarnated as a Slime Season 3](https://anilist.co/anime/156822) (06:47 10 July 2024)
 -   📖 Read chapter 93 of [The Reaper](https://anilist.co/manga/153432) (09:16 08 July 2024)
 -   📖 Read chapter 64 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (09:13 08 July 2024)
 -   📖 Read chapter 214 of [Nano Machine](https://anilist.co/manga/120980) (05:04 08 July 2024)
 -   📺 Watched episode 2 of [Bakemonogatari](https://anilist.co/anime/5081) (16:19 02 July 2024)
--   📺 Plans to watch [Kaiju No.8 (Sequel)](https://anilist.co/anime/178754) (15:42 02 July 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
