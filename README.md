@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 33 of [Steel-Eating Player](https://anilist.co/manga/170956) (06:59 15 July 2024)
+-   📖 Read chapter 33 - 35 of [Steel-Eating Player](https://anilist.co/manga/170956) (11:32 15 July 2024)
 -   📖 Read chapter 102 - 103 of [Pick Me Up](https://anilist.co/manga/159441) (01:37 14 July 2024)
 -   📖 Plans to read [The Fragrant Flower Blooms With Dignity](https://anilist.co/manga/140475) (08:21 13 July 2024)
 -   📖 Read chapter 65 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (08:10 13 July 2024)
