@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 34 of [Reborn as the Enemy Prince](https://anilist.co/manga/169135) (06:09 17 July 2024)
 -   📖 Read chapter 38 - 49 of [Steel-Eating Player](https://anilist.co/manga/170956) (07:10 16 July 2024)
 -   📖 Read chapter 33 - 37 of [Steel-Eating Player](https://anilist.co/manga/170956) (13:24 15 July 2024)
 -   📖 Read chapter 102 - 103 of [Pick Me Up](https://anilist.co/manga/159441) (01:37 14 July 2024)
 -   📖 Plans to read [The Fragrant Flower Blooms With Dignity](https://anilist.co/manga/140475) (08:21 13 July 2024)
--   📖 Read chapter 65 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (08:10 13 July 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
