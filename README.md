@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 75 - 76 of [I Was the Final Boss](https://anilist.co/manga/159385) (00:28 18 July 2024)
+-   📖 Read chapter 75 - 84 of [I Was the Final Boss](https://anilist.co/manga/159385) (01:38 18 July 2024)
 -   📖 Read chapter 74 of [I Was the Final Boss](https://anilist.co/manga/159385) (06:30 17 July 2024)
 -   📖 Read chapter 34 - 36 of [Reborn as the Enemy Prince](https://anilist.co/manga/169135) (06:23 17 July 2024)
 -   📖 Read chapter 38 - 49 of [Steel-Eating Player](https://anilist.co/manga/170956) (07:10 16 July 2024)
