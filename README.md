@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 104 of [Pick Me Up](https://anilist.co/manga/159441) (13:06 21 July 2024)
+-   📖 Read chapter 216 of [Nano Machine](https://anilist.co/manga/120980) (13:01 21 July 2024)
 -   📺 Watched episode 1 - 6 of [Mr. Villain's Day Off](https://anilist.co/anime/162002) (08:41 21 July 2024)
 -   📖 Read chapter 66 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (06:29 19 July 2024)
 -   📖 Read chapter 75 - 89 of [I Was the Final Boss](https://anilist.co/manga/159385) (05:08 18 July 2024)
--   📖 Read chapter 74 of [I Was the Final Boss](https://anilist.co/manga/159385) (06:30 17 July 2024)
--   📖 Read chapter 34 - 36 of [Reborn as the Enemy Prince](https://anilist.co/manga/169135) (06:23 17 July 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
