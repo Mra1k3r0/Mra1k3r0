@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 2 of [Mr. Villain's Day Off](https://anilist.co/anime/162002) (06:50 21 July 2024)
 -   📖 Read chapter 66 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (06:29 19 July 2024)
 -   📖 Read chapter 75 - 89 of [I Was the Final Boss](https://anilist.co/manga/159385) (05:08 18 July 2024)
 -   📖 Read chapter 74 of [I Was the Final Boss](https://anilist.co/manga/159385) (06:30 17 July 2024)
 -   📖 Read chapter 34 - 36 of [Reborn as the Enemy Prince](https://anilist.co/manga/169135) (06:23 17 July 2024)
--   📖 Read chapter 38 - 49 of [Steel-Eating Player](https://anilist.co/manga/170956) (07:10 16 July 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
