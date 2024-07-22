@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 3 of [Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells](https://anilist.co/anime/173694) (07:05 22 July 2024)
 -   📖 Read chapter 90 of [I Was the Final Boss](https://anilist.co/manga/159385) (13:18 21 July 2024)
 -   📖 Read chapter 104 - 105 of [Pick Me Up](https://anilist.co/manga/159441) (13:11 21 July 2024)
 -   📖 Read chapter 216 of [Nano Machine](https://anilist.co/manga/120980) (13:01 21 July 2024)
 -   📺 Watched episode 1 - 6 of [Mr. Villain's Day Off](https://anilist.co/anime/162002) (08:41 21 July 2024)
--   📖 Read chapter 66 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (06:29 19 July 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
