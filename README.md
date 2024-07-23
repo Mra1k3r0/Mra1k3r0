@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 of [Soul Eater](https://anilist.co/anime/3588) (07:53 23 July 2024)
+-   📺 Watched episode 1 - 2 of [Soul Eater](https://anilist.co/anime/3588) (08:17 23 July 2024)
 -   📺 Watched episode 1 - 3 of [Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells](https://anilist.co/anime/173694) (07:05 22 July 2024)
 -   📖 Read chapter 90 of [I Was the Final Boss](https://anilist.co/manga/159385) (13:18 21 July 2024)
 -   📖 Read chapter 104 - 105 of [Pick Me Up](https://anilist.co/manga/159441) (13:11 21 July 2024)
