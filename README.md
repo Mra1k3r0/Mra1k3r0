@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 204 of [Omniscient Reader](https://anilist.co/manga/119257) (01:28 28 July 2024)
+-   📖 Read chapter 204 - 206 of [Omniscient Reader](https://anilist.co/manga/119257) (10:03 28 July 2024)
 -   📖 Read chapter 217 of [Nano Machine](https://anilist.co/manga/120980) (17:38 26 July 2024)
 -   📺 Watched episode 1 - 2 of [Soul Eater](https://anilist.co/anime/3588) (08:17 23 July 2024)
 -   📺 Watched episode 1 - 3 of [Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells](https://anilist.co/anime/173694) (07:05 22 July 2024)
