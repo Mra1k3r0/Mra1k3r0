@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 40 - 61 of [Cheonhwaseogo Daegongja](https://anilist.co/manga/160693) (15:06 04 August 2024)
+-   📖 Read chapter 40 - 65 of [Cheonhwaseogo Daegongja](https://anilist.co/manga/160693) (15:59 04 August 2024)
 -   📖 Read chapter 218 of [Nano Machine](https://anilist.co/manga/120980) (04:13 04 August 2024)
 -   📖 Read chapter 30 - 39 of [Cheonhwaseogo Daegongja](https://anilist.co/manga/160693) (12:48 03 August 2024)
 -   📖 Read chapter 50 - 51 of [Steel-Eating Player](https://anilist.co/manga/170956) (06:44 30 July 2024)
