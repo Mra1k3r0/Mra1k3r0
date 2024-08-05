@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 74 of [Cheonhwaseogo Daegongja](https://anilist.co/manga/160693) (18:22 05 August 2024)
 -   📺 Watched episode 15 - 17 of [That Time I Got Reincarnated as a Slime Season 3](https://anilist.co/anime/156822) (08:15 05 August 2024)
 -   📖 Read chapter 40 - 73 of [Cheonhwaseogo Daegongja](https://anilist.co/manga/160693) (03:59 05 August 2024)
 -   📖 Read chapter 218 of [Nano Machine](https://anilist.co/manga/120980) (04:13 04 August 2024)
 -   📖 Read chapter 30 - 39 of [Cheonhwaseogo Daegongja](https://anilist.co/manga/160693) (12:48 03 August 2024)
--   📖 Read chapter 50 - 51 of [Steel-Eating Player](https://anilist.co/manga/170956) (06:44 30 July 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
