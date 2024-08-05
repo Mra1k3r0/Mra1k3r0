@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 15 - 16 of [That Time I Got Reincarnated as a Slime Season 3](https://anilist.co/anime/156822) (07:52 05 August 2024)
+-   📺 Watched episode 15 - 17 of [That Time I Got Reincarnated as a Slime Season 3](https://anilist.co/anime/156822) (08:15 05 August 2024)
 -   📖 Read chapter 40 - 73 of [Cheonhwaseogo Daegongja](https://anilist.co/manga/160693) (03:59 05 August 2024)
 -   📖 Read chapter 218 of [Nano Machine](https://anilist.co/manga/120980) (04:13 04 August 2024)
 -   📖 Read chapter 30 - 39 of [Cheonhwaseogo Daegongja](https://anilist.co/manga/160693) (12:48 03 August 2024)
