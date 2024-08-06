@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 74 - 87 of [Cheonhwaseogo Daegongja](https://anilist.co/manga/160693) (07:02 06 August 2024)
+-   📖 Read chapter 67 - 68 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (07:56 06 August 2024)
+-   📖 Read chapter 74 - 88 of [Cheonhwaseogo Daegongja](https://anilist.co/manga/160693) (07:09 06 August 2024)
 -   📺 Watched episode 15 - 17 of [That Time I Got Reincarnated as a Slime Season 3](https://anilist.co/anime/156822) (08:15 05 August 2024)
 -   📖 Read chapter 40 - 73 of [Cheonhwaseogo Daegongja](https://anilist.co/manga/160693) (03:59 05 August 2024)
 -   📖 Read chapter 218 of [Nano Machine](https://anilist.co/manga/120980) (04:13 04 August 2024)
--   📖 Read chapter 30 - 39 of [Cheonhwaseogo Daegongja](https://anilist.co/manga/160693) (12:48 03 August 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
