@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 6 of [Black Summoner](https://anilist.co/manga/101746) (05:17 08 August 2024)
+-   📖 Read chapter 6 - 9 of [Black Summoner](https://anilist.co/manga/101746) (13:11 08 August 2024)
 -   📖 Read chapter 1 - 5 of [Black Summoner](https://anilist.co/manga/101746) (22:10 06 August 2024)
 -   📖 Plans to read [Black Summoner](https://anilist.co/manga/101746) (10:18 06 August 2024)
 -   📖 Read chapter 67 - 68 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (07:56 06 August 2024)
