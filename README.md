@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 6 of [Black Summoner](https://anilist.co/manga/101746) (05:17 08 August 2024)
 -   📖 Read chapter 1 - 5 of [Black Summoner](https://anilist.co/manga/101746) (22:10 06 August 2024)
 -   📖 Plans to read [Black Summoner](https://anilist.co/manga/101746) (10:18 06 August 2024)
 -   📖 Read chapter 67 - 68 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (07:56 06 August 2024)
 -   📖 Read chapter 74 - 88 of [Cheonhwaseogo Daegongja](https://anilist.co/manga/160693) (07:09 06 August 2024)
--   📺 Watched episode 15 - 17 of [That Time I Got Reincarnated as a Slime Season 3](https://anilist.co/anime/156822) (08:15 05 August 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
