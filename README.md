@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 40 - 90 of [Black Summoner](https://anilist.co/manga/101746) (16:05 12 August 2024)
+-   📖 Read chapter 40 - 102 of [Black Summoner](https://anilist.co/manga/101746) (17:06 12 August 2024)
 -   📖 Read chapter 39 of [Black Summoner](https://anilist.co/manga/101746) (00:46 10 August 2024)
 -   📖 Read chapter 38 of [Black Summoner](https://anilist.co/manga/101746) (09:20 09 August 2024)
 -   📖 Read chapter 6 - 37 of [Black Summoner](https://anilist.co/manga/101746) (16:17 08 August 2024)
