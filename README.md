@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 3 of [THE LAST SUMMONER](https://anilist.co/anime/114108) (14:05 15 August 2024)
+-   📺 Watched episode 1 - 5 of [THE LAST SUMMONER](https://anilist.co/anime/114108) (14:56 15 August 2024)
 -   📖 Read chapter 219 of [Nano Machine](https://anilist.co/manga/120980) (07:03 13 August 2024)
 -   📖 Read chapter 51 of [Failure Frame: I Became the Strongest and Annihilated Everything With Low-Level Spells](https://anilist.co/manga/110989) (05:27 13 August 2024)
 -   📖 Read chapter 40 - 146 of [Black Summoner](https://anilist.co/manga/101746) (05:22 13 August 2024)
