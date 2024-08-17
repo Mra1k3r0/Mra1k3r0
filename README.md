@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 21 - 22 of [Suyo Webtoon-ui Na Kang-Rim](https://anilist.co/manga/138705) (06:47 17 August 2024)
 -   📖 Read chapter 1 - 20 of [Suyo Webtoon-ui Na Kang-Rim](https://anilist.co/manga/138705) (17:12 16 August 2024)
 -   📖 Plans to read [Suyo Webtoon-ui Na Kang-Rim](https://anilist.co/manga/138705) (05:35 16 August 2024)
 -   📖 Read chapter 220 of [Nano Machine](https://anilist.co/manga/120980) (05:07 16 August 2024)
 -   📺 Completed [THE LAST SUMMONER](https://anilist.co/anime/114108) (17:42 15 August 2024)
--   📺 Watched episode 1 - 12 of [THE LAST SUMMONER](https://anilist.co/anime/114108) (17:40 15 August 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
