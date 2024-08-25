@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 59 - 61 of [Suyo Webtoon-ui Na Kang-Rim](https://anilist.co/manga/138705) (03:06 25 August 2024)
+-   📖 Read chapter 59 - 62 of [Suyo Webtoon-ui Na Kang-Rim](https://anilist.co/manga/138705) (03:16 25 August 2024)
 -   📖 Read chapter 55 - 58 of [Suyo Webtoon-ui Na Kang-Rim](https://anilist.co/manga/138705) (04:36 23 August 2024)
 -   📖 Read chapter 53 - 54 of [Suyo Webtoon-ui Na Kang-Rim](https://anilist.co/manga/138705) (07:15 22 August 2024)
 -   📖 Read chapter 49 - 51 of [Suyo Webtoon-ui Na Kang-Rim](https://anilist.co/manga/138705) (14:16 21 August 2024)
