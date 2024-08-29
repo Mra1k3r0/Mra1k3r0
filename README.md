@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 89 - 91 of [Cheonhwaseogo Daegongja](https://anilist.co/manga/160693) (10:55 29 August 2024)
 -   📖 Read chapter 37 - 41 of [Reborn as the Enemy Prince](https://anilist.co/manga/169135) (08:13 29 August 2024)
 -   📖 Read chapter 221 - 223 of [Omniscient Reader](https://anilist.co/manga/119257) (07:33 29 August 2024)
 -   📖 Read chapter 64 of [Suyo Webtoon-ui Na Kang-Rim](https://anilist.co/manga/138705) (06:44 27 August 2024)
 -   📖 Read chapter 59 - 62 of [Suyo Webtoon-ui Na Kang-Rim](https://anilist.co/manga/138705) (03:16 25 August 2024)
--   📖 Read chapter 55 - 58 of [Suyo Webtoon-ui Na Kang-Rim](https://anilist.co/manga/138705) (04:36 23 August 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
