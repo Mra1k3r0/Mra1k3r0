@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 70 - 73 of [Helmut](https://anilist.co/manga/154782) (15:49 31 August 2024)
 -   📖 Read chapter 66 - 68 of [Helmut](https://anilist.co/manga/154782) (15:28 30 August 2024)
 -   📖 Read chapter 106 - 111 of [Pick Me Up](https://anilist.co/manga/159441) (15:11 30 August 2024)
 -   📖 Read chapter 72 - 79 of [Boundless Ascension](https://anilist.co/manga/159439) (12:01 30 August 2024)
 -   📖 Read chapter 42 of [Reborn as the Enemy Prince](https://anilist.co/manga/169135) (10:39 30 August 2024)
--   📖 Read chapter 89 - 91 of [Cheonhwaseogo Daegongja](https://anilist.co/manga/160693) (10:55 29 August 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
