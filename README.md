@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 70 - 73 of [Helmut](https://anilist.co/manga/154782) (15:49 31 August 2024)
+-   📖 Read chapter 70 - 80 of [Helmut](https://anilist.co/manga/154782) (16:23 31 August 2024)
 -   📖 Read chapter 66 - 68 of [Helmut](https://anilist.co/manga/154782) (15:28 30 August 2024)
 -   📖 Read chapter 106 - 111 of [Pick Me Up](https://anilist.co/manga/159441) (15:11 30 August 2024)
 -   📖 Read chapter 72 - 79 of [Boundless Ascension](https://anilist.co/manga/159439) (12:01 30 August 2024)
