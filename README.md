@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 5 of [FFF-Class Trashero](https://anilist.co/manga/113666) (05:06 11 September 2024)
+-   📖 Read chapter 1 - 6 of [FFF-Class Trashero](https://anilist.co/manga/113666) (05:12 11 September 2024)
 -   📖 Plans to read [FFF-Class Trashero](https://anilist.co/manga/113666) (03:56 11 September 2024)
 -   📖 Read chapter 29 of [The Gwichon Village Mystery](https://anilist.co/manga/180410) (01:06 11 September 2024)
 -   📖 Read chapter 92 - 93 of [Cheonhwaseogo Daegongja](https://anilist.co/manga/160693) (22:45 10 September 2024)
