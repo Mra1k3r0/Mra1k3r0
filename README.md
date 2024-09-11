@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [FFF-Class Trashero](https://anilist.co/manga/113666) (03:56 11 September 2024)
 -   📖 Read chapter 29 of [The Gwichon Village Mystery](https://anilist.co/manga/180410) (01:06 11 September 2024)
 -   📖 Read chapter 92 - 93 of [Cheonhwaseogo Daegongja](https://anilist.co/manga/160693) (22:45 10 September 2024)
 -   📖 Read chapter 39 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (21:54 10 September 2024)
 -   📖 Read chapter 227 of [Omniscient Reader](https://anilist.co/manga/119257) (21:45 10 September 2024)
--   📖 Read chapter 72 - 73 of [The Devil Never Cries](https://anilist.co/manga/163536) (16:59 09 September 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
