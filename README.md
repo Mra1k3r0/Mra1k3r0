@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 18 - 20 of [That Time I Got Reincarnated as a Slime Season 3](https://anilist.co/anime/156822) (04:10 12 September 2024)
 -   📖 Read chapter 69 - 72 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (12:07 11 September 2024)
 -   📖 Read chapter 147 of [Black Summoner](https://anilist.co/manga/101746) (11:47 11 September 2024)
 -   📖 Read chapter 1 - 16 of [FFF-Class Trashero](https://anilist.co/manga/113666) (11:43 11 September 2024)
 -   📖 Plans to read [FFF-Class Trashero](https://anilist.co/manga/113666) (03:56 11 September 2024)
--   📖 Read chapter 29 of [The Gwichon Village Mystery](https://anilist.co/manga/180410) (01:06 11 September 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
