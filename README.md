@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 5 - 7 of [BLUE LOCK](https://anilist.co/anime/137822) (21:50 13 September 2024)
+-   📺 Watched episode 5 - 8 of [BLUE LOCK](https://anilist.co/anime/137822) (00:03 14 September 2024)
 -   📺 Watched episode 1 - 4 of [BLUE LOCK](https://anilist.co/anime/137822) (14:38 12 September 2024)
 -   📺 Watched episode 18 - 21 of [That Time I Got Reincarnated as a Slime Season 3](https://anilist.co/anime/156822) (04:11 12 September 2024)
 -   📖 Read chapter 69 - 72 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (12:07 11 September 2024)
