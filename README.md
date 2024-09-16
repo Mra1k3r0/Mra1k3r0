@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 73 - 78 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (05:02 16 September 2024)
 -   📺 Completed [BLUE LOCK](https://anilist.co/anime/137822) (19:16 15 September 2024)
 -   📺 Watched episode 9 - 23 of [BLUE LOCK](https://anilist.co/anime/137822) (18:51 15 September 2024)
 -   📺 Watched episode 5 - 8 of [BLUE LOCK](https://anilist.co/anime/137822) (00:03 14 September 2024)
 -   📺 Watched episode 1 - 4 of [BLUE LOCK](https://anilist.co/anime/137822) (14:38 12 September 2024)
--   📺 Watched episode 18 - 21 of [That Time I Got Reincarnated as a Slime Season 3](https://anilist.co/anime/156822) (04:11 12 September 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
