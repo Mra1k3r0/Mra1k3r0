@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 43 - 44 of [Reborn as the Enemy Prince](https://anilist.co/manga/169135) (11:51 17 September 2024)
+-   📖 Read chapter 74 of [The Devil Never Cries](https://anilist.co/manga/163536) (11:39 17 September 2024)
+-   📖 Read chapter 73 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (11:32 17 September 2024)
+-   📖 Read chapter 94 of [Cheonhwaseogo Daegongja](https://anilist.co/manga/160693) (11:24 17 September 2024)
 -   📖 Read chapter 46 - 62 of [Byeonbangui Oenoja](https://anilist.co/manga/140041) (06:52 17 September 2024)
--   📖 Read chapter 73 - 78 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (05:02 16 September 2024)
--   📺 Completed [BLUE LOCK](https://anilist.co/anime/137822) (19:16 15 September 2024)
--   📺 Watched episode 9 - 23 of [BLUE LOCK](https://anilist.co/anime/137822) (18:51 15 September 2024)
--   📺 Watched episode 5 - 8 of [BLUE LOCK](https://anilist.co/anime/137822) (00:03 14 September 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
