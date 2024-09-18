@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 228 of [Omniscient Reader](https://anilist.co/manga/119257) (03:20 18 September 2024)
 -   📖 Read chapter 221 - 224 of [Nano Machine](https://anilist.co/manga/120980) (14:56 17 September 2024)
 -   📖 Read chapter 43 - 44 of [Reborn as the Enemy Prince](https://anilist.co/manga/169135) (11:51 17 September 2024)
 -   📖 Read chapter 74 of [The Devil Never Cries](https://anilist.co/manga/163536) (11:39 17 September 2024)
 -   📖 Read chapter 73 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (11:32 17 September 2024)
--   📖 Read chapter 94 of [Cheonhwaseogo Daegongja](https://anilist.co/manga/160693) (11:24 17 September 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
