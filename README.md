@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 79 - 80 of [After Ten Millennia in Hell](https://anilist.co/manga/153284) (01:59 19 September 2024)
+-   📖 Read chapter 40 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (01:41 19 September 2024)
 -   📖 Read chapter 225 of [Nano Machine](https://anilist.co/manga/120980) (16:36 18 September 2024)
 -   📖 Read chapter 6 of [Monster Streamer for Gods](https://anilist.co/manga/147943) (09:24 18 September 2024)
 -   📖 Read chapter 228 of [Omniscient Reader](https://anilist.co/manga/119257) (03:20 18 September 2024)
--   📖 Read chapter 221 - 224 of [Nano Machine](https://anilist.co/manga/120980) (14:56 17 September 2024)
--   📖 Read chapter 43 - 44 of [Reborn as the Enemy Prince](https://anilist.co/manga/169135) (11:51 17 September 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
