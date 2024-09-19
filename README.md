@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 2 of [The King of Gaming Bugs!](https://anilist.co/manga/132791) (08:19 19 September 2024)
 -   📖 Plans to read [The King of Gaming Bugs!](https://anilist.co/manga/132791) (05:50 19 September 2024)
 -   📖 Read chapter 79 - 94 of [After Ten Millennia in Hell](https://anilist.co/manga/153284) (05:44 19 September 2024)
 -   📖 Read chapter 40 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (01:41 19 September 2024)
 -   📖 Read chapter 225 of [Nano Machine](https://anilist.co/manga/120980) (16:36 18 September 2024)
--   📖 Read chapter 6 of [Monster Streamer for Gods](https://anilist.co/manga/147943) (09:24 18 September 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
