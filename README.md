@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 5 - 13 of [The King of Gaming Bugs!](https://anilist.co/manga/132791) (14:07 20 September 2024)
+-   📖 Read chapter 5 - 20 of [The King of Gaming Bugs!](https://anilist.co/manga/132791) (14:41 20 September 2024)
 -   📖 Read chapter 2 of [The King of Gaming Bugs!](https://anilist.co/manga/132791) (08:19 19 September 2024)
 -   📖 Plans to read [The King of Gaming Bugs!](https://anilist.co/manga/132791) (05:50 19 September 2024)
 -   📖 Read chapter 79 - 94 of [After Ten Millennia in Hell](https://anilist.co/manga/153284) (05:44 19 September 2024)
