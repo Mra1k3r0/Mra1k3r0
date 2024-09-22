@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 66 - 75 of [The King of Gaming Bugs!](https://anilist.co/manga/132791) (07:59 22 September 2024)
+-   📖 Read chapter 66 - 85 of [The King of Gaming Bugs!](https://anilist.co/manga/132791) (09:07 22 September 2024)
 -   📖 Read chapter 63 - 65 of [The King of Gaming Bugs!](https://anilist.co/manga/132791) (18:33 21 September 2024)
 -   📖 Read chapter 5 - 62 of [The King of Gaming Bugs!](https://anilist.co/manga/132791) (19:11 20 September 2024)
 -   📖 Read chapter 2 of [The King of Gaming Bugs!](https://anilist.co/manga/132791) (08:19 19 September 2024)
