@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 22 - 23 of [That Time I Got Reincarnated as a Slime Season 3](https://anilist.co/anime/156822) (16:39 24 September 2024)
 -   📖 Completed [The King of Gaming Bugs!](https://anilist.co/manga/132791) (12:02 22 September 2024)
 -   📖 Read chapter 66 - 119 of [The King of Gaming Bugs!](https://anilist.co/manga/132791) (12:00 22 September 2024)
 -   📖 Read chapter 63 - 65 of [The King of Gaming Bugs!](https://anilist.co/manga/132791) (18:33 21 September 2024)
 -   📖 Read chapter 5 - 62 of [The King of Gaming Bugs!](https://anilist.co/manga/132791) (19:11 20 September 2024)
--   📖 Read chapter 2 of [The King of Gaming Bugs!](https://anilist.co/manga/132791) (08:19 19 September 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
