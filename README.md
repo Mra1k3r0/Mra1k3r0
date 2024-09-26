@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Meiou-sama ga Tooru no desu yo! @COMIC](https://anilist.co/manga/147583) (06:23 26 September 2024)
 -   📖 Read chapter 95 of [Cheonhwaseogo Daegongja](https://anilist.co/manga/160693) (02:54 25 September 2024)
 -   📖 Read chapter 74 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (02:50 25 September 2024)
 -   📖 Read chapter 133 of [66,666 Years: Advent of the Dark Mage](https://anilist.co/manga/137595) (00:02 25 September 2024)
 -   📖 Read chapter 229 of [Omniscient Reader](https://anilist.co/manga/119257) (00:01 25 September 2024)
--   📺 Watched episode 22 - 23 of [That Time I Got Reincarnated as a Slime Season 3](https://anilist.co/anime/156822) (16:39 24 September 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
