@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 41 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (04:47 29 September 2024)
 -   📖 Read chapter 3 of [Gatin Bang](https://anilist.co/manga/181986) (22:27 27 September 2024)
 -   📖 Completed [Meiou-sama ga Tooru no desu yo! @COMIC](https://anilist.co/manga/147583) (11:12 27 September 2024)
 -   📖 Read chapter 1 - 17 of [Meiou-sama ga Tooru no desu yo! @COMIC](https://anilist.co/manga/147583) (11:02 27 September 2024)
 -   📖 Plans to read [Meiou-sama ga Tooru no desu yo! @COMIC](https://anilist.co/manga/147583) (06:23 26 September 2024)
--   📖 Read chapter 95 of [Cheonhwaseogo Daegongja](https://anilist.co/manga/160693) (02:54 25 September 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
