@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 226 of [Nano Machine](https://anilist.co/manga/120980) (16:01 04 October 2024)
+-   📖 Read chapter 226 - 227 of [Nano Machine](https://anilist.co/manga/120980) (16:13 04 October 2024)
 -   📖 Read chapter 75 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (15:48 04 October 2024)
 -   📖 Read chapter 230 of [Omniscient Reader](https://anilist.co/manga/119257) (15:37 04 October 2024)
 -   📖 Read chapter 42 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (15:31 04 October 2024)
