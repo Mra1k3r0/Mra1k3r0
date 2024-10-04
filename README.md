@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (23:00 04 October 2024)
+-   📖 Read chapter 96 of [Cheonhwaseogo Daegongja](https://anilist.co/manga/160693) (22:51 04 October 2024)
+-   📖 Read chapter 108 of [Mythic Item Obtained](https://anilist.co/manga/151025) (22:42 04 October 2024)
 -   📖 Read chapter 226 - 227 of [Nano Machine](https://anilist.co/manga/120980) (16:13 04 October 2024)
 -   📖 Read chapter 75 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (15:48 04 October 2024)
--   📖 Read chapter 230 of [Omniscient Reader](https://anilist.co/manga/119257) (15:37 04 October 2024)
--   📖 Read chapter 42 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (15:31 04 October 2024)
--   📖 Read chapter 41 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (04:47 29 September 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
