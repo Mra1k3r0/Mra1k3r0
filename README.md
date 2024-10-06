@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 4 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (03:15 06 October 2024)
+-   📖 Read chapter 1 - 8 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (04:07 06 October 2024)
 -   📖 Plans to read [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (23:00 04 October 2024)
 -   📖 Read chapter 96 of [Cheonhwaseogo Daegongja](https://anilist.co/manga/160693) (22:51 04 October 2024)
 -   📖 Read chapter 108 of [Mythic Item Obtained](https://anilist.co/manga/151025) (22:42 04 October 2024)
