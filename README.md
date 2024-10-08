@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 43 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (04:10 08 October 2024)
+-   📖 Read chapter 97 of [Cheonhwaseogo Daegongja](https://anilist.co/manga/160693) (04:01 08 October 2024)
+-   📖 Read chapter 46 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (03:55 08 October 2024)
+-   📖 Read chapter 46 - 47 of [Reborn as the Enemy Prince](https://anilist.co/manga/169135) (03:22 08 October 2024)
 -   📖 Read chapter 45 of [Reborn as the Enemy Prince](https://anilist.co/manga/169135) (00:55 07 October 2024)
--   📖 Read chapter 1 - 45 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (16:53 06 October 2024)
--   📖 Plans to read [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (23:00 04 October 2024)
--   📖 Read chapter 96 of [Cheonhwaseogo Daegongja](https://anilist.co/manga/160693) (22:51 04 October 2024)
--   📖 Read chapter 108 of [Mythic Item Obtained](https://anilist.co/manga/151025) (22:42 04 October 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
