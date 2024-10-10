@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 79 - 81 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (12:13 10 October 2024)
 -   📖 Read chapter 43 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (04:10 08 October 2024)
 -   📖 Read chapter 97 of [Cheonhwaseogo Daegongja](https://anilist.co/manga/160693) (04:01 08 October 2024)
 -   📖 Read chapter 46 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (03:55 08 October 2024)
 -   📖 Read chapter 46 - 47 of [Reborn as the Enemy Prince](https://anilist.co/manga/169135) (03:22 08 October 2024)
--   📖 Read chapter 45 of [Reborn as the Enemy Prince](https://anilist.co/manga/169135) (00:55 07 October 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
