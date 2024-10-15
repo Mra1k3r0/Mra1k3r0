@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 44 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (11:25 15 October 2024)
+-   📖 Read chapter 30 - 33 of [The Gwichon Village Mystery](https://anilist.co/manga/180410) (11:21 15 October 2024)
 -   📖 Read chapter 98 of [Cheonhwaseogo Daegongja](https://anilist.co/manga/160693) (05:14 15 October 2024)
 -   📖 Read chapter 228 of [Nano Machine](https://anilist.co/manga/120980) (05:09 15 October 2024)
 -   📖 Read chapter 47 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (05:02 15 October 2024)
--   📖 Read chapter 231 of [Omniscient Reader](https://anilist.co/manga/119257) (12:21 10 October 2024)
--   📖 Read chapter 79 - 81 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (12:13 10 October 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
