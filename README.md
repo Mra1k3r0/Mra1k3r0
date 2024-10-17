@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [That Time I Got Reincarnated as a Slime Season 3](https://anilist.co/anime/156822) (16:41 17 October 2024)
 -   📺 Watched episode 21 - 23 of [That Time I Got Reincarnated as a Slime Season 3](https://anilist.co/anime/156822) (13:16 17 October 2024)
 -   📖 Read chapter 76 - 77 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (12:40 15 October 2024)
 -   📖 Read chapter 44 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (11:25 15 October 2024)
 -   📖 Read chapter 30 - 33 of [The Gwichon Village Mystery](https://anilist.co/manga/180410) (11:21 15 October 2024)
--   📖 Read chapter 98 of [Cheonhwaseogo Daegongja](https://anilist.co/manga/160693) (05:14 15 October 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
