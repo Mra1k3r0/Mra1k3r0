@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 21 of [The Reincarnation of the Strongest Exorcist In Another World](https://anilist.co/manga/123544) (01:49 24 October 2024)
 -   📖 Read chapter 101 - 102 of [Boundless Ascension](https://anilist.co/manga/159439) (11:58 22 October 2024)
 -   📖 Read chapter 45 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (13:17 21 October 2024)
 -   📖 Read chapter 48 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (13:12 21 October 2024)
 -   📖 Read chapter 40 - 41 of [The Last Adventurer](https://anilist.co/manga/177982) (11:05 21 October 2024)
--   📖 Read chapter 99 of [Cheonhwaseogo Daegongja](https://anilist.co/manga/160693) (10:56 21 October 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
