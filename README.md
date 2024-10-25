@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 30 of [The Reincarnation of the Strongest Exorcist In Another World](https://anilist.co/manga/123544) (03:02 25 October 2024)
+-   📖 Read chapter 30 - 35 of [The Reincarnation of the Strongest Exorcist In Another World](https://anilist.co/manga/123544) (11:09 25 October 2024)
 -   📖 Read chapter 21 of [The Reincarnation of the Strongest Exorcist In Another World](https://anilist.co/manga/123544) (01:49 24 October 2024)
 -   📖 Read chapter 101 - 102 of [Boundless Ascension](https://anilist.co/manga/159439) (11:58 22 October 2024)
 -   📖 Read chapter 45 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (13:17 21 October 2024)
