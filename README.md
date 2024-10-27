@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 100 - 102 of [The Novel's Extra](https://anilist.co/manga/152128) (17:04 27 October 2024)
 -   📖 Read chapter 230 of [Nano Machine](https://anilist.co/manga/120980) (14:01 27 October 2024)
 -   📖 Read chapter 233 of [Omniscient Reader](https://anilist.co/manga/119257) (13:54 27 October 2024)
 -   📖 Read chapter 100 of [Cheonhwaseogo Daegongja](https://anilist.co/manga/160693) (13:50 27 October 2024)
 -   📖 Read chapter 79 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (13:16 27 October 2024)
--   📖 Read chapter 49 - 50 of [Reborn as the Enemy Prince](https://anilist.co/manga/169135) (13:13 27 October 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
