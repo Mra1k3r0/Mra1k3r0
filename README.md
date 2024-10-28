@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 86 - 110 of [Becoming a Magic School Mage](https://anilist.co/manga/159397) (06:08 28 October 2024)
+-   📖 Read chapter 49 of [Cleric of Decay](https://anilist.co/manga/167165) (07:04 28 October 2024)
+-   📖 Read chapter 86 - 116 of [Becoming a Magic School Mage](https://anilist.co/manga/159397) (07:00 28 October 2024)
 -   📖 Read chapter 95 - 98 of [After Ten Millennia in Hell](https://anilist.co/manga/153284) (17:42 27 October 2024)
 -   📖 Read chapter 78 of [The Mage: Swallowed the Dragon](https://anilist.co/manga/168287) (17:08 27 October 2024)
 -   📖 Read chapter 100 - 102 of [The Novel's Extra](https://anilist.co/manga/152128) (17:04 27 October 2024)
--   📖 Read chapter 230 of [Nano Machine](https://anilist.co/manga/120980) (14:01 27 October 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
