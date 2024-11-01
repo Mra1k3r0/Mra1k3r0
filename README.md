@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 103 of [The Novel's Extra](https://anilist.co/manga/152128) (08:56 01 November 2024)
+-   📖 Read chapter 46 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (08:45 01 November 2024)
+-   📖 Read chapter 80 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (08:37 01 November 2024)
+-   📖 Read chapter 234 of [Omniscient Reader](https://anilist.co/manga/119257) (08:32 01 November 2024)
 -   📖 Read chapter 45 of [Wistoria: Wand and Sword](https://anilist.co/manga/125116) (16:44 30 October 2024)
--   📖 Read chapter 82 - 84 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (17:04 28 October 2024)
--   📖 Read chapter 49 - 59 of [Cleric of Decay](https://anilist.co/manga/167165) (08:15 28 October 2024)
--   📖 Read chapter 86 - 116 of [Becoming a Magic School Mage](https://anilist.co/manga/159397) (07:00 28 October 2024)
--   📖 Read chapter 95 - 98 of [After Ten Millennia in Hell](https://anilist.co/manga/153284) (17:42 27 October 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
