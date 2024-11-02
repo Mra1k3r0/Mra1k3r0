@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 231 of [Nano Machine](https://anilist.co/manga/120980) (19:05 02 November 2024)
 -   📖 Read chapter 26 - 80 of [Demon King of the Royal Class](https://anilist.co/manga/160750) (17:31 02 November 2024)
 -   📖 Read chapter 103 of [The Novel's Extra](https://anilist.co/manga/152128) (08:56 01 November 2024)
 -   📖 Read chapter 46 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (08:45 01 November 2024)
 -   📖 Read chapter 80 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (08:37 01 November 2024)
--   📖 Read chapter 234 of [Omniscient Reader](https://anilist.co/manga/119257) (08:32 01 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
