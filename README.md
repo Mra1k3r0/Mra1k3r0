@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 26 - 32 of [Demon King of the Royal Class](https://anilist.co/manga/160750) (12:10 02 November 2024)
+-   📖 Read chapter 26 - 40 of [Demon King of the Royal Class](https://anilist.co/manga/160750) (12:59 02 November 2024)
 -   📖 Read chapter 103 of [The Novel's Extra](https://anilist.co/manga/152128) (08:56 01 November 2024)
 -   📖 Read chapter 46 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (08:45 01 November 2024)
 -   📖 Read chapter 80 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (08:37 01 November 2024)
