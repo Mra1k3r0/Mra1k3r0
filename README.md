@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 85 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (19:21 03 November 2024)
 -   📖 Read chapter 49 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (19:27 02 November 2024)
 -   📖 Read chapter 101 of [Cheonhwaseogo Daegongja](https://anilist.co/manga/160693) (19:09 02 November 2024)
 -   📖 Read chapter 231 of [Nano Machine](https://anilist.co/manga/120980) (19:05 02 November 2024)
 -   📖 Read chapter 26 - 80 of [Demon King of the Royal Class](https://anilist.co/manga/160750) (17:31 02 November 2024)
--   📖 Read chapter 103 of [The Novel's Extra](https://anilist.co/manga/152128) (08:56 01 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
