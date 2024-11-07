@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 81 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (22:01 07 November 2024)
+-   📖 Read chapter 47 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (21:53 07 November 2024)
+-   📺 Watched episode 1 - 12 of [Yu Yu Hakusho: Ghostfiles](https://anilist.co/anime/392) (21:15 07 November 2024)
 -   📺 Watched episode 11 of [My Teen Romantic Comedy SNAFU](https://anilist.co/anime/14813) (11:37 07 November 2024)
 -   📖 Read chapter 51 of [Reborn as the Enemy Prince](https://anilist.co/manga/169135) (13:17 06 November 2024)
--   📖 Read chapter 235 of [Omniscient Reader](https://anilist.co/manga/119257) (13:12 06 November 2024)
--   📖 Read chapter 11 of [Teukseong Ssanneun Kim Jeon-Sa](https://anilist.co/manga/181829) (13:40 04 November 2024)
--   📖 Read chapter 85 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (19:21 03 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
