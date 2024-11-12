@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 2 - 4 of [Re:ZERO -Starting Life in Another World- Season 3](https://anilist.co/anime/163134) (13:12 12 November 2024)
+-   📺 Watched episode 2 - 6 of [Re:ZERO -Starting Life in Another World- Season 3](https://anilist.co/anime/163134) (13:56 12 November 2024)
 -   📺 Plans to watch [Re:ZERO -Starting Life in Another World- Season 3](https://anilist.co/anime/163134) (07:51 12 November 2024)
 -   📖 Read chapter 86 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (07:45 12 November 2024)
 -   📖 Read chapter 102 of [Cheonhwaseogo Daegongja](https://anilist.co/manga/160693) (07:38 12 November 2024)
