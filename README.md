@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 2 of [The King's Avatar](https://anilist.co/anime/98861) (18:56 15 November 2024)
+-   📺 Watched episode 2 - 5 of [The King's Avatar](https://anilist.co/anime/98861) (20:02 15 November 2024)
 -   📺 Watched episode 7 of [Re:ZERO -Starting Life in Another World- Season 3](https://anilist.co/anime/163134) (18:03 15 November 2024)
 -   📖 Read chapter 236 of [Omniscient Reader](https://anilist.co/manga/119257) (08:50 13 November 2024)
 -   📖 Read chapter 50 - 51 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (08:42 13 November 2024)
