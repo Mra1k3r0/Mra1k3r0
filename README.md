@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 7 of [Re:ZERO -Starting Life in Another World- Season 3](https://anilist.co/anime/163134) (18:03 15 November 2024)
 -   📖 Read chapter 236 of [Omniscient Reader](https://anilist.co/manga/119257) (08:50 13 November 2024)
 -   📖 Read chapter 50 - 51 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (08:42 13 November 2024)
 -   📺 Watched episode 2 - 6 of [Re:ZERO -Starting Life in Another World- Season 3](https://anilist.co/anime/163134) (13:56 12 November 2024)
 -   📺 Plans to watch [Re:ZERO -Starting Life in Another World- Season 3](https://anilist.co/anime/163134) (07:51 12 November 2024)
--   📖 Read chapter 86 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (07:45 12 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
