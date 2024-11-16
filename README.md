@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 2 of [Quanzhi Gaoshou Specials](https://anilist.co/anime/101410) (02:00 16 November 2024)
+-   📺 Watched episode 2 - 3 of [Quanzhi Gaoshou Specials](https://anilist.co/anime/101410) (02:24 16 November 2024)
 -   📺 Completed [The King's Avatar](https://anilist.co/anime/98861) (23:21 15 November 2024)
 -   📺 Watched episode 2 - 12 of [The King's Avatar](https://anilist.co/anime/98861) (22:31 15 November 2024)
 -   📺 Watched episode 7 of [Re:ZERO -Starting Life in Another World- Season 3](https://anilist.co/anime/163134) (18:03 15 November 2024)
