@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 2 - 3 of [Quanzhi Gaoshou Specials](https://anilist.co/anime/101410) (02:24 16 November 2024)
--   📺 Completed [The King's Avatar](https://anilist.co/anime/98861) (23:21 15 November 2024)
--   📺 Watched episode 2 - 12 of [The King's Avatar](https://anilist.co/anime/98861) (22:31 15 November 2024)
--   📺 Watched episode 7 of [Re:ZERO -Starting Life in Another World- Season 3](https://anilist.co/anime/163134) (18:03 15 November 2024)
--   📖 Read chapter 236 of [Omniscient Reader](https://anilist.co/manga/119257) (08:50 13 November 2024)
+-   📖 Read chapter 48 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (03:43 16 November 2024)
+-   📖 Read chapter 52 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (03:43 16 November 2024)
+-   📖 Read chapter 233 of [Nano Machine](https://anilist.co/manga/120980) (03:43 16 November 2024)
+-   📖 Read chapter 62 of [Cleric of Decay](https://anilist.co/manga/167165) (03:43 16 November 2024)
+-   📖 Read chapter 82 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (03:43 16 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
