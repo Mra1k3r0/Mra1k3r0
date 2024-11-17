@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 7 of [The Great Wizard Transcendent](https://anilist.co/manga/155618) (00:05 17 November 2024)
 -   📖 Read chapter 48 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (03:43 16 November 2024)
 -   📖 Read chapter 52 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (03:43 16 November 2024)
 -   📖 Read chapter 233 of [Nano Machine](https://anilist.co/manga/120980) (03:43 16 November 2024)
 -   📖 Read chapter 62 of [Cleric of Decay](https://anilist.co/manga/167165) (03:43 16 November 2024)
--   📖 Read chapter 82 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (03:43 16 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
