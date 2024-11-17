@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 7 - 101 of [The Great Wizard Transcendent](https://anilist.co/manga/155618) (19:01 17 November 2024)
+-   📖 Read chapter 49 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (19:43 17 November 2024)
+-   📖 Read chapter 87 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (19:38 17 November 2024)
+-   📖 Read chapter 103 of [Cheonhwaseogo Daegongja](https://anilist.co/manga/160693) (19:30 17 November 2024)
+-   📖 Read chapter 7 - 107 of [The Great Wizard Transcendent](https://anilist.co/manga/155618) (19:25 17 November 2024)
 -   📖 Read chapter 48 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (03:43 16 November 2024)
--   📖 Read chapter 52 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (03:43 16 November 2024)
--   📖 Read chapter 233 of [Nano Machine](https://anilist.co/manga/120980) (03:43 16 November 2024)
--   📖 Read chapter 62 of [Cleric of Decay](https://anilist.co/manga/167165) (03:43 16 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
