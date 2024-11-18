@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 3 of [The Legendary Spearman Returns](https://anilist.co/manga/141479) (18:10 18 November 2024)
+-   📖 Plans to read [The Legendary Spearman Returns](https://anilist.co/manga/141479) (17:31 18 November 2024)
 -   📺 Completed [Quanzhi Gaoshou Specials](https://anilist.co/anime/101410) (05:28 18 November 2024)
 -   📺 Completed [The King's Avatar: For the Glory](https://anilist.co/anime/108981) (05:28 18 November 2024)
 -   📖 Read chapter 49 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (19:43 17 November 2024)
--   📖 Read chapter 87 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (19:38 17 November 2024)
--   📖 Read chapter 103 of [Cheonhwaseogo Daegongja](https://anilist.co/manga/160693) (19:30 17 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
