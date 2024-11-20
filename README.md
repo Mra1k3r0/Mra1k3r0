@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 119 of [The Legendary Spearman Returns](https://anilist.co/manga/141479) (23:27 19 November 2024)
+-   📖 Read chapter 1 - 121 of [The Legendary Spearman Returns](https://anilist.co/manga/141479) (02:53 20 November 2024)
 -   📖 Plans to read [The Legendary Spearman Returns](https://anilist.co/manga/141479) (17:31 18 November 2024)
 -   📺 Completed [Quanzhi Gaoshou Specials](https://anilist.co/anime/101410) (05:28 18 November 2024)
 -   📺 Completed [The King's Avatar: For the Glory](https://anilist.co/anime/108981) (05:28 18 November 2024)
