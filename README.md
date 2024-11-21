@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 19 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (09:04 21 November 2024)
+-   📖 Read chapter 1 - 27 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (10:02 21 November 2024)
 -   📖 Plans to read [Myst, Might, Mayhem](https://anilist.co/manga/175946) (07:22 21 November 2024)
 -   📖 Read chapter 127 - 150 of [The Legendary Spearman Returns](https://anilist.co/manga/141479) (05:56 21 November 2024)
 -   📖 Read chapter 1 - 126 of [The Legendary Spearman Returns](https://anilist.co/manga/141479) (06:17 20 November 2024)
