@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 127 - 137 of [The Legendary Spearman Returns](https://anilist.co/manga/141479) (04:08 21 November 2024)
+-   📖 Read chapter 127 - 144 of [The Legendary Spearman Returns](https://anilist.co/manga/141479) (04:59 21 November 2024)
 -   📖 Read chapter 1 - 126 of [The Legendary Spearman Returns](https://anilist.co/manga/141479) (06:17 20 November 2024)
 -   📖 Plans to read [The Legendary Spearman Returns](https://anilist.co/manga/141479) (17:31 18 November 2024)
 -   📺 Completed [Quanzhi Gaoshou Specials](https://anilist.co/anime/101410) (05:28 18 November 2024)
