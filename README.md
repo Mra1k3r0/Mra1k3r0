@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 106 of [The Novel's Extra](https://anilist.co/manga/152128) (12:48 21 November 2024)
+-   📖 Read chapter 237 of [Omniscient Reader](https://anilist.co/manga/119257) (12:37 21 November 2024)
+-   📖 Read chapter 83 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (12:30 21 November 2024)
 -   📖 Read chapter 1 - 48 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (12:01 21 November 2024)
 -   📖 Plans to read [Myst, Might, Mayhem](https://anilist.co/manga/175946) (07:22 21 November 2024)
--   📖 Read chapter 127 - 150 of [The Legendary Spearman Returns](https://anilist.co/manga/141479) (05:56 21 November 2024)
--   📖 Read chapter 1 - 126 of [The Legendary Spearman Returns](https://anilist.co/manga/141479) (06:17 20 November 2024)
--   📖 Plans to read [The Legendary Spearman Returns](https://anilist.co/manga/141479) (17:31 18 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
