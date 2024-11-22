@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 140 - 183 of [Teenage Mercenary](https://anilist.co/manga/126297) (16:43 21 November 2024)
+-   📖 Read chapter 140 - 200 of [Teenage Mercenary](https://anilist.co/manga/126297) (02:15 22 November 2024)
 -   📖 Read chapter 106 of [The Novel's Extra](https://anilist.co/manga/152128) (12:48 21 November 2024)
 -   📖 Read chapter 237 of [Omniscient Reader](https://anilist.co/manga/119257) (12:37 21 November 2024)
 -   📖 Read chapter 83 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (12:30 21 November 2024)
