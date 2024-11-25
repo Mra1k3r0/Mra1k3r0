@@ -2,9 +2,9 @@ name: AniList readme workflow
 on:
   schedule:
     - cron: "0 * * * *"
-  push:
-    branches: 
-      - master 
+#  push:
+#    branches: 
+#      - master 
   workflow_dispatch:
 
 jobs:
