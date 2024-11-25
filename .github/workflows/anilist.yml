@@ -27,7 +27,7 @@ jobs:
       - name: Generate coverage report
         id: generate_coverage
         run: |
-          node << EOF
+          node << 'EOF'
           const fs = require('fs');
           const crypto = require('crypto');
 
@@ -63,20 +63,20 @@ jobs:
               ]
             };
 
-            const xmlContent = \`<?xml version="1.0" ?>
-          <coverage version="1" timestamp="\${coverage.timestamp}">
+            const xmlContent = `<?xml version="1.0" ?>
+          <coverage version="1" timestamp="${coverage.timestamp}">
             <packages>
-              <package name="\${coverage.packages[0].name}" line-rate="\${coverage.packages[0]['line-rate']}" branch-rate="\${coverage.packages[0]['branch-rate']}">
+              <package name="${coverage.packages[0].name}" line-rate="${coverage.packages[0]['line-rate']}" branch-rate="${coverage.packages[0]['branch-rate']}">
                 <classes>
-                  <class name="\${coverage.packages[0].classes[0].name}" filename="\${coverage.packages[0].classes[0].filename}" line-rate="\${coverage.packages[0].classes[0]['line-rate']}" branch-rate="\${coverage.packages[0].classes[0]['branch-rate']}">
+                  <class name="${coverage.packages[0].classes[0].name}" filename="${coverage.packages[0].classes[0].filename}" line-rate="${coverage.packages[0].classes[0]['line-rate']}" branch-rate="${coverage.packages[0].classes[0]['branch-rate']}">
                     <lines>
-                      <line number="\${coverage.packages[0].classes[0].lines[0].number}" hits="\${coverage.packages[0].classes[0].lines[0].hits}"/>
+                      <line number="${coverage.packages[0].classes[0].lines[0].number}" hits="${coverage.packages[0].classes[0].lines[0].hits}"/>
                     </lines>
                   </class>
                 </classes>
               </package>
             </packages>
-          </coverage>\`;
+          </coverage>`;
 
             const randomFileName = `coverage-${crypto.randomBytes(8).toString('hex')}.xml`;
             const filePath = `coverage/${randomFileName}`;
