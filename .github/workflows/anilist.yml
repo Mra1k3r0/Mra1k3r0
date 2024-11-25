@@ -24,7 +24,7 @@ jobs:
       - name: Create coverage directory
         run: mkdir -p coverage
       
-      - name: Generate coverage report
+      - name: Generate coverage report and random artifact name
         id: generate_coverage
         run: |
           node << 'EOF'
@@ -78,11 +78,13 @@ jobs:
             </packages>
           </coverage>`;
 
-            const randomFileName = `coverage-${crypto.randomBytes(8).toString('hex')}.xml`;
-            const filePath = `coverage/${randomFileName}`;
+            const filePath = 'coverage/coverage.xml';
             fs.writeFileSync(filePath, xmlContent);
             console.log('Coverage report generated successfully.');
+
+            const randomArtifactName = `coverage-report-${crypto.randomBytes(8).toString('hex')}`;
             console.log(`::set-output name=coverage_file::${filePath}`);
+            console.log(`::set-output name=artifact_name::${randomArtifactName}`);
           };
 
           generateCoverageReport();
@@ -95,15 +97,15 @@ jobs:
           files: ${{ steps.generate_coverage.outputs.coverage_file }}
           fail_ci_if_error: true
           verbose: true
-          #name: mra1k3r0
+          #name: mraik3r0
           #override_branch: ${{ github.ref }}
-          override_commit: ${{ github.sha }}
-          override_build: ${{ github.run_id }}
-          override_pr: ${{ github.event.pull_request.number }}
+          #override_commit: ${{ github.sha }}
+          #override_build: ${{ github.run_id }}
+          #override_pr: ${{ github.event.pull_request.number }}
       
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
-          name: coverage-report
+          name: ${{ steps.generate_coverage.outputs.artifact_name }}
           path: ${{ steps.generate_coverage.outputs.coverage_file }}
           retention-days: 5
