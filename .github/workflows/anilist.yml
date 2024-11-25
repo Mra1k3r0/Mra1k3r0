@@ -3,6 +3,9 @@ on:
   schedule:
     # Runs every hour
     - cron: "0 * * * *"
+  push:
+    branches: 
+      - master 
   workflow_dispatch:
 
 jobs:
@@ -33,8 +36,8 @@ jobs:
           files: ./coverage.xml
           fail_ci_if_error: true
           verbose: true
-          name: mra1k3r0
-          override_branch: master
-          override_commit: ${{ github.sha }}
-          override_build: ${{ github.run_id }}
-          override_pr: ${{ github.event.pull_request.number }}
+         # name: mra1k3r0
+         # override_branch: master
+         # override_commit: ${{ github.sha }}
+         # override_build: ${{ github.run_id }}
+         # override_pr: ${{ github.event.pull_request.number }}
