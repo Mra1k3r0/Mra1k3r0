@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 50 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (16:05 27 November 2024)
+-   📖 Read chapter 238 of [Omniscient Reader](https://anilist.co/manga/119257) (15:41 27 November 2024)
 -   📖 Read chapter 78 of [Maryoku 9999-man: Zen Zokusei Tsukai no Dai Kenja](https://anilist.co/manga/162064) (10:38 25 November 2024)
 -   📖 Read chapter 215 of [Teenage Mercenary](https://anilist.co/manga/126297) (18:07 24 November 2024)
 -   📖 Read chapter 53 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (08:40 24 November 2024)
--   📖 Read chapter 77 of [Maryoku 9999-man: Zen Zokusei Tsukai no Dai Kenja](https://anilist.co/manga/162064) (03:06 24 November 2024)
--   📖 Read chapter 52 - 76 of [Maryoku 9999-man: Zen Zokusei Tsukai no Dai Kenja](https://anilist.co/manga/162064) (11:18 23 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
