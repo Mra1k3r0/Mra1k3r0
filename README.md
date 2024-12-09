@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 6 of [Dead Mansion](https://anilist.co/manga/181996) (14:47 09 December 2024)
+-   📖 Read chapter 50 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (14:19 09 December 2024)
+-   📖 Read chapter 85 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (14:15 09 December 2024)
 -   📖 Read chapter 236 of [Nano Machine](https://anilist.co/manga/120980) (05:25 09 December 2024)
 -   📖 Read chapter 106 of [Cheonhwaseogo Daegongja](https://anilist.co/manga/160693) (05:25 09 December 2024)
--   📖 Read chapter 239 of [Omniscient Reader](https://anilist.co/manga/119257) (05:25 09 December 2024)
--   📖 Read chapter 55 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (03:08 09 December 2024)
--   📖 Read chapter 90 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (03:02 09 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
