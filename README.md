@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 236 of [Nano Machine](https://anilist.co/manga/120980) (05:25 09 December 2024)
+-   📖 Read chapter 106 of [Cheonhwaseogo Daegongja](https://anilist.co/manga/160693) (05:25 09 December 2024)
+-   📖 Read chapter 239 of [Omniscient Reader](https://anilist.co/manga/119257) (05:25 09 December 2024)
 -   📖 Read chapter 55 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (03:08 09 December 2024)
 -   📖 Read chapter 90 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (03:02 09 December 2024)
--   📖 Read chapter 51 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (05:29 03 December 2024)
--   📖 Read chapter 99 - 100 of [After Ten Millennia in Hell](https://anilist.co/manga/153284) (14:32 02 December 2024)
--   📖 Read chapter 89 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (14:20 02 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
