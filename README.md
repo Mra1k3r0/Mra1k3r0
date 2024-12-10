@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 52 - 56 of [Steel-Eating Player](https://anilist.co/manga/170956) (05:09 10 December 2024)
+-   📖 Read chapter 52 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (04:28 10 December 2024)
 -   📖 Read chapter 6 of [Dead Mansion](https://anilist.co/manga/181996) (14:47 09 December 2024)
 -   📖 Read chapter 50 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (14:19 09 December 2024)
 -   📖 Read chapter 85 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (14:15 09 December 2024)
--   📖 Read chapter 236 of [Nano Machine](https://anilist.co/manga/120980) (05:25 09 December 2024)
--   📖 Read chapter 106 of [Cheonhwaseogo Daegongja](https://anilist.co/manga/160693) (05:25 09 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
