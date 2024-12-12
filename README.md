@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 36 - 150 of [The Devil Butler](https://anilist.co/manga/116353) (15:59 12 December 2024)
+-   📖 Read chapter 36 - 160 of [The Devil Butler](https://anilist.co/manga/116353) (17:06 12 December 2024)
 -   📖 Read chapter 86 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (04:45 12 December 2024)
 -   📖 Read chapter 237 of [Nano Machine](https://anilist.co/manga/120980) (04:36 12 December 2024)
 -   📖 Read chapter 240 of [Omniscient Reader](https://anilist.co/manga/119257) (00:40 11 December 2024)
