@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 108 - 109 of [The Novel's Extra](https://anilist.co/manga/152128) (08:59 17 December 2024)
+-   📖 Read chapter 107 of [Cheonhwaseogo Daegongja](https://anilist.co/manga/160693) (07:56 17 December 2024)
+-   📖 Read chapter 91 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (07:51 17 December 2024)
+-   📖 Read chapter 51 - 52 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (07:42 17 December 2024)
 -   📖 Read chapter 57 of [Steel-Eating Player](https://anilist.co/manga/170956) (07:07 17 December 2024)
--   📖 Read chapter 53 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (06:53 17 December 2024)
--   📖 Read chapter 56 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (06:26 17 December 2024)
--   📖 Read chapter 412 - 414 of [The Devil Butler](https://anilist.co/manga/116353) (02:47 17 December 2024)
--   📖 Read chapter 401 - 411 of [The Devil Butler](https://anilist.co/manga/116353) (01:58 16 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
