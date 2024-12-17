@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 57 of [Steel-Eating Player](https://anilist.co/manga/170956) (07:07 17 December 2024)
+-   📖 Read chapter 53 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (06:53 17 December 2024)
+-   📖 Read chapter 56 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (06:26 17 December 2024)
 -   📖 Read chapter 412 - 414 of [The Devil Butler](https://anilist.co/manga/116353) (02:47 17 December 2024)
 -   📖 Read chapter 401 - 411 of [The Devil Butler](https://anilist.co/manga/116353) (01:58 16 December 2024)
--   📖 Read chapter 36 - 400 of [The Devil Butler](https://anilist.co/manga/116353) (04:35 15 December 2024)
--   📖 Read chapter 86 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (04:45 12 December 2024)
--   📖 Read chapter 237 of [Nano Machine](https://anilist.co/manga/120980) (04:36 12 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
