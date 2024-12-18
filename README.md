@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 416 - 445 of [The Devil Butler](https://anilist.co/manga/116353) (08:20 18 December 2024)
+-   📖 Read chapter 416 - 467 of [The Devil Butler](https://anilist.co/manga/116353) (12:16 18 December 2024)
 -   📖 Read chapter 108 - 109 of [The Novel's Extra](https://anilist.co/manga/152128) (08:59 17 December 2024)
 -   📖 Read chapter 107 of [Cheonhwaseogo Daegongja](https://anilist.co/manga/160693) (07:56 17 December 2024)
 -   📖 Read chapter 91 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (07:51 17 December 2024)
