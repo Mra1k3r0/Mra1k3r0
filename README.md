@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 241 of [Omniscient Reader](https://anilist.co/manga/119257) (20:22 19 December 2024)
+-   📖 Read chapter 238 of [Nano Machine](https://anilist.co/manga/120980) (20:18 19 December 2024)
 -   📖 Read chapter 87 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (18:53 19 December 2024)
 -   📖 Read chapter 108 of [Cheonhwaseogo Daegongja](https://anilist.co/manga/160693) (18:46 19 December 2024)
 -   📖 Read chapter 416 - 492 of [The Devil Butler](https://anilist.co/manga/116353) (15:06 18 December 2024)
--   📖 Read chapter 108 - 109 of [The Novel's Extra](https://anilist.co/manga/152128) (08:59 17 December 2024)
--   📖 Read chapter 107 of [Cheonhwaseogo Daegongja](https://anilist.co/manga/160693) (07:56 17 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
