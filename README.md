@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 45 of [Baekssisega Sihanbu Gongja](https://anilist.co/manga/168933) (16:58 21 December 2024)
+-   📖 Read chapter 9 - 96 of [Chronicles of the Demon Faction](https://anilist.co/manga/164222) (16:55 21 December 2024)
+-   📖 Read chapter 47 of [Mabeop Hakgyo Apjeommyeol Cheonjae-ga Doeeotda](https://anilist.co/manga/178379) (16:53 21 December 2024)
 -   📖 Read chapter 496 - 505 of [The Devil Butler](https://anilist.co/manga/116353) (12:12 21 December 2024)
 -   📖 Read chapter 57 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (03:09 21 December 2024)
--   📖 Read chapter 241 of [Omniscient Reader](https://anilist.co/manga/119257) (20:22 19 December 2024)
--   📖 Read chapter 238 of [Nano Machine](https://anilist.co/manga/120980) (20:18 19 December 2024)
--   📖 Read chapter 87 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (18:53 19 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
