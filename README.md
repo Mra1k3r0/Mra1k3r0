@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 496 of [The Devil Butler](https://anilist.co/manga/116353) (09:50 21 December 2024)
+-   📖 Read chapter 496 - 505 of [The Devil Butler](https://anilist.co/manga/116353) (12:12 21 December 2024)
 -   📖 Read chapter 57 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (03:09 21 December 2024)
 -   📖 Read chapter 241 of [Omniscient Reader](https://anilist.co/manga/119257) (20:22 19 December 2024)
 -   📖 Read chapter 238 of [Nano Machine](https://anilist.co/manga/120980) (20:18 19 December 2024)
