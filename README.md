@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 554 - 556 of [The Devil Butler](https://anilist.co/manga/116353) (04:01 24 December 2024)
 -   📖 Read chapter 496 - 553 of [The Devil Butler](https://anilist.co/manga/116353) (14:57 23 December 2024)
 -   📖 Read chapter 45 of [Baekssisega Sihanbu Gongja](https://anilist.co/manga/168933) (16:58 21 December 2024)
 -   📖 Read chapter 9 - 96 of [Chronicles of the Demon Faction](https://anilist.co/manga/164222) (16:55 21 December 2024)
 -   📖 Read chapter 47 of [Mabeop Hakgyo Apjeommyeol Cheonjae-ga Doeeotda](https://anilist.co/manga/178379) (16:53 21 December 2024)
--   📖 Read chapter 57 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (03:09 21 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
