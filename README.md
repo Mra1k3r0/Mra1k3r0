@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 554 - 637 of [The Devil Butler](https://anilist.co/manga/116353) (13:11 25 December 2024)
--   📖 Read chapter 496 - 553 of [The Devil Butler](https://anilist.co/manga/116353) (14:57 23 December 2024)
--   📖 Read chapter 45 of [Baekssisega Sihanbu Gongja](https://anilist.co/manga/168933) (16:58 21 December 2024)
--   📖 Read chapter 9 - 96 of [Chronicles of the Demon Faction](https://anilist.co/manga/164222) (16:55 21 December 2024)
--   📖 Read chapter 47 of [Mabeop Hakgyo Apjeommyeol Cheonjae-ga Doeeotda](https://anilist.co/manga/178379) (16:53 21 December 2024)
+-   📖 Read chapter 53 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (13:56 25 December 2024)
+-   📖 Read chapter 110 of [The Novel's Extra](https://anilist.co/manga/152128) (13:49 25 December 2024)
+-   📖 Read chapter 242 of [Omniscient Reader](https://anilist.co/manga/119257) (13:39 25 December 2024)
+-   📖 Read chapter 54 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (13:32 25 December 2024)
+-   📖 Read chapter 92 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (13:25 25 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
