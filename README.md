@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 239 of [Nano Machine](https://anilist.co/manga/120980) (03:49 26 December 2024)
+-   📖 Read chapter 88 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (03:42 26 December 2024)
 -   📖 Read chapter 53 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (13:56 25 December 2024)
 -   📖 Read chapter 110 of [The Novel's Extra](https://anilist.co/manga/152128) (13:49 25 December 2024)
 -   📖 Read chapter 242 of [Omniscient Reader](https://anilist.co/manga/119257) (13:39 25 December 2024)
--   📖 Read chapter 54 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (13:32 25 December 2024)
--   📖 Read chapter 92 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (13:25 25 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
