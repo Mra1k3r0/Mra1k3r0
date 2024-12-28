@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 138 - 141 of [66,666 Years: Advent of the Dark Mage](https://anilist.co/manga/137595) (06:05 28 December 2024)
+-   📖 Read chapter 639 - 640 of [The Devil Butler](https://anilist.co/manga/116353) (07:01 28 December 2024)
+-   📖 Read chapter 109 of [Cheonhwaseogo Daegongja](https://anilist.co/manga/160693) (06:53 28 December 2024)
+-   📖 Read chapter 138 - 146 of [66,666 Years: Advent of the Dark Mage](https://anilist.co/manga/137595) (06:46 28 December 2024)
 -   📖 Read chapter 134 - 137 of [66,666 Years: Advent of the Dark Mage](https://anilist.co/manga/137595) (12:58 27 December 2024)
 -   📖 Read chapter 239 of [Nano Machine](https://anilist.co/manga/120980) (03:49 26 December 2024)
--   📖 Read chapter 88 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (03:42 26 December 2024)
--   📖 Read chapter 53 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (13:56 25 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
