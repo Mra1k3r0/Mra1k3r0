@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 641 of [The Devil Butler](https://anilist.co/manga/116353) (07:51 30 December 2024)
+-   📖 Read chapter 39 of [Masinui Changgoreul Teoreotseumnida](https://anilist.co/manga/180948) (07:38 30 December 2024)
 -   📖 Read chapter 58 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (07:09 28 December 2024)
 -   📖 Read chapter 639 - 640 of [The Devil Butler](https://anilist.co/manga/116353) (07:01 28 December 2024)
 -   📖 Read chapter 109 of [Cheonhwaseogo Daegongja](https://anilist.co/manga/160693) (06:53 28 December 2024)
--   📖 Read chapter 138 - 146 of [66,666 Years: Advent of the Dark Mage](https://anilist.co/manga/137595) (06:46 28 December 2024)
--   📖 Read chapter 134 - 137 of [66,666 Years: Advent of the Dark Mage](https://anilist.co/manga/137595) (12:58 27 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
