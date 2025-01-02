@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 63 - 69 of [Absolute Sword Sense](https://anilist.co/manga/151460) (21:03 02 January 2025)
 -   📖 Read chapter 243 of [Omniscient Reader](https://anilist.co/manga/119257) (06:32 01 January 2025)
 -   📖 Read chapter 2 - 41 of [Oversummoned, Overpowered, and Over It!](https://anilist.co/manga/134141) (06:44 31 December 2024)
 -   📖 Read chapter 55 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (06:43 31 December 2024)
 -   📖 Read chapter 93 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (06:29 31 December 2024)
--   📖 Read chapter 641 of [The Devil Butler](https://anilist.co/manga/116353) (07:51 30 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
