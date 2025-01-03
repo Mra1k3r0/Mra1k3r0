@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Juvenile Offender](https://anilist.co/manga/166122) (19:16 03 January 2025)
 -   📖 Read chapter 216 - 219 of [Teenage Mercenary](https://anilist.co/manga/126297) (18:50 03 January 2025)
 -   📖 Read chapter 89 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (13:56 03 January 2025)
 -   📖 Read chapter 240 of [Nano Machine](https://anilist.co/manga/120980) (13:50 03 January 2025)
 -   📖 Read chapter 63 - 114 of [Absolute Sword Sense](https://anilist.co/manga/151460) (13:42 03 January 2025)
--   📖 Read chapter 243 of [Omniscient Reader](https://anilist.co/manga/119257) (06:32 01 January 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
