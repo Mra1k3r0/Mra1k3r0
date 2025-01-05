@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Plans to read [Juvenile Offender](https://anilist.co/manga/166122) (19:16 03 January 2025)
--   📖 Read chapter 216 - 219 of [Teenage Mercenary](https://anilist.co/manga/126297) (18:50 03 January 2025)
--   📖 Read chapter 89 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (13:56 03 January 2025)
--   📖 Read chapter 240 of [Nano Machine](https://anilist.co/manga/120980) (13:50 03 January 2025)
--   📖 Read chapter 63 - 114 of [Absolute Sword Sense](https://anilist.co/manga/151460) (13:42 03 January 2025)
+-   📖 Plans to read [Haksageomjeon](https://anilist.co/manga/151220) (08:06 05 January 2025)
+-   📖 Read chapter 111 of [The Novel's Extra](https://anilist.co/manga/152128) (07:59 05 January 2025)
+-   📖 Read chapter 54 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (07:54 05 January 2025)
+-   📖 Read chapter 59 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (07:50 05 January 2025)
+-   📖 Read chapter 110 of [Cheonhwaseogo Daegongja](https://anilist.co/manga/160693) (07:32 05 January 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
