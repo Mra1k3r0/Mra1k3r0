@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 12 of [World's Best Martial Artist](https://anilist.co/manga/119486) (20:04 05 January 2025)
 -   📖 Plans to read [World's Best Martial Artist](https://anilist.co/manga/119486) (08:17 05 January 2025)
 -   📖 Read chapter 46 of [Jeoldaemusin](https://anilist.co/manga/123556) (08:11 05 January 2025)
 -   📖 Plans to read [Haksageomjeon](https://anilist.co/manga/151220) (08:06 05 January 2025)
 -   📖 Read chapter 111 of [The Novel's Extra](https://anilist.co/manga/152128) (07:59 05 January 2025)
--   📖 Read chapter 54 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (07:54 05 January 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
