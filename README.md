@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 148 of [Black Summoner](https://anilist.co/manga/101746) (20:51 06 January 2025)
+-   📖 Read chapter 112 of [The Novel's Extra](https://anilist.co/manga/152128) (20:44 06 January 2025)
+-   📖 Read chapter 56 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (20:35 06 January 2025)
+-   📖 Read chapter 94 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (20:30 06 January 2025)
 -   📖 Read chapter 24 - 36 of [World's Best Martial Artist](https://anilist.co/manga/119486) (20:00 06 January 2025)
--   📖 Read chapter 1 - 23 of [World's Best Martial Artist](https://anilist.co/manga/119486) (20:44 05 January 2025)
--   📖 Plans to read [World's Best Martial Artist](https://anilist.co/manga/119486) (08:17 05 January 2025)
--   📖 Read chapter 46 of [Jeoldaemusin](https://anilist.co/manga/123556) (08:11 05 January 2025)
--   📖 Plans to read [Haksageomjeon](https://anilist.co/manga/151220) (08:06 05 January 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
