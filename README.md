@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 24 - 25 of [World's Best Martial Artist](https://anilist.co/manga/119486) (12:46 06 January 2025)
+-   📖 Read chapter 24 - 36 of [World's Best Martial Artist](https://anilist.co/manga/119486) (20:00 06 January 2025)
 -   📖 Read chapter 1 - 23 of [World's Best Martial Artist](https://anilist.co/manga/119486) (20:44 05 January 2025)
 -   📖 Plans to read [World's Best Martial Artist](https://anilist.co/manga/119486) (08:17 05 January 2025)
 -   📖 Read chapter 46 of [Jeoldaemusin](https://anilist.co/manga/123556) (08:11 05 January 2025)
