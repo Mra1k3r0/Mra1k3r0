@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 244 of [Omniscient Reader](https://anilist.co/manga/119257) (17:39 08 January 2025)
 -   📖 Read chapter 9 - 15 of [Haksageomjeon](https://anilist.co/manga/151220) (13:04 08 January 2025)
 -   📖 Read chapter 1 - 8 of [Haksageomjeon](https://anilist.co/manga/151220) (14:09 07 January 2025)
 -   📖 Read chapter 148 of [Black Summoner](https://anilist.co/manga/101746) (20:51 06 January 2025)
 -   📖 Read chapter 112 of [The Novel's Extra](https://anilist.co/manga/152128) (20:44 06 January 2025)
--   📖 Read chapter 56 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (20:35 06 January 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
