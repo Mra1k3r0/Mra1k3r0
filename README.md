@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 9 - 23 of [Haksageomjeon](https://anilist.co/manga/151220) (02:32 09 January 2025)
+-   📖 Read chapter 9 - 29 of [Haksageomjeon](https://anilist.co/manga/151220) (03:25 09 January 2025)
 -   📖 Read chapter 244 of [Omniscient Reader](https://anilist.co/manga/119257) (17:39 08 January 2025)
 -   📖 Read chapter 1 - 8 of [Haksageomjeon](https://anilist.co/manga/151220) (14:09 07 January 2025)
 -   📖 Read chapter 148 of [Black Summoner](https://anilist.co/manga/101746) (20:51 06 January 2025)
