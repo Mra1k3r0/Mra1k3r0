@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 76 - 83 of [Haksageomjeon](https://anilist.co/manga/151220) (17:02 11 January 2025)
+-   📖 Read chapter 76 - 94 of [Haksageomjeon](https://anilist.co/manga/151220) (18:07 11 January 2025)
 -   📖 Read chapter 53 - 75 of [Haksageomjeon](https://anilist.co/manga/151220) (13:16 10 January 2025)
 -   📖 Read chapter 9 - 52 of [Haksageomjeon](https://anilist.co/manga/151220) (06:29 09 January 2025)
 -   📖 Read chapter 244 of [Omniscient Reader](https://anilist.co/manga/119257) (17:39 08 January 2025)
