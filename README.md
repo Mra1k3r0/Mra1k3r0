@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (06:36 12 January 2025)
 -   📖 Read chapter 76 - 102 of [Haksageomjeon](https://anilist.co/manga/151220) (19:04 11 January 2025)
 -   📖 Read chapter 53 - 75 of [Haksageomjeon](https://anilist.co/manga/151220) (13:16 10 January 2025)
 -   📖 Read chapter 9 - 52 of [Haksageomjeon](https://anilist.co/manga/151220) (06:29 09 January 2025)
 -   📖 Read chapter 244 of [Omniscient Reader](https://anilist.co/manga/119257) (17:39 08 January 2025)
--   📖 Read chapter 1 - 8 of [Haksageomjeon](https://anilist.co/manga/151220) (14:09 07 January 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
