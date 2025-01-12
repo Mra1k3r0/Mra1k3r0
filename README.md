@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 103 - 105 of [Haksageomjeon](https://anilist.co/manga/151220) (09:01 12 January 2025)
+-   📖 Read chapter 115 - 116 of [Absolute Sword Sense](https://anilist.co/manga/151460) (08:41 12 January 2025)
+-   📖 Read chapter 241 of [Nano Machine](https://anilist.co/manga/120980) (08:16 12 January 2025)
 -   📖 Read chapter 90 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (08:09 12 January 2025)
 -   📖 Read chapter 147 of [66,666 Years: Advent of the Dark Mage](https://anilist.co/manga/137595) (08:05 12 January 2025)
--   📖 Read chapter 40 of [Masinui Changgoreul Teoreotseumnida](https://anilist.co/manga/180948) (07:59 12 January 2025)
--   📖 Read chapter 111 of [Cheonhwaseogo Daegongja](https://anilist.co/manga/160693) (07:56 12 January 2025)
--   📺 Watched episode 14 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (07:09 12 January 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
