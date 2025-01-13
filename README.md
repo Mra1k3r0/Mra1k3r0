@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 106 of [Haksageomjeon](https://anilist.co/manga/151220) (08:05 13 January 2025)
+-   📖 Read chapter 106 - 110 of [Haksageomjeon](https://anilist.co/manga/151220) (08:24 13 January 2025)
 -   📖 Read chapter 103 - 105 of [Haksageomjeon](https://anilist.co/manga/151220) (09:01 12 January 2025)
 -   📖 Read chapter 115 - 116 of [Absolute Sword Sense](https://anilist.co/manga/151460) (08:41 12 January 2025)
 -   📖 Read chapter 241 of [Nano Machine](https://anilist.co/manga/120980) (08:16 12 January 2025)
