@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 245 of [Omniscient Reader](https://anilist.co/manga/119257) (22:42 15 January 2025)
 -   📖 Read chapter 120 - 150 of [Haksageomjeon](https://anilist.co/manga/151220) (21:15 15 January 2025)
 -   📖 Read chapter 112 - 119 of [Haksageomjeon](https://anilist.co/manga/151220) (14:21 14 January 2025)
 -   📖 Read chapter 106 - 111 of [Haksageomjeon](https://anilist.co/manga/151220) (12:48 13 January 2025)
 -   📖 Read chapter 60 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (12:39 13 January 2025)
--   📖 Read chapter 103 - 105 of [Haksageomjeon](https://anilist.co/manga/151220) (09:01 12 January 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
