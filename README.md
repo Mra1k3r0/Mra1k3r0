@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 120 - 140 of [Haksageomjeon](https://anilist.co/manga/151220) (20:06 15 January 2025)
+-   📖 Read chapter 120 - 148 of [Haksageomjeon](https://anilist.co/manga/151220) (21:05 15 January 2025)
 -   📖 Read chapter 112 - 119 of [Haksageomjeon](https://anilist.co/manga/151220) (14:21 14 January 2025)
 -   📖 Read chapter 106 - 111 of [Haksageomjeon](https://anilist.co/manga/151220) (12:48 13 January 2025)
 -   📖 Read chapter 60 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (12:39 13 January 2025)
