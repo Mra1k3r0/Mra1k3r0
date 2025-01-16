@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 113 of [The Novel's Extra](https://anilist.co/manga/152128) (23:37 15 January 2025)
+-   📖 Read chapter 95 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (23:27 15 January 2025)
+-   📖 Read chapter 57 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (23:19 15 January 2025)
+-   📖 Read chapter 242 of [Nano Machine](https://anilist.co/manga/120980) (23:14 15 January 2025)
 -   📖 Read chapter 245 of [Omniscient Reader](https://anilist.co/manga/119257) (22:42 15 January 2025)
--   📖 Read chapter 120 - 150 of [Haksageomjeon](https://anilist.co/manga/151220) (21:15 15 January 2025)
--   📖 Read chapter 112 - 119 of [Haksageomjeon](https://anilist.co/manga/151220) (14:21 14 January 2025)
--   📖 Read chapter 106 - 111 of [Haksageomjeon](https://anilist.co/manga/151220) (12:48 13 January 2025)
--   📖 Read chapter 60 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (12:39 13 January 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
