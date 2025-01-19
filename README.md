@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 61 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (09:12 19 January 2025)
 -   📖 Read chapter 112 of [Cheonhwaseogo Daegongja](https://anilist.co/manga/160693) (09:02 19 January 2025)
 -   📖 Read chapter 126 - 137 of [The Grand Mudang Saga](https://anilist.co/manga/127783) (08:58 19 January 2025)
 -   📖 Read chapter 55 - 56 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (08:58 16 January 2025)
 -   📖 Read chapter 113 of [The Novel's Extra](https://anilist.co/manga/152128) (23:37 15 January 2025)
--   📖 Read chapter 95 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (23:27 15 January 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
