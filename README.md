@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 104 - 117 of [The Reborn Ranker Chronicles](https://anilist.co/manga/141316) (13:15 22 January 2025)
+-   📖 Read chapter 104 - 122 of [The Reborn Ranker Chronicles](https://anilist.co/manga/141316) (14:04 22 January 2025)
 -   📖 Read chapter 151 of [Haksageomjeon](https://anilist.co/manga/151220) (08:16 20 January 2025)
 -   📖 Read chapter 61 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (09:12 19 January 2025)
 -   📖 Read chapter 112 of [Cheonhwaseogo Daegongja](https://anilist.co/manga/160693) (09:02 19 January 2025)
