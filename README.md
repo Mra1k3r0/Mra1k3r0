@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 - 3 of [Is It Wrong To Try To Pick Up Girls in a Dungeon? V](https://anilist.co/anime/170732) (14:54 23 January 2025)
 -   📺 Watched episode 10 - 11 of [Is It Wrong to Try to Pick Up Girls in a Dungeon? IV Part 2](https://anilist.co/anime/155211) (13:47 23 January 2025)
 -   📺 Watched episode 11 of [Is It Wrong to Try to Pick Up Girls in a Dungeon? IV](https://anilist.co/anime/129196) (13:35 23 January 2025)
 -   📖 Read chapter 57 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (19:38 22 January 2025)
 -   📖 Read chapter 58 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (19:34 22 January 2025)
--   📖 Read chapter 96 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (19:29 22 January 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
