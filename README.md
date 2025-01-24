@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 of [Beholder of the Abyss](https://anilist.co/manga/158616) (16:32 24 January 2025)
+-   📖 Plans to read [Beholder of the Abyss](https://anilist.co/manga/158616) (16:14 24 January 2025)
 -   📺 Watched episode 2 - 6 of [Is It Wrong To Try To Pick Up Girls in a Dungeon? V](https://anilist.co/anime/170732) (16:01 23 January 2025)
 -   📺 Watched episode 10 - 11 of [Is It Wrong to Try to Pick Up Girls in a Dungeon? IV Part 2](https://anilist.co/anime/155211) (13:47 23 January 2025)
 -   📺 Watched episode 11 of [Is It Wrong to Try to Pick Up Girls in a Dungeon? IV](https://anilist.co/anime/129196) (13:35 23 January 2025)
--   📖 Read chapter 57 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (19:38 22 January 2025)
--   📖 Read chapter 58 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (19:34 22 January 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
