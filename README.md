@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 43 of [Beholder of the Abyss](https://anilist.co/manga/158616) (12:12 25 January 2025)
+-   📖 Read chapter 1 - 44 of [Beholder of the Abyss](https://anilist.co/manga/158616) (12:14 25 January 2025)
 -   📖 Plans to read [Beholder of the Abyss](https://anilist.co/manga/158616) (16:14 24 January 2025)
 -   📺 Watched episode 2 - 6 of [Is It Wrong To Try To Pick Up Girls in a Dungeon? V](https://anilist.co/anime/170732) (16:01 23 January 2025)
 -   📺 Watched episode 10 - 11 of [Is It Wrong to Try to Pick Up Girls in a Dungeon? IV Part 2](https://anilist.co/anime/155211) (13:47 23 January 2025)
