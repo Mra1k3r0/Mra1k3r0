@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 42 - 43 of [Study Group](https://anilist.co/manga/110472) (06:36 29 January 2025)
 -   📖 Read chapter 41 of [Study Group](https://anilist.co/manga/110472) (07:48 28 January 2025)
 -   📖 Read chapter 31 - 40 of [Study Group](https://anilist.co/manga/110472) (08:36 27 January 2025)
 -   📖 Read chapter 1 - 44 of [Beholder of the Abyss](https://anilist.co/manga/158616) (12:14 25 January 2025)
 -   📖 Plans to read [Beholder of the Abyss](https://anilist.co/manga/158616) (16:14 24 January 2025)
--   📺 Watched episode 2 - 6 of [Is It Wrong To Try To Pick Up Girls in a Dungeon? V](https://anilist.co/anime/170732) (16:01 23 January 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
