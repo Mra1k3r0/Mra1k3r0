@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 59 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (12:03 30 January 2025)
+-   📖 Read chapter 247 of [Omniscient Reader](https://anilist.co/manga/119257) (11:54 30 January 2025)
 -   📖 Read chapter 67 - 74 of [Study Group](https://anilist.co/manga/110472) (05:07 30 January 2025)
 -   📖 Read chapter 42 - 66 of [Study Group](https://anilist.co/manga/110472) (13:26 29 January 2025)
 -   📖 Read chapter 41 of [Study Group](https://anilist.co/manga/110472) (07:48 28 January 2025)
--   📖 Read chapter 31 - 40 of [Study Group](https://anilist.co/manga/110472) (08:36 27 January 2025)
--   📖 Read chapter 1 - 44 of [Beholder of the Abyss](https://anilist.co/manga/158616) (12:14 25 January 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
