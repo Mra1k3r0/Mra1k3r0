@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 113 - 114 of [Cheonhwaseogo Daegongja](https://anilist.co/manga/160693) (17:01 31 January 2025)
+-   📖 Read chapter 97 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (16:36 31 January 2025)
+-   📖 Read chapter 62 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (16:28 31 January 2025)
 -   📖 Read chapter 114 of [The Novel's Extra](https://anilist.co/manga/152128) (14:39 31 January 2025)
 -   📖 Read chapter 59 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (12:03 30 January 2025)
--   📖 Read chapter 247 of [Omniscient Reader](https://anilist.co/manga/119257) (11:54 30 January 2025)
--   📖 Read chapter 67 - 74 of [Study Group](https://anilist.co/manga/110472) (05:07 30 January 2025)
--   📖 Read chapter 42 - 66 of [Study Group](https://anilist.co/manga/110472) (13:26 29 January 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
