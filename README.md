@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 145 of [The Reborn Ranker Chronicles](https://anilist.co/manga/141316) (18:11 31 January 2025)
 -   📖 Read chapter 62 - 63 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (18:00 31 January 2025)
 -   📖 Read chapter 58 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (17:26 31 January 2025)
 -   📖 Read chapter 138 of [The Grand Mudang Saga](https://anilist.co/manga/127783) (17:25 31 January 2025)
 -   📖 Read chapter 244 of [Nano Machine](https://anilist.co/manga/120980) (17:11 31 January 2025)
--   📖 Read chapter 113 - 114 of [Cheonhwaseogo Daegongja](https://anilist.co/manga/160693) (17:01 31 January 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
