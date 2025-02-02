@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 of [Bad Bone Blood](https://anilist.co/manga/184347) (07:21 02 February 2025)
 -   📖 Plans to read [Bad Bone Blood](https://anilist.co/manga/184347) (07:50 01 February 2025)
 -   📖 Read chapter 59 - 63 of [Steel-Eating Player](https://anilist.co/manga/170956) (07:22 01 February 2025)
 -   📖 Read chapter 145 of [The Reborn Ranker Chronicles](https://anilist.co/manga/141316) (18:11 31 January 2025)
 -   📖 Read chapter 62 - 63 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (18:00 31 January 2025)
--   📖 Read chapter 58 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (17:26 31 January 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
