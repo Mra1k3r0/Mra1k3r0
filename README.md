@@ -19,7 +19,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 2 - 7 of [Bad Bone Blood](https://anilist.co/manga/184347) (05:07 03 February 2025)
+-   📖 Read chapter 2 - 15 of [Bad Bone Blood](https://anilist.co/manga/184347) (06:06 03 February 2025)
 -   📺 Watched episode 5 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (14:30 02 February 2025)
 -   📖 Read chapter 1 of [Bad Bone Blood](https://anilist.co/manga/184347) (07:21 02 February 2025)
 -   📖 Plans to read [Bad Bone Blood](https://anilist.co/manga/184347) (07:50 01 February 2025)
