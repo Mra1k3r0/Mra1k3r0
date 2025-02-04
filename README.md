@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 60 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (05:00 04 February 2025)
+-   📖 Read chapter 98 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (04:45 04 February 2025)
 -   📖 Read chapter 2 - 20 of [Bad Bone Blood](https://anilist.co/manga/184347) (06:49 03 February 2025)
 -   📺 Watched episode 5 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (14:30 02 February 2025)
 -   📖 Read chapter 1 of [Bad Bone Blood](https://anilist.co/manga/184347) (07:21 02 February 2025)
--   📖 Plans to read [Bad Bone Blood](https://anilist.co/manga/184347) (07:50 01 February 2025)
--   📖 Read chapter 59 - 63 of [Steel-Eating Player](https://anilist.co/manga/170956) (07:22 01 February 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
