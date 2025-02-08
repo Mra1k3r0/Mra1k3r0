@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 115 of [Cheonhwaseogo Daegongja](https://anilist.co/manga/160693) (05:16 08 February 2025)
 -   📖 Read chapter 248 of [Omniscient Reader](https://anilist.co/manga/119257) (17:09 06 February 2025)
 -   📖 Read chapter 245 of [Nano Machine](https://anilist.co/manga/120980) (17:05 06 February 2025)
 -   📖 Read chapter 115 of [The Novel's Extra](https://anilist.co/manga/152128) (12:57 04 February 2025)
 -   📖 Read chapter 60 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (05:00 04 February 2025)
--   📖 Read chapter 98 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (04:45 04 February 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
