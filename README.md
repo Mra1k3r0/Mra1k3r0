@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 62 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (02:45 17 February 2025)
+-   📖 Read chapter 65 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (02:40 17 February 2025)
+-   📖 Read chapter 100 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (02:31 17 February 2025)
 -   📖 Read chapter 116 of [Cheonhwaseogo Daegongja](https://anilist.co/manga/160693) (01:50 17 February 2025)
 -   📖 Read chapter 194 of [Log Into The Future](https://anilist.co/manga/160980) (01:41 17 February 2025)
--   📖 Read chapter 193 of [Log Into The Future](https://anilist.co/manga/160980) (03:29 14 February 2025)
--   📖 Read chapter 246 of [Nano Machine](https://anilist.co/manga/120980) (00:57 13 February 2025)
--   📖 Read chapter 59 - 60 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (03:39 11 February 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
