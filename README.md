@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 247 of [Nano Machine](https://anilist.co/manga/120980) (21:37 19 February 2025)
 -   📖 Read chapter 64 - 65 of [Steel-Eating Player](https://anilist.co/manga/170956) (01:22 19 February 2025)
 -   📖 Read chapter 117 of [The Novel's Extra](https://anilist.co/manga/152128) (01:01 19 February 2025)
 -   📖 Read chapter 249 - 250 of [Omniscient Reader](https://anilist.co/manga/119257) (00:56 19 February 2025)
 -   📖 Read chapter 61 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (14:18 18 February 2025)
--   📺 Watched episode 7 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (03:32 17 February 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
