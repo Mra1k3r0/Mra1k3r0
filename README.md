@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 196 of [Log Into The Future](https://anilist.co/manga/160980) (17:54 24 February 2025)
+-   📖 Read chapter 63 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (17:34 24 February 2025)
+-   📖 Read chapter 101 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (17:25 24 February 2025)
 -   📖 Read chapter 1 - 9 of [Eternal Club](https://anilist.co/manga/143956) (03:11 23 February 2025)
 -   📖 Plans to read [Eternal Club](https://anilist.co/manga/143956) (02:26 23 February 2025)
--   📺 Watched episode 8 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (23:23 22 February 2025)
--   📖 Read chapter 195 of [Log Into The Future](https://anilist.co/manga/160980) (22:11 22 February 2025)
--   📖 Read chapter 66 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (00:13 22 February 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
