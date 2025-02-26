@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 118 of [The Novel's Extra](https://anilist.co/manga/152128) (02:33 26 February 2025)
+-   📖 Read chapter 251 of [Omniscient Reader](https://anilist.co/manga/119257) (02:28 26 February 2025)
 -   📖 Read chapter 196 of [Log Into The Future](https://anilist.co/manga/160980) (17:54 24 February 2025)
 -   📖 Read chapter 63 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (17:34 24 February 2025)
 -   📖 Read chapter 101 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (17:25 24 February 2025)
--   📖 Read chapter 1 - 9 of [Eternal Club](https://anilist.co/manga/143956) (03:11 23 February 2025)
--   📖 Plans to read [Eternal Club](https://anilist.co/manga/143956) (02:26 23 February 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
