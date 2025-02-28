@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 67 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (13:16 28 February 2025)
 -   📖 Read chapter 47 of [The 100th Regression of the Max-Level Player](https://anilist.co/manga/170894) (00:15 27 February 2025)
 -   📖 Read chapter 118 of [The Novel's Extra](https://anilist.co/manga/152128) (02:33 26 February 2025)
 -   📖 Read chapter 251 of [Omniscient Reader](https://anilist.co/manga/119257) (02:28 26 February 2025)
 -   📖 Read chapter 196 of [Log Into The Future](https://anilist.co/manga/160980) (17:54 24 February 2025)
--   📖 Read chapter 63 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (17:34 24 February 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
