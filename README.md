@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 66 - 68 of [Steel-Eating Player](https://anilist.co/manga/170956) (04:38 01 March 2025)
 -   📖 Read chapter 62 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (01:56 01 March 2025)
 -   📖 Read chapter 197 of [Log Into The Future](https://anilist.co/manga/160980) (01:18 01 March 2025)
 -   📖 Read chapter 248 of [Nano Machine](https://anilist.co/manga/120980) (01:10 01 March 2025)
 -   📖 Read chapter 67 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (13:16 28 February 2025)
--   📖 Read chapter 47 of [The 100th Regression of the Max-Level Player](https://anilist.co/manga/170894) (00:15 27 February 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
