@@ -3,9 +3,9 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=24&height=230&section=header&text=桜%20John%20Paul%20Caigas%20桜&fontSize=42&animation=fadeIn&fontAlignY=36&desc=Developer%20|%20Creator%20|%20Anime%20Enthusiast&descAlignY=52&fontColor=fff)
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Currently working on TypeScript projects
+💻 Currently working on TypeScript projects
 <br>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Cherry%20Blossom.png" alt="Cherry Blossom" width="25" height="25" /> Based in Philippines
+🚀 Exploring Full Stack Development & System Architecture
 
 </div>
 
@@ -34,7 +34,9 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rising%20Sun.png" alt="Rising Sun" width="25" height="25" /> **Latest Adventures** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rising%20Sun%20with%20Face.png" alt="Rising Sun with Face" width="25" height="25" />
+<details>
+<summary>🌸 <b>AniList Activities</b> 🌸</summary>
+<br>
 
 <!-- ANILIST_ACTIVITY:start -->
 
@@ -42,6 +44,8 @@
 -   📖 Read chapter 66 - 68 of [Steel-Eating Player](https://anilist.co/manga/170956)
 
 <!-- ANILIST_ACTIVITY:end -->
+
+</details>
 
 </div>
 
@@ -69,7 +73,7 @@
 
 <br>
 
-![Views](https://komarev.com/ghpvc/?username=Mra1k3r0&label=Visitors&color=darkviolet&style=flat)
+![Views](https://komarev.com/ghpvc/?username=Mra1k3r0&label=Visitors&color=6f42c1&style=flat)
 
 </div>
 
