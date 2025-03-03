@@ -19,11 +19,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 198 of [Log Into The Future](https://anilist.co/manga/160980) (07:25 03 March 2025)
+-   📖 Read chapter 102 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (07:21 03 March 2025)
+-   📖 Read chapter 64 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (07:15 03 March 2025)
 -   📺 Watched episode 9 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (02:00 02 March 2025)
 -   📖 Read chapter 66 - 68 of [Steel-Eating Player](https://anilist.co/manga/170956) (04:38 01 March 2025)
--   📖 Read chapter 62 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (01:56 01 March 2025)
--   📖 Read chapter 197 of [Log Into The Future](https://anilist.co/manga/160980) (01:18 01 March 2025)
--   📖 Read chapter 248 of [Nano Machine](https://anilist.co/manga/120980) (01:10 01 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 ---
