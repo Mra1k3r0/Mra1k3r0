@@ -1,38 +1,76 @@
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/johnpaul.caigas001) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tzudaki_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/john-paul-caigas-48948123a) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/saikidesudev) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Dangerous-Swimmer-90) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@johnpaulcaigas) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/saikidesu_dev) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@MrAik3ro) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/mra1k3r0)
 
-# 💻 Tech Stack:
-  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Joomla](https://img.shields.io/badge/joomla-%235091CD.svg?style=for-the-badge&logo=joomla&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+<div align="center">
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mra1k3r0&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mra1k3r0&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mra1k3r0&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Header](https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=24&height=230&section=header&text=桜%20John%20Paul%20Caigas%20桜&fontSize=42&animation=fadeIn&fontAlignY=36&desc=Developer%20|%20Creator%20|%20Anime%20Enthusiast&descAlignY=52&fontColor=fff)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Currently working on TypeScript projects
+<br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Cherry%20Blossom.png" alt="Cherry Blossom" width="25" height="25" /> Based in Philippines
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+</div>
 
-### 🌸 My recent AniList activity
+<br>
+
+## ⛩️ Tech Mastery
+
+<div align="center">
+
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mra1k3r0&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+
+</div>
+
+<br>
+
+## 🎋 Journey
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mra1k3r0&custom_title=Contribution%20Path&theme=tokyo-night&hide_border=true&radius=10" width="100%" />
+
+<br>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rising%20Sun.png" alt="Rising Sun" width="25" height="25" /> **Latest Adventures** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rising%20Sun%20with%20Face.png" alt="Rising Sun with Face" width="25" height="25" />
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 198 of [Log Into The Future](https://anilist.co/manga/160980) (07:25 03 March 2025)
--   📖 Read chapter 102 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (07:21 03 March 2025)
--   📖 Read chapter 64 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (07:15 03 March 2025)
--   📺 Watched episode 9 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (02:00 02 March 2025)
--   📖 Read chapter 66 - 68 of [Steel-Eating Player](https://anilist.co/manga/170956) (04:38 01 March 2025)
+-   📺 Watched episode 9 of [Solo Leveling Season 2](https://anilist.co/anime/176496)
+-   📖 Read chapter 66 - 68 of [Steel-Eating Player](https://anilist.co/manga/170956)
 
 <!-- ANILIST_ACTIVITY:end -->
----
-[![](https://visitcount.itsvg.in/api?id=MrA1k3r0&icon=5&color=0)](https://visitcount.itsvg.in)
-![](https://hit.yhype.me/github/profile?user_id=61144642)
-[![committers.top badge](https://user-badge.committers.top/philippines/Mra1k3r0.svg)](https://user-badge.committers.top/philippines/Mra1k3r0)
 
-  ## 💰 You can help me by Donating
-  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/saikidesudev_) 
-  
+</div>
 
-  
+<br>
+
+## 🏮 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/john-paul-caigas-48948123a)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=flat-square)](https://twitter.com/saikidesu_dev)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white&style=flat-square)](https://youtube.com/@MrAik3ro)
+
+<br>
+
+[![Support](https://img.shields.io/badge/Support-Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/saikidesudev_)
+
+<br>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+<br>
+
+*"The path of code is like the flowing river - continuous and ever-changing"*
+
+<br>
+
+![Views](https://komarev.com/ghpvc/?username=Mra1k3r0&label=Visitors&color=darkviolet&style=flat)
+
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=24&height=120&section=footer)
