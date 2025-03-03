@@ -74,6 +74,7 @@
 <br>
 
 ![Views](https://komarev.com/ghpvc/?username=Mra1k3r0&label=Visitors&color=6f42c1&style=flat)
+[![committers.top badge](https://user-badge.committers.top/philippines/Mra1k3r0.svg)](https://user-badge.committers.top/philippines/Mra1k3r0)
 
 </div>
 
