@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 146 - 148 of [The Reborn Ranker Chronicles](https://anilist.co/manga/141316) (03:57 04 March 2025)
+-   📖 Read chapter 63 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (03:47 04 March 2025)
+-   📖 Read chapter 119 of [The Novel's Extra](https://anilist.co/manga/152128) (03:40 04 March 2025)
+-   📖 Read chapter 28 of [Isegye Chakgak Hunter](https://anilist.co/manga/186503) (03:22 04 March 2025)
 -   📖 Read chapter 198 of [Log Into The Future](https://anilist.co/manga/160980) (07:25 03 March 2025)
--   📖 Read chapter 102 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (07:21 03 March 2025)
--   📖 Read chapter 64 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (07:15 03 March 2025)
--   📺 Watched episode 9 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (02:00 02 March 2025)
--   📖 Read chapter 66 - 68 of [Steel-Eating Player](https://anilist.co/manga/170956) (04:38 01 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
