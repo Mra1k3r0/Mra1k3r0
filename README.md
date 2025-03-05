@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 69 of [Steel-Eating Player](https://anilist.co/manga/170956) (01:50 05 March 2025)
+-   📖 Read chapter 252 of [Omniscient Reader](https://anilist.co/manga/119257) (01:41 05 March 2025)
 -   📖 Read chapter 146 - 148 of [The Reborn Ranker Chronicles](https://anilist.co/manga/141316) (03:57 04 March 2025)
 -   📖 Read chapter 63 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (03:47 04 March 2025)
 -   📖 Read chapter 119 of [The Novel's Extra](https://anilist.co/manga/152128) (03:40 04 March 2025)
--   📖 Read chapter 28 of [Isegye Chakgak Hunter](https://anilist.co/manga/186503) (03:22 04 March 2025)
--   📖 Read chapter 198 of [Log Into The Future](https://anilist.co/manga/160980) (07:25 03 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
