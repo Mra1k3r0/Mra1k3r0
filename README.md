@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 21 - 33 of [Uri Gyohwangnim Jom Mallyeojuseyo](https://anilist.co/manga/187413) (05:47 17 March 2025)
 -   📺 Watched episode 10 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (08:20 09 March 2025)
 -   📖 Read chapter 69 of [Steel-Eating Player](https://anilist.co/manga/170956) (01:50 05 March 2025)
 -   📖 Read chapter 252 of [Omniscient Reader](https://anilist.co/manga/119257) (01:41 05 March 2025)
 -   📖 Read chapter 146 - 148 of [The Reborn Ranker Chronicles](https://anilist.co/manga/141316) (03:57 04 March 2025)
--   📖 Read chapter 63 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (03:47 04 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
