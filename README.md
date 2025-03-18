@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 64 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (05:49 18 March 2025)
+-   📖 Read chapter 120 of [The Novel's Extra](https://anilist.co/manga/152128) (05:49 18 March 2025)
 -   📖 Read chapter 66 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (10:06 17 March 2025)
 -   📖 Read chapter 119 of [Cheonhwaseogo Daegongja](https://anilist.co/manga/160693) (10:06 17 March 2025)
 -   📖 Read chapter 149 of [The Reborn Ranker Chronicles](https://anilist.co/manga/141316) (10:06 17 March 2025)
--   📖 Read chapter 70 of [Steel-Eating Player](https://anilist.co/manga/170956) (10:06 17 March 2025)
--   📖 Read chapter 201 of [Log Into The Future](https://anilist.co/manga/160980) (10:06 17 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
