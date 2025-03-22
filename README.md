@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 65 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (00:05 22 March 2025)
+-   📖 Read chapter 120 of [Cheonhwaseogo Daegongja](https://anilist.co/manga/160693) (23:57 21 March 2025)
 -   📖 Read chapter 70 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (11:30 21 March 2025)
 -   📖 Read chapter 34 of [Uri Gyohwangnim Jom Mallyeojuseyo](https://anilist.co/manga/187413) (22:34 20 March 2025)
 -   📖 Plans to read [The Slumbering Ranker](https://anilist.co/manga/146715) (04:15 20 March 2025)
--   📖 Read chapter 71 of [Steel-Eating Player](https://anilist.co/manga/170956) (04:13 20 March 2025)
--   📖 Read chapter 251 of [Nano Machine](https://anilist.co/manga/120980) (22:57 19 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
