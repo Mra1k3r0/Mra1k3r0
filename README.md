@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 203 of [Log Into The Future](https://anilist.co/manga/160980) (08:15 23 March 2025)
 -   📺 Watched episode 12 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (00:51 23 March 2025)
 -   📖 Read chapter 65 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (00:05 22 March 2025)
 -   📖 Read chapter 120 of [Cheonhwaseogo Daegongja](https://anilist.co/manga/160693) (23:57 21 March 2025)
 -   📖 Read chapter 70 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (11:30 21 March 2025)
--   📖 Read chapter 34 of [Uri Gyohwangnim Jom Mallyeojuseyo](https://anilist.co/manga/187413) (22:34 20 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
