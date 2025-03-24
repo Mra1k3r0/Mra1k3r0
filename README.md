@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 48 - 49 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (21:07 24 March 2025)
 -   📺 Completed [Charlotte](https://anilist.co/anime/20997) (19:42 24 March 2025)
 -   📺 Watched episode 1 - 13 of [Charlotte](https://anilist.co/anime/20997) (19:41 24 March 2025)
 -   📖 Read chapter 67 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (06:14 24 March 2025)
 -   📖 Read chapter 105 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (06:09 24 March 2025)
--   📺 Plans to watch [Charlotte](https://anilist.co/anime/20997) (05:46 24 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
