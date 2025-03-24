@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Charlotte](https://anilist.co/anime/20997) (19:42 24 March 2025)
+-   📺 Watched episode 1 - 13 of [Charlotte](https://anilist.co/anime/20997) (19:41 24 March 2025)
 -   📖 Read chapter 67 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (06:14 24 March 2025)
 -   📖 Read chapter 105 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (06:09 24 March 2025)
 -   📺 Plans to watch [Charlotte](https://anilist.co/anime/20997) (05:46 24 March 2025)
--   📖 Read chapter 203 of [Log Into The Future](https://anilist.co/manga/160980) (08:15 23 March 2025)
--   📺 Watched episode 12 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (00:51 23 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
