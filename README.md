@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 111 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (02:43 25 March 2025)
 -   📖 Read chapter 121 of [The Novel's Extra](https://anilist.co/manga/152128) (21:18 24 March 2025)
 -   📖 Read chapter 66 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (21:12 24 March 2025)
 -   📖 Read chapter 48 - 49 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (21:07 24 March 2025)
 -   📺 Completed [Charlotte](https://anilist.co/anime/20997) (19:42 24 March 2025)
--   📺 Watched episode 1 - 13 of [Charlotte](https://anilist.co/anime/20997) (19:41 24 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
