@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 121 of [Cheonhwaseogo Daegongja](https://anilist.co/manga/160693) (04:17 29 March 2025)
 -   📖 Read chapter 252 of [Nano Machine](https://anilist.co/manga/120980) (22:11 26 March 2025)
 -   📖 Read chapter 255 of [Omniscient Reader](https://anilist.co/manga/119257) (22:08 26 March 2025)
 -   📖 Read chapter 111 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (02:43 25 March 2025)
 -   📖 Read chapter 121 of [The Novel's Extra](https://anilist.co/manga/152128) (21:18 24 March 2025)
--   📖 Read chapter 66 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (21:12 24 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
