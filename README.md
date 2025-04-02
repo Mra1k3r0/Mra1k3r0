@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 72 of [Steel-Eating Player](https://anilist.co/manga/170956) (22:50 02 April 2025)
+-   📖 Read chapter 253 of [Nano Machine](https://anilist.co/manga/120980) (22:43 02 April 2025)
+-   📖 Read chapter 256 of [Omniscient Reader](https://anilist.co/manga/119257) (22:39 02 April 2025)
 -   📖 Read chapter 112 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (01:59 02 April 2025)
 -   📖 Read chapter 122 of [The Novel's Extra](https://anilist.co/manga/152128) (01:52 02 April 2025)
--   📖 Read chapter 68 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (03:27 31 March 2025)
--   📖 Read chapter 106 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (03:21 31 March 2025)
--   📖 Read chapter 71 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (03:16 31 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
