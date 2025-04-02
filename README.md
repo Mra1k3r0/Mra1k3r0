@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 112 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (01:59 02 April 2025)
+-   📖 Read chapter 122 of [The Novel's Extra](https://anilist.co/manga/152128) (01:52 02 April 2025)
 -   📖 Read chapter 68 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (03:27 31 March 2025)
 -   📖 Read chapter 106 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (03:21 31 March 2025)
 -   📖 Read chapter 71 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (03:16 31 March 2025)
--   📖 Read chapter 50 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (15:51 30 March 2025)
--   📺 Watched episode 13 of [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (12:28 30 March 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
