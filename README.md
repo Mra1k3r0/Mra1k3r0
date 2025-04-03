@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 67 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (22:07 03 April 2025)
 -   📖 Read chapter 72 of [Steel-Eating Player](https://anilist.co/manga/170956) (22:50 02 April 2025)
 -   📖 Read chapter 253 of [Nano Machine](https://anilist.co/manga/120980) (22:43 02 April 2025)
 -   📖 Read chapter 256 of [Omniscient Reader](https://anilist.co/manga/119257) (22:39 02 April 2025)
 -   📖 Read chapter 112 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (01:59 02 April 2025)
--   📖 Read chapter 122 of [The Novel's Extra](https://anilist.co/manga/152128) (01:52 02 April 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
