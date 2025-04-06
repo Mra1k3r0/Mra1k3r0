@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 29 - 30 of [Akdangeun Salgo Sipda](https://anilist.co/manga/187427) (05:07 06 April 2025)
+-   📖 Read chapter 206 of [Log Into The Future](https://anilist.co/manga/160980) (04:27 06 April 2025)
+-   📖 Read chapter 122 of [Cheonhwaseogo Daegongja](https://anilist.co/manga/160693) (04:25 06 April 2025)
 -   📖 Read chapter 67 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (22:07 03 April 2025)
 -   📖 Read chapter 72 of [Steel-Eating Player](https://anilist.co/manga/170956) (22:50 02 April 2025)
--   📖 Read chapter 253 of [Nano Machine](https://anilist.co/manga/120980) (22:43 02 April 2025)
--   📖 Read chapter 256 of [Omniscient Reader](https://anilist.co/manga/119257) (22:39 02 April 2025)
--   📖 Read chapter 112 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (01:59 02 April 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
