@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 27 - 29 of [Shangri-La Frontier Season 2](https://anilist.co/anime/176508) (16:48 08 April 2025)
+-   📺 Watched episode 27 - 32 of [Shangri-La Frontier Season 2](https://anilist.co/anime/176508) (17:54 08 April 2025)
 -   📺 Completed [Shangri-La Frontier](https://anilist.co/anime/151970) (10:43 08 April 2025)
 -   📺 Watched episode 7 - 25 of [Shangri-La Frontier](https://anilist.co/anime/151970) (10:42 08 April 2025)
 -   📖 Read chapter 69 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (01:52 07 April 2025)
