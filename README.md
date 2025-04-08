@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 7 - 21 of [Shangri-La Frontier](https://anilist.co/anime/151970) (09:07 08 April 2025)
+-   📺 Watched episode 7 - 23 of [Shangri-La Frontier](https://anilist.co/anime/151970) (09:59 08 April 2025)
 -   📖 Read chapter 69 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (01:52 07 April 2025)
 -   📖 Read chapter 107 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (01:52 07 April 2025)
 -   📖 Read chapter 72 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (05:43 06 April 2025)
