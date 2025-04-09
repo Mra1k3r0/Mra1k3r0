@@ -40,8 +40,8 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 27 - 36 of [Shangri-La Frontier Season 2](https://anilist.co/anime/176508) (03:50 09 April 2025)
 -   📖 Read chapter 51 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (18:54 08 April 2025)
--   📺 Watched episode 27 - 34 of [Shangri-La Frontier Season 2](https://anilist.co/anime/176508) (18:34 08 April 2025)
 -   📺 Completed [Shangri-La Frontier](https://anilist.co/anime/151970) (10:43 08 April 2025)
 -   📺 Watched episode 7 - 25 of [Shangri-La Frontier](https://anilist.co/anime/151970) (10:42 08 April 2025)
 -   📖 Read chapter 69 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (01:52 07 April 2025)
