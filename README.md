@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 2 of [Wangyou: Yinwei Tai Lang, Wo Cheng Le Quan Fu Gongdi!](https://anilist.co/manga/173262) (12:53 10 April 2025)
+-   📖 Read chapter 1 - 3 of [Wangyou: Yinwei Tai Lang, Wo Cheng Le Quan Fu Gongdi!](https://anilist.co/manga/173262) (16:17 10 April 2025)
 -   📖 Plans to read [Wangyou: Yinwei Tai Lang, Wo Cheng Le Quan Fu Gongdi!](https://anilist.co/manga/173262) (12:21 10 April 2025)
 -   📖 Read chapter 257 of [Omniscient Reader](https://anilist.co/manga/119257) (07:46 10 April 2025)
 -   📖 Read chapter 254 of [Nano Machine](https://anilist.co/manga/120980) (00:37 10 April 2025)
