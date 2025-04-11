@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 24 of [TSUKIMICHI -Moonlit Fantasy- Season 2](https://anilist.co/anime/139518) (02:08 11 April 2025)
+-   📺 Watched episode 24 - 25 of [TSUKIMICHI -Moonlit Fantasy- Season 2](https://anilist.co/anime/139518) (02:36 11 April 2025)
 -   📖 Read chapter 1 - 3 of [Wangyou: Yinwei Tai Lang, Wo Cheng Le Quan Fu Gongdi!](https://anilist.co/manga/173262) (16:17 10 April 2025)
 -   📖 Plans to read [Wangyou: Yinwei Tai Lang, Wo Cheng Le Quan Fu Gongdi!](https://anilist.co/manga/173262) (12:21 10 April 2025)
 -   📖 Read chapter 257 of [Omniscient Reader](https://anilist.co/manga/119257) (07:46 10 April 2025)
