@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 5 of [Ryuu to Ayumu Nariagari Boukensha-dou: Youzumi Toshite S-Rank Party kara Tsuihou sareta Kaifuku Majutsushi, Suterareta Saki de Saikyou no Shinryuu wo Fukkatsu sasete Shimau](https://anilist.co/manga/143658) (16:08 12 April 2025)
+-   📖 Read chapter 1 - 6 of [Ryuu to Ayumu Nariagari Boukensha-dou: Youzumi Toshite S-Rank Party kara Tsuihou sareta Kaifuku Majutsushi, Suterareta Saki de Saikyou no Shinryuu wo Fukkatsu sasete Shimau](https://anilist.co/manga/143658) (16:41 12 April 2025)
 -   📖 Read chapter 113 - 114 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (00:47 12 April 2025)
 -   📺 Completed [TSUKIMICHI -Moonlit Fantasy- Season 2](https://anilist.co/anime/139518) (23:06 11 April 2025)
 -   📺 Completed [Solo Leveling Season 2 -Arise from the Shadow-](https://anilist.co/anime/176496) (23:05 11 April 2025)
