@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 52 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (02:25 14 April 2025)
 -   📖 Read chapter 73 - 74 of [Steel-Eating Player](https://anilist.co/manga/170956) (02:19 14 April 2025)
 -   📖 Read chapter 123 of [Cheonhwaseogo Daegongja](https://anilist.co/manga/160693) (02:06 14 April 2025)
 -   📖 Read chapter 108 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (01:47 14 April 2025)
 -   📖 Read chapter 70 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (01:41 14 April 2025)
--   📖 Read chapter 17 - 31 of [Ryuu to Ayumu Nariagari Boukensha-dou: Youzumi Toshite S-Rank Party kara Tsuihou sareta Kaifuku Majutsushi, Suterareta Saki de Saikyou no Shinryuu wo Fukkatsu sasete Shimau](https://anilist.co/manga/143658) (15:38 13 April 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
