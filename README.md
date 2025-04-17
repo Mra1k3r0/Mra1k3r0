@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 255 of [Nano Machine](https://anilist.co/manga/120980) (09:02 17 April 2025)
+-   📖 Read chapter 258 of [Omniscient Reader](https://anilist.co/manga/119257) (08:59 17 April 2025)
+-   📖 Read chapter 124 of [The Novel's Extra](https://anilist.co/manga/152128) (08:53 17 April 2025)
 -   📖 Read chapter 52 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (02:25 14 April 2025)
 -   📖 Read chapter 73 - 74 of [Steel-Eating Player](https://anilist.co/manga/170956) (02:19 14 April 2025)
--   📖 Read chapter 123 of [Cheonhwaseogo Daegongja](https://anilist.co/manga/160693) (02:06 14 April 2025)
--   📖 Read chapter 108 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (01:47 14 April 2025)
--   📖 Read chapter 70 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (01:41 14 April 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
