@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 115 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (16:51 19 April 2025)
+-   📖 Read chapter 31 of [Akdangeun Salgo Sipda](https://anilist.co/manga/187427) (16:33 19 April 2025)
 -   📖 Read chapter 74 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (05:42 18 April 2025)
 -   📖 Read chapter 255 of [Nano Machine](https://anilist.co/manga/120980) (09:02 17 April 2025)
 -   📖 Read chapter 258 of [Omniscient Reader](https://anilist.co/manga/119257) (08:59 17 April 2025)
--   📖 Read chapter 124 of [The Novel's Extra](https://anilist.co/manga/152128) (08:53 17 April 2025)
--   📖 Read chapter 52 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (02:25 14 April 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
