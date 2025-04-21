@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 71 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (03:35 21 April 2025)
 -   📖 Read chapter 109 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (03:27 21 April 2025)
 -   📖 Read chapter 21 of [Magye Academy-ui Silnun Agyeok](https://anilist.co/manga/190356) (06:01 20 April 2025)
 -   📖 Read chapter 53 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (03:54 20 April 2025)
 -   📖 Read chapter 115 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (16:51 19 April 2025)
--   📖 Read chapter 31 of [Akdangeun Salgo Sipda](https://anilist.co/manga/187427) (16:33 19 April 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
