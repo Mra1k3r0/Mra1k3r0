@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 8 - 15 of [Re:ZERO -Starting Life in Another World- Season 3](https://anilist.co/anime/163134) (18:04 21 April 2025)
+-   📺 Watched episode 8 - 16 of [Re:ZERO -Starting Life in Another World- Season 3](https://anilist.co/anime/163134) (18:28 21 April 2025)
 -   📖 Read chapter 71 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (03:35 21 April 2025)
 -   📖 Read chapter 109 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (03:27 21 April 2025)
 -   📖 Read chapter 21 of [Magye Academy-ui Silnun Agyeok](https://anilist.co/manga/190356) (06:01 20 April 2025)
