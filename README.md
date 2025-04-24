@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 256 - 257 of [Nano Machine](https://anilist.co/manga/120980) (02:32 24 April 2025)
 -   📖 Read chapter 259 of [Omniscient Reader](https://anilist.co/manga/119257) (02:16 24 April 2025)
 -   📖 Read chapter 91 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (02:13 24 April 2025)
 -   📖 Read chapter 125 of [The Novel's Extra](https://anilist.co/manga/152128) (18:58 22 April 2025)
 -   📺 Completed [Re:ZERO -Starting Life in Another World- Season 3](https://anilist.co/anime/163134) (20:11 21 April 2025)
--   📺 Watched episode 8 - 16 of [Re:ZERO -Starting Life in Another World- Season 3](https://anilist.co/anime/163134) (18:28 21 April 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
