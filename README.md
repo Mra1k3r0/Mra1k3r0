@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 259 of [Omniscient Reader](https://anilist.co/manga/119257) (02:16 24 April 2025)
+-   📖 Read chapter 91 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (02:13 24 April 2025)
 -   📖 Read chapter 125 of [The Novel's Extra](https://anilist.co/manga/152128) (18:58 22 April 2025)
 -   📺 Completed [Re:ZERO -Starting Life in Another World- Season 3](https://anilist.co/anime/163134) (20:11 21 April 2025)
 -   📺 Watched episode 8 - 16 of [Re:ZERO -Starting Life in Another World- Season 3](https://anilist.co/anime/163134) (18:28 21 April 2025)
--   📖 Read chapter 71 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (03:35 21 April 2025)
--   📖 Read chapter 109 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (03:27 21 April 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
