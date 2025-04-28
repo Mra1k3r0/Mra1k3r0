@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 110 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (17:02 28 April 2025)
+-   📖 Read chapter 72 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (16:56 28 April 2025)
+-   📖 Read chapter 32 of [Akdangeun Salgo Sipda](https://anilist.co/manga/187427) (16:53 28 April 2025)
 -   📖 Read chapter 30 of [Apocalypse Bringer Mynoghra](https://anilist.co/manga/122362) (08:48 26 April 2025)
 -   📖 Read chapter 124 - 125 of [Cheonhwaseogo Daegongja](https://anilist.co/manga/160693) (09:30 24 April 2025)
--   📖 Read chapter 256 - 257 of [Nano Machine](https://anilist.co/manga/120980) (02:32 24 April 2025)
--   📖 Read chapter 259 of [Omniscient Reader](https://anilist.co/manga/119257) (02:16 24 April 2025)
--   📖 Read chapter 91 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (02:13 24 April 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
