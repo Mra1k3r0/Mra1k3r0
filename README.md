@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 126 of [Cheonhwaseogo Daegongja](https://anilist.co/manga/160693) (17:05 30 April 2025)
+-   📖 Read chapter 258 of [Nano Machine](https://anilist.co/manga/120980) (16:44 30 April 2025)
+-   📖 Read chapter 260 of [Omniscient Reader](https://anilist.co/manga/119257) (16:33 30 April 2025)
 -   📖 Read chapter 75 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (03:23 30 April 2025)
 -   📖 Read chapter 22 of [Magye Academy-ui Silnun Agyeok](https://anilist.co/manga/190356) (03:13 30 April 2025)
--   📖 Read chapter 92 - 96 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (04:10 29 April 2025)
--   📖 Read chapter 110 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (17:02 28 April 2025)
--   📖 Read chapter 72 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (16:56 28 April 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
