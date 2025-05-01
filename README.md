@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 54 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (11:22 01 May 2025)
+-   📖 Read chapter 116 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (11:16 01 May 2025)
 -   📖 Read chapter 126 of [Cheonhwaseogo Daegongja](https://anilist.co/manga/160693) (17:05 30 April 2025)
 -   📖 Read chapter 258 of [Nano Machine](https://anilist.co/manga/120980) (16:44 30 April 2025)
 -   📖 Read chapter 260 of [Omniscient Reader](https://anilist.co/manga/119257) (16:33 30 April 2025)
--   📖 Read chapter 75 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (03:23 30 April 2025)
--   📖 Read chapter 22 of [Magye Academy-ui Silnun Agyeok](https://anilist.co/manga/190356) (03:13 30 April 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
