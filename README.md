@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 126 of [The Novel's Extra](https://anilist.co/manga/152128) (19:10 06 May 2025)
 -   📖 Read chapter 23 of [Magye Academy-ui Silnun Agyeok](https://anilist.co/manga/190356) (05:51 06 May 2025)
 -   📖 Read chapter 55 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (17:50 04 May 2025)
 -   📖 Read chapter 117 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (17:26 04 May 2025)
 -   📖 Read chapter 97 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (17:12 04 May 2025)
--   📖 Read chapter 73 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (16:26 04 May 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
