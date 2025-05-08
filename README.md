@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Princess Resurrection](https://anilist.co/anime/2130) (17:09 08 May 2025)
 -   📖 Read chapter 259 of [Nano Machine](https://anilist.co/manga/120980) (06:00 08 May 2025)
 -   📖 Read chapter 126 of [The Novel's Extra](https://anilist.co/manga/152128) (19:10 06 May 2025)
 -   📖 Read chapter 23 of [Magye Academy-ui Silnun Agyeok](https://anilist.co/manga/190356) (05:51 06 May 2025)
 -   📖 Read chapter 55 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (17:50 04 May 2025)
--   📖 Read chapter 117 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (17:26 04 May 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
