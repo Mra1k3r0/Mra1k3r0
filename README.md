@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 of [Princess Resurrection](https://anilist.co/anime/2130) (17:09 08 May 2025)
+-   📺 Watched episode 1 - 2 of [Princess Resurrection](https://anilist.co/anime/2130) (18:40 08 May 2025)
 -   📖 Read chapter 259 of [Nano Machine](https://anilist.co/manga/120980) (06:00 08 May 2025)
 -   📖 Read chapter 126 of [The Novel's Extra](https://anilist.co/manga/152128) (19:10 06 May 2025)
 -   📖 Read chapter 23 of [Magye Academy-ui Silnun Agyeok](https://anilist.co/manga/190356) (05:51 06 May 2025)
