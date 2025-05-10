@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 34 of [Akdangeun Salgo Sipda](https://anilist.co/manga/187427) (05:01 10 May 2025)
 -   📺 Watched episode 1 - 2 of [Princess Resurrection](https://anilist.co/anime/2130) (18:40 08 May 2025)
 -   📖 Read chapter 259 of [Nano Machine](https://anilist.co/manga/120980) (06:00 08 May 2025)
 -   📖 Read chapter 126 of [The Novel's Extra](https://anilist.co/manga/152128) (19:10 06 May 2025)
 -   📖 Read chapter 23 of [Magye Academy-ui Silnun Agyeok](https://anilist.co/manga/190356) (05:51 06 May 2025)
--   📖 Read chapter 55 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (17:50 04 May 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
