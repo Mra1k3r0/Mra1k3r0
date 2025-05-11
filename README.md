@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 74 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (16:21 11 May 2025)
 -   📖 Read chapter 24 of [Magye Academy-ui Silnun Agyeok](https://anilist.co/manga/190356) (16:26 10 May 2025)
 -   📖 Read chapter 77 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (07:23 10 May 2025)
 -   📖 Read chapter 118 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (07:18 10 May 2025)
 -   📖 Read chapter 34 of [Akdangeun Salgo Sipda](https://anilist.co/manga/187427) (05:01 10 May 2025)
--   📺 Watched episode 1 - 2 of [Princess Resurrection](https://anilist.co/anime/2130) (18:40 08 May 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
