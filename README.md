@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 261 - 262 of [Omniscient Reader](https://anilist.co/manga/119257) (16:08 14 May 2025)
 -   📖 Read chapter 127 of [The Novel's Extra](https://anilist.co/manga/152128) (07:05 14 May 2025)
 -   📖 Read chapter 127 of [Cheonhwaseogo Daegongja](https://anilist.co/manga/160693) (02:00 12 May 2025)
 -   📖 Read chapter 112 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (01:53 12 May 2025)
 -   📖 Read chapter 98 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (01:46 12 May 2025)
--   📖 Read chapter 74 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (16:21 11 May 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
