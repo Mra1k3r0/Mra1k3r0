@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 150 - 155 of [The Reborn Ranker Chronicles](https://anilist.co/manga/141316) (03:12 24 May 2025)
+-   📖 Read chapter 150 - 160 of [The Reborn Ranker Chronicles](https://anilist.co/manga/141316) (04:02 24 May 2025)
 -   📖 Read chapter 261 of [Nano Machine](https://anilist.co/manga/120980) (00:50 23 May 2025)
 -   📖 Read chapter 119 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (15:58 22 May 2025)
 -   📖 Read chapter 128 of [The Novel's Extra](https://anilist.co/manga/152128) (17:43 21 May 2025)
