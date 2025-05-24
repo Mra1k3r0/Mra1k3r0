@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 150 - 155 of [The Reborn Ranker Chronicles](https://anilist.co/manga/141316) (03:12 24 May 2025)
 -   📖 Read chapter 261 of [Nano Machine](https://anilist.co/manga/120980) (00:50 23 May 2025)
 -   📖 Read chapter 119 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (15:58 22 May 2025)
 -   📖 Read chapter 128 of [The Novel's Extra](https://anilist.co/manga/152128) (17:43 21 May 2025)
 -   📖 Read chapter 113 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (23:39 18 May 2025)
--   📖 Read chapter 25 of [Magye Academy-ui Silnun Agyeok](https://anilist.co/manga/190356) (23:33 18 May 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
