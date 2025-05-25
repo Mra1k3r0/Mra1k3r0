@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 57 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (10:59 25 May 2025)
+-   📖 Read chapter 26 of [Magye Academy-ui Silnun Agyeok](https://anilist.co/manga/190356) (10:51 25 May 2025)
 -   📖 Read chapter 56 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (05:06 24 May 2025)
 -   📖 Read chapter 150 - 160 of [The Reborn Ranker Chronicles](https://anilist.co/manga/141316) (04:02 24 May 2025)
 -   📖 Read chapter 261 of [Nano Machine](https://anilist.co/manga/120980) (00:50 23 May 2025)
--   📖 Read chapter 119 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (15:58 22 May 2025)
--   📖 Read chapter 128 of [The Novel's Extra](https://anilist.co/manga/152128) (17:43 21 May 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
