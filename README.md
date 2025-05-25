@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 75 - 76 of [Steel-Eating Player](https://anilist.co/manga/170956) (11:52 25 May 2025)
+-   📖 Read chapter 99 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (11:30 25 May 2025)
+-   📖 Read chapter 78 - 79 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (11:22 25 May 2025)
 -   📖 Read chapter 57 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (10:59 25 May 2025)
 -   📖 Read chapter 26 of [Magye Academy-ui Silnun Agyeok](https://anilist.co/manga/190356) (10:51 25 May 2025)
--   📖 Read chapter 56 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (05:06 24 May 2025)
--   📖 Read chapter 150 - 160 of [The Reborn Ranker Chronicles](https://anilist.co/manga/141316) (04:02 24 May 2025)
--   📖 Read chapter 261 of [Nano Machine](https://anilist.co/manga/120980) (00:50 23 May 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
