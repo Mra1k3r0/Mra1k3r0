@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 76 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (04:08 26 May 2025)
+-   📖 Read chapter 114 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (03:51 26 May 2025)
 -   📖 Read chapter 75 - 76 of [Steel-Eating Player](https://anilist.co/manga/170956) (11:52 25 May 2025)
 -   📖 Read chapter 99 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (11:30 25 May 2025)
 -   📖 Read chapter 78 - 79 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (11:22 25 May 2025)
--   📖 Read chapter 57 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (10:59 25 May 2025)
--   📖 Read chapter 26 of [Magye Academy-ui Silnun Agyeok](https://anilist.co/manga/190356) (10:51 25 May 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
