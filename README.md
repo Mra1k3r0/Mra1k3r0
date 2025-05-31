@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 36 of [Akdangeun Salgo Sipda](https://anilist.co/manga/187427) (03:01 31 May 2025)
 -   📖 Read chapter 129 of [The Novel's Extra](https://anilist.co/manga/152128) (12:18 29 May 2025)
 -   📖 Read chapter 100 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (12:03 29 May 2025)
 -   📖 Read chapter 262 of [Nano Machine](https://anilist.co/manga/120980) (11:44 29 May 2025)
 -   📖 Read chapter 76 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (04:08 26 May 2025)
--   📖 Read chapter 114 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (03:51 26 May 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
