@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 113 - 121 of [Pick Me Up](https://anilist.co/manga/159441) (02:43 02 June 2025)
+-   📖 Read chapter 113 - 125 of [Pick Me Up](https://anilist.co/manga/159441) (03:10 02 June 2025)
 -   📖 Read chapter 112 of [Pick Me Up](https://anilist.co/manga/159441) (16:52 31 May 2025)
 -   📖 Read chapter 80 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (16:28 31 May 2025)
 -   📖 Read chapter 36 of [Akdangeun Salgo Sipda](https://anilist.co/manga/187427) (03:01 31 May 2025)
