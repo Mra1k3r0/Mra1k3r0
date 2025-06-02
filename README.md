@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 126 of [Pick Me Up](https://anilist.co/manga/159441) (15:48 02 June 2025)
+-   📖 Read chapter 126 - 130 of [Pick Me Up](https://anilist.co/manga/159441) (16:46 02 June 2025)
 -   📖 Read chapter 101 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (09:03 02 June 2025)
 -   📖 Read chapter 115 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (05:43 02 June 2025)
 -   📖 Read chapter 113 - 125 of [Pick Me Up](https://anilist.co/manga/159441) (03:10 02 June 2025)
