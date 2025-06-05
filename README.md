@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 161 of [The Reborn Ranker Chronicles](https://anilist.co/manga/141316) (01:50 05 June 2025)
 -   📖 Read chapter 147 - 149 of [Pick Me Up](https://anilist.co/manga/159441) (14:41 04 June 2025)
 -   📖 Read chapter 126 - 134 of [Pick Me Up](https://anilist.co/manga/159441) (17:50 03 June 2025)
 -   📖 Read chapter 77 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (09:00 03 June 2025)
 -   📖 Read chapter 101 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (09:03 02 June 2025)
--   📖 Read chapter 115 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (05:43 02 June 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
