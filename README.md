@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 128 - 129 of [Cheonhwaseogo Daegongja](https://anilist.co/manga/160693) (03:22 06 June 2025)
+-   📖 Read chapter 128 - 131 of [Cheonhwaseogo Daegongja](https://anilist.co/manga/160693) (03:48 06 June 2025)
 -   📖 Read chapter 120 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (06:05 05 June 2025)
 -   📖 Read chapter 263 of [Nano Machine](https://anilist.co/manga/120980) (05:15 05 June 2025)
 -   📖 Read chapter 130 of [The Novel's Extra](https://anilist.co/manga/152128) (04:56 05 June 2025)
