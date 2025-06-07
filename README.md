@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 37 of [Akdangeun Salgo Sipda](https://anilist.co/manga/187427) (22:55 07 June 2025)
 -   📖 Read chapter 121 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (03:03 07 June 2025)
 -   📺 Watched episode 2 - 5 of [TRILLION GAME](https://anilist.co/anime/169315) (16:58 06 June 2025)
 -   📖 Read chapter 128 - 131 of [Cheonhwaseogo Daegongja](https://anilist.co/manga/160693) (03:48 06 June 2025)
 -   📖 Read chapter 120 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (06:05 05 June 2025)
--   📖 Read chapter 263 of [Nano Machine](https://anilist.co/manga/120980) (05:15 05 June 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
