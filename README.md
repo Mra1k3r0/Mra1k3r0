@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 264 of [Nano Machine](https://anilist.co/manga/120980) (02:06 12 June 2025)
+-   📖 Read chapter 131 of [The Novel's Extra](https://anilist.co/manga/152128) (01:30 12 June 2025)
+-   📖 Read chapter 54 of [Myriad Realms Gatekeeper](https://anilist.co/manga/187111) (01:13 12 June 2025)
 -   📖 Plans to read [Reincarnated Murim Lord](https://anilist.co/manga/176790) (02:24 10 June 2025)
 -   📖 Read chapter 81 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (13:44 09 June 2025)
--   📖 Read chapter 78 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (13:32 09 June 2025)
--   📖 Read chapter 116 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (20:37 08 June 2025)
--   📖 Read chapter 27 - 28 of [Magye Academy-ui Silnun Agyeok](https://anilist.co/manga/190356) (23:27 07 June 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
