@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 of [The Brilliant Healer's New Life in the Shadows](https://anilist.co/anime/175872) (08:04 16 June 2025)
 -   📖 Read chapter 132 of [Cheonhwaseogo Daegongja](https://anilist.co/manga/160693) (03:33 14 June 2025)
 -   📖 Read chapter 82 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (03:26 14 June 2025)
 -   📖 Read chapter 122 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (03:15 14 June 2025)
 -   📖 Read chapter 264 of [Nano Machine](https://anilist.co/manga/120980) (02:06 12 June 2025)
--   📖 Read chapter 131 of [The Novel's Extra](https://anilist.co/manga/152128) (01:30 12 June 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
