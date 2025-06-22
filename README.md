@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 30 of [Magye Academy-ui Silnun Agyeok](https://anilist.co/manga/190356) (05:37 22 June 2025)
 -   📖 Read chapter 265 of [Nano Machine](https://anilist.co/manga/120980) (05:08 22 June 2025)
 -   📖 Read chapter 60 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (05:04 22 June 2025)
 -   📖 Read chapter 123 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (08:35 21 June 2025)
 -   📖 Read chapter 29 of [Magye Academy-ui Silnun Agyeok](https://anilist.co/manga/190356) (16:20 17 June 2025)
--   📺 Watched episode 2 of [The Brilliant Healer's New Life in the Shadows](https://anilist.co/anime/175872) (08:04 16 June 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
