@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 265 of [Nano Machine](https://anilist.co/manga/120980) (05:08 22 June 2025)
+-   📖 Read chapter 60 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (05:04 22 June 2025)
 -   📖 Read chapter 123 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (08:35 21 June 2025)
 -   📖 Read chapter 29 of [Magye Academy-ui Silnun Agyeok](https://anilist.co/manga/190356) (16:20 17 June 2025)
 -   📺 Watched episode 2 of [The Brilliant Healer's New Life in the Shadows](https://anilist.co/anime/175872) (08:04 16 June 2025)
--   📖 Read chapter 132 of [Cheonhwa Archive's Young Master](https://anilist.co/manga/160693) (03:33 14 June 2025)
--   📖 Read chapter 82 of [The Extra’s Academy Survival Guide](https://anilist.co/manga/172619) (03:26 14 June 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
