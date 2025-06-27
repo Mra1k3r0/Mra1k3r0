@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 266 of [Nano Machine](https://anilist.co/manga/120980) (10:49 27 June 2025)
 -   📖 Read chapter 263 - 264 of [Omniscient Reader](https://anilist.co/manga/119257) (10:01 24 June 2025)
 -   📖 Read chapter 132 of [The Novel's Extra](https://anilist.co/manga/152128) (00:51 24 June 2025)
 -   📖 Read chapter 118 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (03:23 23 June 2025)
 -   📖 Read chapter 80 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (03:15 23 June 2025)
--   📖 Read chapter 30 of [Magye Academy-ui Silnun Agyeok](https://anilist.co/manga/190356) (05:37 22 June 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
