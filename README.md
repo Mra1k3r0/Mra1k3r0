@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 150 - 153 of [Pick Me Up](https://anilist.co/manga/159441) (16:40 03 July 2025)
+-   📖 Read chapter 150 - 155 of [Pick Me Up](https://anilist.co/manga/159441) (17:57 03 July 2025)
 -   📖 Read chapter 265 - 269 of [Omniscient Reader](https://anilist.co/manga/119257) (12:35 02 July 2025)
 -   📖 Read chapter 133 of [The Novel's Extra](https://anilist.co/manga/152128) (04:23 02 July 2025)
 -   📖 Read chapter 124 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (08:08 01 July 2025)
