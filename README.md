@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 2 of [Lord of Mysteries](https://anilist.co/anime/137667) (11:55 06 July 2025)
+-   📺 Watched episode 2 - 3 of [Lord of Mysteries](https://anilist.co/anime/137667) (18:03 06 July 2025)
 -   📖 Read chapter 32 of [Magye Academy-ui Silnun Agyeok](https://anilist.co/manga/190356) (11:12 06 July 2025)
 -   📖 Read chapter 62 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (10:57 06 July 2025)
 -   📖 Read chapter 38 of [Akdangeun Salgo Sipda](https://anilist.co/manga/187427) (10:55 06 July 2025)
