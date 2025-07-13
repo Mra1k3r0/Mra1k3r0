@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 39 of [Akdangeun Salgo Sipda](https://anilist.co/manga/187427) (13:24 13 July 2025)
 -   📖 Read chapter 268 of [Nano Machine](https://anilist.co/manga/120980) (05:52 11 July 2025)
 -   📖 Read chapter 134 of [The Novel's Extra](https://anilist.co/manga/152128) (03:48 08 July 2025)
 -   📖 Read chapter 125 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (04:51 07 July 2025)
 -   📖 Read chapter 82 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (04:43 07 July 2025)
--   📖 Read chapter 120 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (04:36 07 July 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
