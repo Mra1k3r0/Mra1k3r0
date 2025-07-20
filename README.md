@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 126 - 127 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (06:51 20 July 2025)
+-   📖 Read chapter 34 of [Magye Academy-ui Silnun Agyeok](https://anilist.co/manga/190356) (06:31 20 July 2025)
 -   📺 Watched episode 5 of [Lord of Mysteries](https://anilist.co/anime/137667) (18:31 19 July 2025)
 -   📖 Read chapter 40 of [Akdangeun Salgo Sipda](https://anilist.co/manga/187427) (08:17 19 July 2025)
 -   📖 Read chapter 63 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (05:32 17 July 2025)
--   📖 Read chapter 269 of [Nano Machine](https://anilist.co/manga/120980) (05:22 17 July 2025)
--   📖 Read chapter 33 of [Magye Academy-ui Silnun Agyeok](https://anilist.co/manga/190356) (12:14 16 July 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
