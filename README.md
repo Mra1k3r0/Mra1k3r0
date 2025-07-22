@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 122 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (07:17 22 July 2025)
 -   📖 Read chapter 84 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (07:02 22 July 2025)
 -   📖 Read chapter 126 - 127 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (06:51 20 July 2025)
 -   📖 Read chapter 34 of [Magye Academy-ui Silnun Agyeok](https://anilist.co/manga/190356) (06:31 20 July 2025)
 -   📺 Watched episode 5 of [Lord of Mysteries](https://anilist.co/anime/137667) (18:31 19 July 2025)
--   📖 Read chapter 40 of [Akdangeun Salgo Sipda](https://anilist.co/manga/187427) (08:17 19 July 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
