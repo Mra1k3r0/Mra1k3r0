@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 270 of [Nano Machine](https://anilist.co/manga/120980) (04:02 24 July 2025)
 -   📖 Read chapter 136 of [The Novel's Extra](https://anilist.co/manga/152128) (20:57 22 July 2025)
 -   📖 Read chapter 136 of [The Novel's Extra](https://anilist.co/manga/152128) (20:57 22 July 2025)
 -   📖 Read chapter 122 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (07:17 22 July 2025)
 -   📖 Read chapter 84 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (07:02 22 July 2025)
--   📖 Read chapter 126 - 127 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (06:51 20 July 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
