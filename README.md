@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 270 - 272 of [Omniscient Reader](https://anilist.co/manga/119257) (22:43 25 July 2025)
+-   📖 Read chapter 41 of [Akdangeun Salgo Sipda](https://anilist.co/manga/187427) (22:21 25 July 2025)
 -   📖 Read chapter 95 - 197 of [The Reaper](https://anilist.co/manga/153432) (10:48 25 July 2025)
 -   📖 Read chapter 270 of [Nano Machine](https://anilist.co/manga/120980) (04:02 24 July 2025)
 -   📖 Read chapter 136 of [The Novel's Extra](https://anilist.co/manga/152128) (20:57 22 July 2025)
--   📖 Read chapter 136 of [The Novel's Extra](https://anilist.co/manga/152128) (20:57 22 July 2025)
--   📖 Read chapter 122 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (07:17 22 July 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
