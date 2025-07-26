@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 2 - 3 of [Secrets of the Silent Witch](https://anilist.co/anime/179966) (18:57 26 July 2025)
+-   📺 Watched episode 2 - 4 of [Secrets of the Silent Witch](https://anilist.co/anime/179966) (19:21 26 July 2025)
 -   📺 Watched episode 6 of [Lord of Mysteries](https://anilist.co/anime/137667) (07:52 26 July 2025)
 -   📖 Read chapter 270 - 272 of [Omniscient Reader](https://anilist.co/manga/119257) (22:43 25 July 2025)
 -   📖 Read chapter 41 of [Akdangeun Salgo Sipda](https://anilist.co/manga/187427) (22:21 25 July 2025)
