@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 35 of [Magye Academy-ui Silnun Agyeok](https://anilist.co/manga/190356) (11:25 27 July 2025)
 -   📺 Watched episode 2 - 4 of [Secrets of the Silent Witch](https://anilist.co/anime/179966) (19:21 26 July 2025)
 -   📺 Watched episode 6 of [Lord of Mysteries](https://anilist.co/anime/137667) (07:52 26 July 2025)
 -   📖 Read chapter 270 - 272 of [Omniscient Reader](https://anilist.co/manga/119257) (22:43 25 July 2025)
 -   📖 Read chapter 41 of [Akdangeun Salgo Sipda](https://anilist.co/manga/187427) (22:21 25 July 2025)
--   📖 Read chapter 95 - 197 of [The Reaper](https://anilist.co/manga/153432) (10:48 25 July 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
