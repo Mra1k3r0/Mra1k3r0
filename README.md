@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 137 of [The Novel's Extra](https://anilist.co/manga/152128) (23:58 28 July 2025)
+-   📖 Read chapter 64 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (23:52 28 July 2025)
 -   📺 Completed [I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability](https://anilist.co/anime/156415) (19:53 28 July 2025)
 -   📺 Watched episode 12 of [I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability](https://anilist.co/anime/156415) (19:52 28 July 2025)
 -   📖 Read chapter 123 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (05:22 28 July 2025)
--   📺 Watched episode 11 of [I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability](https://anilist.co/anime/156415) (17:41 27 July 2025)
--   📖 Read chapter 35 of [Magye Academy-ui Silnun Agyeok](https://anilist.co/manga/190356) (11:25 27 July 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
