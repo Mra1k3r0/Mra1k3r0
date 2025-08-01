@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 273 of [Omniscient Reader](https://anilist.co/manga/119257) (04:00 01 August 2025)
 -   📺 Watched episode 16 of [I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2](https://anilist.co/anime/178090) (11:33 31 July 2025)
 -   📖 Read chapter 271 of [Nano Machine](https://anilist.co/manga/120980) (05:37 31 July 2025)
 -   📺 Watched episode 2 - 3 of [I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2](https://anilist.co/anime/178090) (14:18 30 July 2025)
 -   📖 Read chapter 85 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (02:54 30 July 2025)
--   📖 Read chapter 137 of [The Novel's Extra](https://anilist.co/manga/152128) (23:58 28 July 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
