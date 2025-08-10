@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 274 of [Omniscient Reader](https://anilist.co/manga/119257) (19:00 10 August 2025)
+-   📖 Read chapter 66 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (18:47 10 August 2025)
 -   📺 Watched episode 8 of [Lord of Mysteries](https://anilist.co/anime/137667) (16:25 09 August 2025)
 -   📖 Read chapter 130 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (07:13 09 August 2025)
 -   📖 Read chapter 65 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (07:09 09 August 2025)
--   📖 Read chapter 272 of [Nano Machine](https://anilist.co/manga/120980) (01:02 08 August 2025)
--   📖 Read chapter 129 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (13:59 04 August 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
