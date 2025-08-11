@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 2 - 4 of [Shiki](https://anilist.co/anime/7724) (18:59 11 August 2025)
+-   📺 Watched episode 2 - 7 of [Shiki](https://anilist.co/anime/7724) (20:03 11 August 2025)
 -   📖 Read chapter 125 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (11:41 11 August 2025)
 -   📖 Read chapter 87 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (11:37 11 August 2025)
 -   📖 Read chapter 274 of [Omniscient Reader](https://anilist.co/manga/119257) (19:00 10 August 2025)
