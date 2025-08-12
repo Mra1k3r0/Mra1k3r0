@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 8 - 11 of [Shiki](https://anilist.co/anime/7724) (13:08 12 August 2025)
+-   📺 Watched episode 8 - 14 of [Shiki](https://anilist.co/anime/7724) (14:09 12 August 2025)
 -   📖 Read chapter 138 of [The Novel's Extra](https://anilist.co/manga/152128) (03:46 12 August 2025)
 -   📺 Watched episode 2 - 7 of [Shiki](https://anilist.co/anime/7724) (20:03 11 August 2025)
 -   📖 Read chapter 125 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (11:41 11 August 2025)
