@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 133 - 135 of [Cheonhwa Archive's Young Master](https://anilist.co/manga/160693) (05:10 13 August 2025)
+-   📖 Read chapter 133 - 140 of [Cheonhwa Archive's Young Master](https://anilist.co/manga/160693) (05:30 13 August 2025)
 -   📺 Watched episode 8 - 20 of [Shiki](https://anilist.co/anime/7724) (19:35 12 August 2025)
 -   📖 Read chapter 138 of [The Novel's Extra](https://anilist.co/manga/152128) (03:46 12 August 2025)
 -   📺 Watched episode 2 - 7 of [Shiki](https://anilist.co/anime/7724) (20:03 11 August 2025)
