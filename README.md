@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 163 of [The Reborn Ranker Chronicles](https://anilist.co/manga/141316) (07:54 14 August 2025)
+-   📖 Read chapter 273 of [Nano Machine](https://anilist.co/manga/120980) (07:41 14 August 2025)
 -   📖 Read chapter 275 of [Omniscient Reader](https://anilist.co/manga/119257) (19:21 13 August 2025)
 -   📖 Read chapter 133 - 140 of [Cheonhwa Archive's Young Master](https://anilist.co/manga/160693) (05:30 13 August 2025)
 -   📺 Watched episode 8 - 20 of [Shiki](https://anilist.co/anime/7724) (19:35 12 August 2025)
--   📖 Read chapter 138 of [The Novel's Extra](https://anilist.co/manga/152128) (03:46 12 August 2025)
--   📺 Watched episode 2 - 7 of [Shiki](https://anilist.co/anime/7724) (20:03 11 August 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
