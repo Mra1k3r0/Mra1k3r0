@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 37 of [Magye Academy-ui Silnun Agyeok](https://anilist.co/manga/190356) (08:50 16 August 2025)
 -   📖 Read chapter 163 - 168 of [The Reborn Ranker Chronicles](https://anilist.co/manga/141316) (09:20 14 August 2025)
 -   📖 Read chapter 273 of [Nano Machine](https://anilist.co/manga/120980) (07:41 14 August 2025)
 -   📖 Read chapter 275 of [Omniscient Reader](https://anilist.co/manga/119257) (19:21 13 August 2025)
 -   📖 Read chapter 133 - 140 of [Cheonhwa Archive's Young Master](https://anilist.co/manga/160693) (05:30 13 August 2025)
--   📺 Watched episode 8 - 20 of [Shiki](https://anilist.co/anime/7724) (19:35 12 August 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
