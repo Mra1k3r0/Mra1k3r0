@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 68 - 81 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (17:28 17 August 2025)
+-   📖 Read chapter 68 - 82 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (02:14 18 August 2025)
 -   📖 Read chapter 43 of [Akdangeun Salgo Sipda](https://anilist.co/manga/187427) (15:20 17 August 2025)
 -   📖 Read chapter 131 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (19:14 16 August 2025)
 -   📺 Watched episode 17 - 18 of [I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2](https://anilist.co/anime/178090) (19:05 16 August 2025)
