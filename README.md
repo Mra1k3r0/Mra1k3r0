@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 139 of [The Novel's Extra](https://anilist.co/manga/152128) (02:38 19 August 2025)
+-   📖 Read chapter 38 of [Magye Academy-ui Silnun Agyeok](https://anilist.co/manga/190356) (02:32 19 August 2025)
 -   📖 Read chapter 126 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (04:00 18 August 2025)
 -   📖 Read chapter 68 - 85 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (03:54 18 August 2025)
 -   📖 Read chapter 43 of [Akdangeun Salgo Sipda](https://anilist.co/manga/187427) (15:20 17 August 2025)
--   📖 Read chapter 131 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (19:14 16 August 2025)
--   📺 Watched episode 17 - 18 of [I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2](https://anilist.co/anime/178090) (19:05 16 August 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
