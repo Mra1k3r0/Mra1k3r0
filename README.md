@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 141 of [Cheonhwa Archive's Young Master](https://anilist.co/manga/160693) (05:13 20 August 2025)
 -   📖 Read chapter 139 of [The Novel's Extra](https://anilist.co/manga/152128) (02:38 19 August 2025)
 -   📖 Read chapter 38 of [Magye Academy-ui Silnun Agyeok](https://anilist.co/manga/190356) (02:32 19 August 2025)
 -   📖 Read chapter 126 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (04:00 18 August 2025)
 -   📖 Read chapter 68 - 85 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (03:54 18 August 2025)
--   📖 Read chapter 43 of [Akdangeun Salgo Sipda](https://anilist.co/manga/187427) (15:20 17 August 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
