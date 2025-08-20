@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 3 - 5 of [Taejonbirok](https://anilist.co/manga/195914) (16:38 20 August 2025)
+-   📖 Read chapter 3 - 8 of [Taejonbirok](https://anilist.co/manga/195914) (17:25 20 August 2025)
 -   📖 Read chapter 141 of [Cheonhwa Archive's Young Master](https://anilist.co/manga/160693) (05:13 20 August 2025)
 -   📖 Read chapter 139 of [The Novel's Extra](https://anilist.co/manga/152128) (02:38 19 August 2025)
 -   📖 Read chapter 38 of [Magye Academy-ui Silnun Agyeok](https://anilist.co/manga/190356) (02:32 19 August 2025)
