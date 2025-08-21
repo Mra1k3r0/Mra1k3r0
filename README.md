@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 7 of [I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2](https://anilist.co/anime/178090) (06:07 21 August 2025)
 -   📖 Read chapter 276 of [Omniscient Reader](https://anilist.co/manga/119257) (19:16 20 August 2025)
 -   📖 Read chapter 3 - 10 of [Taejonbirok](https://anilist.co/manga/195914) (19:05 20 August 2025)
 -   📖 Read chapter 141 of [Cheonhwa Archive's Young Master](https://anilist.co/manga/160693) (05:13 20 August 2025)
 -   📖 Read chapter 139 of [The Novel's Extra](https://anilist.co/manga/152128) (02:38 19 August 2025)
--   📖 Read chapter 38 of [Magye Academy-ui Silnun Agyeok](https://anilist.co/manga/190356) (02:32 19 August 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
