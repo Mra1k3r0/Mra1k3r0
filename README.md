@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 2 of [Mob Psycho 100](https://anilist.co/anime/21507) (16:44 24 August 2025)
+-   📺 Watched episode 2 - 5 of [Mob Psycho 100](https://anilist.co/anime/21507) (19:00 24 August 2025)
 -   📖 Read chapter 86 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (04:03 22 August 2025)
 -   📖 Read chapter 274 of [Nano Machine](https://anilist.co/manga/120980) (11:07 21 August 2025)
 -   📺 Watched episode 7 of [I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2](https://anilist.co/anime/178090) (06:07 21 August 2025)
