@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 39 of [Magye Academy-ui Silnun Agyeok](https://anilist.co/manga/190356) (12:03 25 August 2025)
+-   📖 Read chapter 88 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (11:43 25 August 2025)
+-   📖 Read chapter 127 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (11:35 25 August 2025)
 -   📺 Watched episode 7 - 8 of [Mob Psycho 100](https://anilist.co/anime/21507) (08:23 25 August 2025)
 -   📺 Watched episode 2 - 6 of [Mob Psycho 100](https://anilist.co/anime/21507) (19:23 24 August 2025)
--   📖 Read chapter 86 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (04:03 22 August 2025)
--   📖 Read chapter 274 of [Nano Machine](https://anilist.co/manga/120980) (11:07 21 August 2025)
--   📺 Watched episode 7 of [I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2](https://anilist.co/anime/178090) (06:07 21 August 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
