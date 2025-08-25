@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 7 of [Mob Psycho 100](https://anilist.co/anime/21507) (07:59 25 August 2025)
+-   📺 Watched episode 7 - 8 of [Mob Psycho 100](https://anilist.co/anime/21507) (08:23 25 August 2025)
 -   📺 Watched episode 2 - 6 of [Mob Psycho 100](https://anilist.co/anime/21507) (19:23 24 August 2025)
 -   📖 Read chapter 86 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (04:03 22 August 2025)
 -   📖 Read chapter 274 of [Nano Machine](https://anilist.co/manga/120980) (11:07 21 August 2025)
