@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 87 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (04:36 26 August 2025)
+-   📖 Read chapter 89 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (04:21 26 August 2025)
 -   📖 Read chapter 39 of [Magye Academy-ui Silnun Agyeok](https://anilist.co/manga/190356) (12:03 25 August 2025)
 -   📖 Read chapter 88 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (11:43 25 August 2025)
 -   📖 Read chapter 127 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (11:35 25 August 2025)
--   📺 Watched episode 7 - 8 of [Mob Psycho 100](https://anilist.co/anime/21507) (08:23 25 August 2025)
--   📺 Watched episode 2 - 6 of [Mob Psycho 100](https://anilist.co/anime/21507) (19:23 24 August 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
