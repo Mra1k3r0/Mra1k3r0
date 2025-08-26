@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 9 - 10 of [Mob Psycho 100](https://anilist.co/anime/21507) (06:47 26 August 2025)
+-   📺 Completed [Mob Psycho 100](https://anilist.co/anime/21507) (07:41 26 August 2025)
+-   📺 Watched episode 9 - 12 of [Mob Psycho 100](https://anilist.co/anime/21507) (07:41 26 August 2025)
 -   📖 Read chapter 87 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (04:36 26 August 2025)
 -   📖 Read chapter 89 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (04:21 26 August 2025)
 -   📖 Read chapter 39 of [Magye Academy-ui Silnun Agyeok](https://anilist.co/manga/190356) (12:03 25 August 2025)
--   📖 Read chapter 88 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (11:43 25 August 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
