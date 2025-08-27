@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 6 of [Mob Psycho 100 II](https://anilist.co/anime/101338) (17:50 27 August 2025)
 -   📖 Read chapter 142 of [Cheonhwa Archive's Young Master](https://anilist.co/manga/160693) (07:22 27 August 2025)
 -   📖 Read chapter 140 of [The Novel's Extra](https://anilist.co/manga/152128) (07:22 27 August 2025)
 -   📖 Read chapter 11 of [Taejonbirok](https://anilist.co/manga/195914) (06:07 27 August 2025)
 -   📺 Watched episode 2 - 5 of [Mob Psycho 100 II](https://anilist.co/anime/101338) (15:57 26 August 2025)
--   📺 Completed [Mob Psycho 100 REIGEN The Miraculous Unknown Psychic](https://anilist.co/anime/100353) (09:33 26 August 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
