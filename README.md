@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 11 of [Taejonbirok](https://anilist.co/manga/195914) (06:07 27 August 2025)
 -   📺 Watched episode 2 - 5 of [Mob Psycho 100 II](https://anilist.co/anime/101338) (15:57 26 August 2025)
 -   📺 Completed [Mob Psycho 100 REIGEN The Miraculous Unknown Psychic](https://anilist.co/anime/100353) (09:33 26 August 2025)
 -   📺 Watched episode 1 of [Mob Psycho 100 REIGEN The Miraculous Unknown Psychic](https://anilist.co/anime/100353) (09:33 26 August 2025)
 -   📺 Watched episode 10 of [Lord of Mysteries](https://anilist.co/anime/137667) (09:17 26 August 2025)
--   📺 Completed [Mob Psycho 100](https://anilist.co/anime/21507) (07:41 26 August 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
