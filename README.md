@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 9 - 10 of [Mob Psycho 100 II](https://anilist.co/anime/101338) (08:59 29 August 2025)
+-   📺 Watched episode 9 - 12 of [Mob Psycho 100 II](https://anilist.co/anime/101338) (13:09 29 August 2025)
 -   📺 Watched episode 6 - 8 of [Mob Psycho 100 II](https://anilist.co/anime/101338) (05:11 28 August 2025)
 -   📖 Read chapter 277 of [Omniscient Reader](https://anilist.co/manga/119257) (21:52 27 August 2025)
 -   📖 Read chapter 142 of [Cheonhwa Archive's Young Master](https://anilist.co/manga/160693) (07:22 27 August 2025)
