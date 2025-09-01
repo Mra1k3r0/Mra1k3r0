@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 67 - 68 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (18:43 01 September 2025)
+-   📖 Read chapter 40 of [Magye Academy-ui Silnun Agyeok](https://anilist.co/manga/190356) (18:31 01 September 2025)
 -   📖 Read chapter 90 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (01:15 01 September 2025)
 -   📖 Read chapter 128 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (00:27 01 September 2025)
 -   📺 Watched episode 8 of [I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2](https://anilist.co/anime/178090) (13:43 31 August 2025)
--   📺 Watched episode 11 of [Lord of Mysteries](https://anilist.co/anime/137667) (13:14 31 August 2025)
--   📖 Read chapter 275 of [Nano Machine](https://anilist.co/manga/120980) (06:09 30 August 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
