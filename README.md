@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Mob Psycho 100 II: The First Spirits and Such Company Trip ~A Journey that Mends the Heart and Heals the Soul~](https://anilist.co/anime/109819) (14:16 02 September 2025)
+-   📺 Watched episode 1 of [Mob Psycho 100 II: The First Spirits and Such Company Trip ~A Journey that Mends the Heart and Heals the Soul~](https://anilist.co/anime/109819) (14:15 02 September 2025)
 -   📖 Read chapter 67 - 68 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (18:43 01 September 2025)
 -   📖 Read chapter 40 of [Magye Academy-ui Silnun Agyeok](https://anilist.co/manga/190356) (18:31 01 September 2025)
 -   📖 Read chapter 90 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (01:15 01 September 2025)
--   📖 Read chapter 128 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (00:27 01 September 2025)
--   📺 Watched episode 8 of [I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2](https://anilist.co/anime/178090) (13:43 31 August 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
