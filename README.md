@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 3 of [Mob Psycho 100 III](https://anilist.co/anime/140439) (03:46 05 September 2025)
 -   📺 Watched episode 2 of [Mob Psycho 100 III](https://anilist.co/anime/140439) (13:41 04 September 2025)
 -   📖 Read chapter 141 of [The Novel's Extra](https://anilist.co/manga/152128) (01:46 04 September 2025)
 -   📖 Read chapter 12 of [Taejonbirok](https://anilist.co/manga/195914) (12:59 03 September 2025)
 -   📖 Read chapter 143 of [Cheonhwa Archive's Young Master](https://anilist.co/manga/160693) (12:36 03 September 2025)
--   📺 Completed [Mob Psycho 100 II: The First Spirits and Such Company Trip ~A Journey that Mends the Heart and Heals the Soul~](https://anilist.co/anime/109819) (14:16 02 September 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
