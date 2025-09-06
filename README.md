@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Lord of Mysteries](https://anilist.co/anime/137667) (16:53 06 September 2025)
+-   📺 Watched episode 13 of [Lord of Mysteries](https://anilist.co/anime/137667) (16:52 06 September 2025)
 -   📺 Watched episode 3 - 6 of [Mob Psycho 100 III](https://anilist.co/anime/140439) (13:26 05 September 2025)
 -   📺 Watched episode 2 of [Mob Psycho 100 III](https://anilist.co/anime/140439) (13:41 04 September 2025)
 -   📖 Read chapter 141 of [The Novel's Extra](https://anilist.co/manga/152128) (01:46 04 September 2025)
--   📖 Read chapter 12 of [Taejonbirok](https://anilist.co/manga/195914) (12:59 03 September 2025)
--   📖 Read chapter 143 of [Cheonhwa Archive's Young Master](https://anilist.co/manga/160693) (12:36 03 September 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
