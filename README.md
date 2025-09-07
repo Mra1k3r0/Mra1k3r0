@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 144 of [Cheonhwa Archive's Young Master](https://anilist.co/manga/160693) (06:05 07 September 2025)
+-   📖 Read chapter 88 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (05:54 07 September 2025)
+-   📖 Read chapter 69 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (05:47 07 September 2025)
 -   📖 Read chapter 276 of [Nano Machine](https://anilist.co/manga/120980) (02:47 07 September 2025)
 -   📺 Completed [Lord of Mysteries](https://anilist.co/anime/137667) (16:53 06 September 2025)
--   📺 Watched episode 13 of [Lord of Mysteries](https://anilist.co/anime/137667) (16:52 06 September 2025)
--   📺 Watched episode 3 - 6 of [Mob Psycho 100 III](https://anilist.co/anime/140439) (13:26 05 September 2025)
--   📺 Watched episode 2 of [Mob Psycho 100 III](https://anilist.co/anime/140439) (13:41 04 September 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
