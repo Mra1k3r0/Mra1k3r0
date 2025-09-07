@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 276 of [Nano Machine](https://anilist.co/manga/120980) (02:47 07 September 2025)
 -   📺 Completed [Lord of Mysteries](https://anilist.co/anime/137667) (16:53 06 September 2025)
 -   📺 Watched episode 13 of [Lord of Mysteries](https://anilist.co/anime/137667) (16:52 06 September 2025)
 -   📺 Watched episode 3 - 6 of [Mob Psycho 100 III](https://anilist.co/anime/140439) (13:26 05 September 2025)
 -   📺 Watched episode 2 of [Mob Psycho 100 III](https://anilist.co/anime/140439) (13:41 04 September 2025)
--   📖 Read chapter 141 of [The Novel's Extra](https://anilist.co/manga/152128) (01:46 04 September 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
