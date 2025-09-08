@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 129 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (05:09 08 September 2025)
 -   📖 Read chapter 144 of [Cheonhwa Archive's Young Master](https://anilist.co/manga/160693) (06:05 07 September 2025)
 -   📖 Read chapter 88 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (05:54 07 September 2025)
 -   📖 Read chapter 69 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (05:47 07 September 2025)
 -   📖 Read chapter 276 of [Nano Machine](https://anilist.co/manga/120980) (02:47 07 September 2025)
--   📺 Completed [Lord of Mysteries](https://anilist.co/anime/137667) (16:53 06 September 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
