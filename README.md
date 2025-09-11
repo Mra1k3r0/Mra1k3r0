@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 278 - 279 of [Omniscient Reader](https://anilist.co/manga/119257) (18:48 11 September 2025)
+-   📖 Read chapter 277 of [Nano Machine](https://anilist.co/manga/120980) (18:19 11 September 2025)
 -   📖 Read chapter 142 of [The Novel's Extra](https://anilist.co/manga/152128) (22:17 08 September 2025)
 -   📖 Read chapter 89 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (22:11 08 September 2025)
 -   📖 Read chapter 91 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (05:32 08 September 2025)
--   📖 Read chapter 41 of [Magye Academy-ui Silnun Agyeok](https://anilist.co/manga/190356) (05:22 08 September 2025)
--   📖 Read chapter 129 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (05:09 08 September 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
