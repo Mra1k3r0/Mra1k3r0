@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 46 - 58 of [Baekssisega Sihanbu Gongja](https://anilist.co/manga/168933) (15:45 14 September 2025)
+-   📖 Read chapter 46 - 67 of [Baekssisega Sihanbu Gongja](https://anilist.co/manga/168933) (17:06 14 September 2025)
 -   📖 Read chapter 135 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (23:19 13 September 2025)
 -   📖 Read chapter 134 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (22:37 12 September 2025)
 -   📖 Read chapter 278 - 279 of [Omniscient Reader](https://anilist.co/manga/119257) (18:48 11 September 2025)
