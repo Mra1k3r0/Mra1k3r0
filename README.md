@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 90 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (00:27 17 September 2025)
 -   📖 Read chapter 73 - 74 of [Baekssisega Sihanbu Gongja](https://anilist.co/manga/168933) (01:57 16 September 2025)
 -   📖 Read chapter 92 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (23:28 15 September 2025)
 -   📖 Read chapter 130 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (23:19 15 September 2025)
 -   📖 Read chapter 143 of [The Novel's Extra](https://anilist.co/manga/152128) (22:16 15 September 2025)
--   📖 Read chapter 70 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (17:39 14 September 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
