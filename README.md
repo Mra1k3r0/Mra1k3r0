@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 42 of [Magye Academy-ui Silnun Agyeok](https://anilist.co/manga/190356) (04:44 19 September 2025)
 -   📖 Read chapter 280 of [Omniscient Reader](https://anilist.co/manga/119257) (02:30 19 September 2025)
 -   📖 Read chapter 278 of [Nano Machine](https://anilist.co/manga/120980) (02:18 19 September 2025)
 -   📖 Read chapter 145 of [Cheonhwa Archive's Young Master](https://anilist.co/manga/160693) (00:52 18 September 2025)
 -   📖 Read chapter 90 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (00:27 17 September 2025)
--   📖 Read chapter 73 - 74 of [Baekssisega Sihanbu Gongja](https://anilist.co/manga/168933) (01:57 16 September 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
