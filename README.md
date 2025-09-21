@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 34 - 71 of [Masters of Lightning Knives](https://anilist.co/manga/127848) (08:47 21 September 2025)
+-   📖 Read chapter 34 - 38 of [Masters of Lightning Knives](https://anilist.co/manga/127848) (08:42 21 September 2025)
 -   📖 Read chapter 33 of [Masters of Lightning Knives](https://anilist.co/manga/127848) (04:40 20 September 2025)
 -   📖 Read chapter 1 of [Reincarnated Murim Lord](https://anilist.co/manga/176790) (06:48 19 September 2025)
 -   📖 Read chapter 42 of [Magye Academy-ui Silnun Agyeok](https://anilist.co/manga/190356) (04:44 19 September 2025)
--   📖 Read chapter 280 of [Omniscient Reader](https://anilist.co/manga/119257) (02:30 19 September 2025)
--   📖 Read chapter 278 of [Nano Machine](https://anilist.co/manga/120980) (02:18 19 September 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
