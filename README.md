@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 34 - 180 of [Masters of Lightning Knives](https://anilist.co/manga/127848) (17:07 22 September 2025)
+-   📖 Read chapter 34 - 189 of [Masters of Lightning Knives](https://anilist.co/manga/127848) (18:07 22 September 2025)
 -   📖 Read chapter 131 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (05:27 22 September 2025)
 -   📖 Read chapter 34 - 38 of [Masters of Lightning Knives](https://anilist.co/manga/127848) (08:42 21 September 2025)
 -   📖 Read chapter 33 of [Masters of Lightning Knives](https://anilist.co/manga/127848) (04:40 20 September 2025)
