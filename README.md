@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 34 - 109 of [Masters of Lightning Knives](https://anilist.co/manga/127848) (19:52 21 September 2025)
+-   📖 Read chapter 34 - 114 of [Masters of Lightning Knives](https://anilist.co/manga/127848) (06:14 22 September 2025)
+-   📖 Read chapter 131 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (05:27 22 September 2025)
 -   📖 Read chapter 34 - 38 of [Masters of Lightning Knives](https://anilist.co/manga/127848) (08:42 21 September 2025)
 -   📖 Read chapter 33 of [Masters of Lightning Knives](https://anilist.co/manga/127848) (04:40 20 September 2025)
 -   📖 Read chapter 1 of [Reincarnated Murim Lord](https://anilist.co/manga/176790) (06:48 19 September 2025)
--   📖 Read chapter 42 of [Magye Academy-ui Silnun Agyeok](https://anilist.co/manga/190356) (04:44 19 September 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
