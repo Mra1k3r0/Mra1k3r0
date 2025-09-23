@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 93 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (09:24 23 September 2025)
+-   📖 Read chapter 136 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (09:24 23 September 2025)
 -   📖 Read chapter 34 - 212 of [Masters of Lightning Knives](https://anilist.co/manga/127848) (07:01 23 September 2025)
 -   📖 Read chapter 131 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (05:27 22 September 2025)
 -   📖 Read chapter 34 - 38 of [Masters of Lightning Knives](https://anilist.co/manga/127848) (08:42 21 September 2025)
--   📖 Read chapter 33 of [Masters of Lightning Knives](https://anilist.co/manga/127848) (04:40 20 September 2025)
--   📖 Read chapter 1 of [Reincarnated Murim Lord](https://anilist.co/manga/176790) (06:48 19 September 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
