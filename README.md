@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 156 of [Pick Me Up](https://anilist.co/manga/159441) (06:13 24 September 2025)
 -   📖 Read chapter 71 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (01:34 24 September 2025)
 -   📖 Read chapter 75 of [Baekssisega Sihanbu Gongja](https://anilist.co/manga/168933) (11:52 23 September 2025)
 -   📖 Read chapter 146 of [Cheonhwa Archive's Young Master](https://anilist.co/manga/160693) (11:35 23 September 2025)
 -   📖 Read chapter 93 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (09:24 23 September 2025)
--   📖 Read chapter 136 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (09:24 23 September 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
