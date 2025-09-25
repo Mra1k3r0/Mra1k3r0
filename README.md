@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 9 of [I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2](https://anilist.co/anime/178090) (16:04 25 September 2025)
+-   📖 Plans to read [Murim RPG Simulation](https://anilist.co/manga/141076) (15:18 25 September 2025)
 -   📖 Plans to read [The Dang Clan’s Swordmaster Heir Just Wants a Normal Life](https://anilist.co/manga/180163) (16:42 24 September 2025)
 -   📖 Read chapter 156 - 166 of [Pick Me Up](https://anilist.co/manga/159441) (07:35 24 September 2025)
 -   📖 Read chapter 71 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (01:34 24 September 2025)
--   📖 Read chapter 75 of [Baekssisega Sihanbu Gongja](https://anilist.co/manga/168933) (11:52 23 September 2025)
--   📖 Read chapter 146 of [Cheonhwa Archive's Young Master](https://anilist.co/manga/160693) (11:35 23 September 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
