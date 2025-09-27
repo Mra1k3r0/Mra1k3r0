@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 29 of [The Dang Clan’s Swordmaster Heir Just Wants a Normal Life](https://anilist.co/manga/180163) (06:36 27 September 2025)
 -   📖 Read chapter 4 - 28 of [The Dang Clan’s Swordmaster Heir Just Wants a Normal Life](https://anilist.co/manga/180163) (12:39 26 September 2025)
 -   📖 Read chapter 43 of [Magye Academy-ui Silnun Agyeok](https://anilist.co/manga/190356) (03:22 26 September 2025)
 -   📖 Read chapter 279 of [Nano Machine](https://anilist.co/manga/120980) (02:36 26 September 2025)
 -   📺 Watched episode 9 of [I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2](https://anilist.co/anime/178090) (16:04 25 September 2025)
--   📖 Plans to read [Murim RPG Simulation](https://anilist.co/manga/141076) (15:18 25 September 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
