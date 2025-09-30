@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 167 of [Pick Me Up](https://anilist.co/manga/159441) (00:32 30 September 2025)
 -   📖 Read chapter 44 of [Magye Academy-ui Silnun Agyeok](https://anilist.co/manga/190356) (14:01 29 September 2025)
 -   📖 Read chapter 137 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (13:55 29 September 2025)
 -   📖 Read chapter 132 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (04:09 29 September 2025)
 -   📖 Read chapter 29 - 91 of [The Dang Clan’s Swordmaster Heir Just Wants a Normal Life](https://anilist.co/manga/180163) (06:32 28 September 2025)
--   📖 Read chapter 4 - 28 of [The Dang Clan’s Swordmaster Heir Just Wants a Normal Life](https://anilist.co/manga/180163) (12:39 26 September 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
