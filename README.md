@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 12 of [Murim RPG Simulation](https://anilist.co/manga/141076) (20:10 02 October 2025)
+-   📖 Read chapter 1 - 20 of [Murim RPG Simulation](https://anilist.co/manga/141076) (20:51 02 October 2025)
 -   📖 Read chapter 92 of [The Dang Clan’s Swordmaster Heir Just Wants a Normal Life](https://anilist.co/manga/180163) (12:28 02 October 2025)
 -   📖 Read chapter 138 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (12:20 02 October 2025)
 -   📖 Read chapter 280 of [Nano Machine](https://anilist.co/manga/120980) (12:12 02 October 2025)
