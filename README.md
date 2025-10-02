@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 280 of [Nano Machine](https://anilist.co/manga/120980) (12:12 02 October 2025)
+-   📖 Read chapter 169 of [Pick Me Up](https://anilist.co/manga/159441) (12:00 02 October 2025)
 -   📖 Read chapter 169 - 174 of [The Reborn Ranker Chronicles](https://anilist.co/manga/141316) (12:43 01 October 2025)
 -   📖 Read chapter 91 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (16:27 30 September 2025)
 -   📖 Read chapter 76 - 77 of [Baekssisega Sihanbu Gongja](https://anilist.co/manga/168933) (01:46 30 September 2025)
--   📖 Read chapter 147 of [Cheonhwa Archive's Young Master](https://anilist.co/manga/160693) (01:27 30 September 2025)
--   📖 Read chapter 94 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (01:23 30 September 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
