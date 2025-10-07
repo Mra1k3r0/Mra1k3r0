@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 175 of [The Reborn Ranker Chronicles](https://anilist.co/manga/141316) (01:32 07 October 2025)
+-   📖 Read chapter 148 of [Cheonhwa Archive's Young Master](https://anilist.co/manga/160693) (01:00 07 October 2025)
 -   📖 Read chapter 95 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (07:48 06 October 2025)
 -   📖 Read chapter 133 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (07:33 06 October 2025)
 -   📖 Read chapter 57 - 79 of [Murim RPG Simulation](https://anilist.co/manga/141076) (05:18 05 October 2025)
--   📖 Read chapter 72 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (00:21 05 October 2025)
--   📖 Read chapter 1 - 56 of [Murim RPG Simulation](https://anilist.co/manga/141076) (12:01 03 October 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
