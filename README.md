@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 213 of [Masters of Lightning Knives](https://anilist.co/manga/127848) (02:37 08 October 2025)
 -   📖 Read chapter 92 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (01:39 08 October 2025)
 -   📖 Read chapter 45 of [Magye Academy-ui Silnun Agyeok](https://anilist.co/manga/190356) (01:34 08 October 2025)
 -   📖 Read chapter 80 of [Murim RPG Simulation](https://anilist.co/manga/141076) (04:18 07 October 2025)
 -   📖 Read chapter 175 of [The Reborn Ranker Chronicles](https://anilist.co/manga/141316) (01:32 07 October 2025)
--   📖 Read chapter 148 of [Cheonhwa Archive's Young Master](https://anilist.co/manga/160693) (01:00 07 October 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
