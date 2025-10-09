@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 10 of [I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2](https://anilist.co/anime/178090) (11:00 09 October 2025)
+-   📺 Completed [I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2](https://anilist.co/anime/178090) (12:01 09 October 2025)
+-   📺 Watched episode 10 - 12 of [I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2](https://anilist.co/anime/178090) (11:56 09 October 2025)
 -   📖 Read chapter 281 of [Nano Machine](https://anilist.co/manga/120980) (01:02 09 October 2025)
 -   📖 Read chapter 81 of [Murim RPG Simulation](https://anilist.co/manga/141076) (03:52 08 October 2025)
 -   📖 Read chapter 213 of [Masters of Lightning Knives](https://anilist.co/manga/127848) (02:37 08 October 2025)
--   📖 Read chapter 92 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (01:39 08 October 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
