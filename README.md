@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 139 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (02:43 10 October 2025)
 -   📖 Read chapter 51 - 56 of [Gwihwanhaenneunde Ipdae Jeonnarida](https://anilist.co/manga/164122) (16:48 09 October 2025)
 -   📺 Plans to watch [Perfect Blue](https://anilist.co/anime/437) (12:20 09 October 2025)
 -   📺 Completed [I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2](https://anilist.co/anime/178090) (12:01 09 October 2025)
 -   📺 Watched episode 10 - 12 of [I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2](https://anilist.co/anime/178090) (11:56 09 October 2025)
--   📖 Read chapter 281 of [Nano Machine](https://anilist.co/manga/120980) (01:02 09 October 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
