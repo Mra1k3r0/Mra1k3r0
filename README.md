@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 of [Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin](https://anilist.co/anime/178433) (09:08 10 October 2025)
+-   📺 Watched episode 1 - 2 of [Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin](https://anilist.co/anime/178433) (09:43 10 October 2025)
 -   📖 Read chapter 139 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (02:43 10 October 2025)
 -   📖 Read chapter 51 - 56 of [Gwihwanhaenneunde Ipdae Jeonnarida](https://anilist.co/manga/164122) (16:48 09 October 2025)
 -   📺 Plans to watch [Perfect Blue](https://anilist.co/anime/437) (12:20 09 October 2025)
