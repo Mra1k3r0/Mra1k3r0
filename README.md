@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 93 of [The Dang Clan’s Swordmaster Heir Just Wants a Normal Life](https://anilist.co/manga/180163) (04:01 11 October 2025)
 -   📺 Watched episode 1 - 4 of [Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin](https://anilist.co/anime/178433) (10:53 10 October 2025)
 -   📖 Read chapter 139 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (02:43 10 October 2025)
 -   📖 Read chapter 51 - 56 of [Gwihwanhaenneunde Ipdae Jeonnarida](https://anilist.co/manga/164122) (16:48 09 October 2025)
 -   📺 Plans to watch [Perfect Blue](https://anilist.co/anime/437) (12:20 09 October 2025)
--   📺 Completed [I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2](https://anilist.co/anime/178090) (12:01 09 October 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
