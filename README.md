@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 16 of [Sinmadaeje](https://anilist.co/manga/198931) (12:12 12 October 2025)
+-   📖 Read chapter 1 - 22 of [Sinmadaeje](https://anilist.co/manga/198931) (12:38 12 October 2025)
 -   📺 Completed [Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin](https://anilist.co/anime/178433) (06:00 12 October 2025)
 -   📺 Watched episode 5 - 13 of [Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin](https://anilist.co/anime/178433) (06:00 12 October 2025)
 -   📖 Read chapter 149 of [Cheonhwa Archive's Young Master](https://anilist.co/manga/160693) (17:00 11 October 2025)
