@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 5 - 10 of [Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin](https://anilist.co/anime/178433) (04:55 12 October 2025)
+-   📺 Completed [Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin](https://anilist.co/anime/178433) (06:00 12 October 2025)
+-   📺 Watched episode 5 - 13 of [Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin](https://anilist.co/anime/178433) (06:00 12 October 2025)
 -   📖 Read chapter 149 of [Cheonhwa Archive's Young Master](https://anilist.co/manga/160693) (17:00 11 October 2025)
 -   📖 Read chapter 93 of [The Dang Clan’s Swordmaster Heir Just Wants a Normal Life](https://anilist.co/manga/180163) (04:01 11 October 2025)
 -   📺 Watched episode 1 - 4 of [Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin](https://anilist.co/anime/178433) (10:53 10 October 2025)
--   📖 Read chapter 139 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (02:43 10 October 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
