@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 46 of [Magye Academy-ui Silnun Agyeok](https://anilist.co/manga/190356) (00:19 13 October 2025)
+-   📖 Read chapter 96 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (00:04 13 October 2025)
 -   📖 Read chapter 1 - 22 of [Sinmadaeje](https://anilist.co/manga/198931) (12:38 12 October 2025)
 -   📺 Completed [Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin](https://anilist.co/anime/178433) (06:00 12 October 2025)
 -   📺 Watched episode 5 - 13 of [Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin](https://anilist.co/anime/178433) (06:00 12 October 2025)
--   📖 Read chapter 149 of [Cheonhwa Archive's Young Master](https://anilist.co/manga/160693) (17:00 11 October 2025)
--   📖 Read chapter 93 of [The Dang Clan’s Swordmaster Heir Just Wants a Normal Life](https://anilist.co/manga/180163) (04:01 11 October 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
