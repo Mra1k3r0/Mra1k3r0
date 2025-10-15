@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 6 of [Chainsaw Man](https://anilist.co/anime/127230) (10:39 15 October 2025)
+-   📺 Watched episode 1 - 8 of [Chainsaw Man](https://anilist.co/anime/127230) (11:50 15 October 2025)
 -   📖 Read chapter 173 of [Return of the Mad Demon](https://anilist.co/manga/137304) (17:44 14 October 2025)
 -   📖 Read chapter 37 - 47 of [Backstabbed in a Backwater Dungeon: My Party Tried to Kill Me, But Thanks to an Infinite Gacha I Got LVL 9999 Friends and Am Out For Revenge](https://anilist.co/manga/137513) (17:39 14 October 2025)
 -   📖 Read chapter 93 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (15:28 14 October 2025)
