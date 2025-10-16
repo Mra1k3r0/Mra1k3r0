@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 282 of [Nano Machine](https://anilist.co/manga/120980) (02:55 16 October 2025)
+-   📺 Completed [Chainsaw Man – The Movie: Reze Arc](https://anilist.co/anime/171627) (02:40 16 October 2025)
+-   📺 Watched episode 1 of [Chainsaw Man – The Movie: Reze Arc](https://anilist.co/anime/171627) (02:40 16 October 2025)
 -   📺 Completed [Chainsaw Man](https://anilist.co/anime/127230) (15:36 15 October 2025)
 -   📺 Watched episode 1 - 12 of [Chainsaw Man](https://anilist.co/anime/127230) (15:36 15 October 2025)
--   📖 Read chapter 173 of [Return of the Mad Demon](https://anilist.co/manga/137304) (17:44 14 October 2025)
--   📖 Read chapter 37 - 47 of [Backstabbed in a Backwater Dungeon: My Party Tried to Kill Me, But Thanks to an Infinite Gacha I Got LVL 9999 Friends and Am Out For Revenge](https://anilist.co/manga/137513) (17:39 14 October 2025)
--   📖 Read chapter 93 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (15:28 14 October 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
