@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 48 - 53 of [The 100th Regression of the Max-Level Player](https://anilist.co/manga/170894) (12:14 16 October 2025)
 -   📖 Read chapter 282 of [Nano Machine](https://anilist.co/manga/120980) (02:55 16 October 2025)
 -   📺 Completed [Chainsaw Man – The Movie: Reze Arc](https://anilist.co/anime/171627) (02:40 16 October 2025)
 -   📺 Watched episode 1 of [Chainsaw Man – The Movie: Reze Arc](https://anilist.co/anime/171627) (02:40 16 October 2025)
 -   📺 Completed [Chainsaw Man](https://anilist.co/anime/127230) (15:36 15 October 2025)
--   📺 Watched episode 1 - 12 of [Chainsaw Man](https://anilist.co/anime/127230) (15:36 15 October 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
