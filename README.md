@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 86 of [I Shall Seal The Heavens](https://anilist.co/manga/105953) (05:09 17 October 2025)
+-   📖 Read chapter 1 - 95 of [I Shall Seal The Heavens](https://anilist.co/manga/105953) (05:22 17 October 2025)
 -   📖 Read chapter 140 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (03:57 17 October 2025)
 -   📖 Plans to read [I Shall Seal The Heavens](https://anilist.co/manga/105953) (15:48 16 October 2025)
 -   📖 Read chapter 48 - 72 of [The 100th Regression of the Max-Level Player](https://anilist.co/manga/170894) (15:39 16 October 2025)
