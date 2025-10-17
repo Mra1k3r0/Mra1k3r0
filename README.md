@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 32 of [I Shall Seal The Heavens](https://anilist.co/manga/105953) (17:00 16 October 2025)
+-   📖 Read chapter 1 - 37 of [I Shall Seal The Heavens](https://anilist.co/manga/105953) (04:11 17 October 2025)
+-   📖 Read chapter 140 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (03:57 17 October 2025)
 -   📖 Plans to read [I Shall Seal The Heavens](https://anilist.co/manga/105953) (15:48 16 October 2025)
 -   📖 Read chapter 48 - 72 of [The 100th Regression of the Max-Level Player](https://anilist.co/manga/170894) (15:39 16 October 2025)
 -   📖 Read chapter 282 of [Nano Machine](https://anilist.co/manga/120980) (02:55 16 October 2025)
--   📺 Completed [Chainsaw Man – The Movie: Reze Arc](https://anilist.co/anime/171627) (02:40 16 October 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
