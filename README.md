@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 23 - 24 of [Daetteum Chakgakdanghaetda Goemul Cheonjaebaeuro](https://anilist.co/manga/182000) (18:44 17 October 2025)
 -   📖 Read chapter 94 of [The Dang Clan’s Swordmaster Heir Just Wants a Normal Life](https://anilist.co/manga/180163) (08:24 17 October 2025)
 -   📖 Read chapter 1 - 95 of [I Shall Seal The Heavens](https://anilist.co/manga/105953) (05:22 17 October 2025)
 -   📖 Read chapter 140 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (03:57 17 October 2025)
 -   📖 Plans to read [I Shall Seal The Heavens](https://anilist.co/manga/105953) (15:48 16 October 2025)
--   📖 Read chapter 48 - 72 of [The 100th Regression of the Max-Level Player](https://anilist.co/manga/170894) (15:39 16 October 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
