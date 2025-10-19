@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 61 of [Daetteum Chakgakdanghaetda Goemul Cheonjaebaeuro](https://anilist.co/manga/182000) (04:44 19 October 2025)
+-   📖 Read chapter 170 - 171 of [Pick Me Up](https://anilist.co/manga/159441) (04:41 19 October 2025)
 -   📖 Read chapter 23 of [Sinmadaeje](https://anilist.co/manga/198931) (19:35 18 October 2025)
 -   📖 Read chapter 73 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (19:27 18 October 2025)
 -   📖 Read chapter 25 - 60 of [Daetteum Chakgakdanghaetda Goemul Cheonjaebaeuro](https://anilist.co/manga/182000) (11:11 18 October 2025)
--   📖 Read chapter 26 - 29 of [Daetteum Chakgakdanghaetda Goemul Cheonjaebaeuro](https://anilist.co/manga/182000) (10:30 18 October 2025)
--   📖 Read chapter 23 - 24 of [Daetteum Chakgakdanghaetda Goemul Cheonjaebaeuro](https://anilist.co/manga/182000) (18:44 17 October 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
