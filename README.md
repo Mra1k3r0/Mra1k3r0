@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [My Status as an Assassin Obviously Exceeds the Hero’s](https://anilist.co/manga/103655) (06:29 21 October 2025)
+-   📺 Plans to watch [A Wild Last Boss Appeared!](https://anilist.co/anime/180523) (06:28 21 October 2025)
 -   📖 Read chapter 150 of [Cheonhwa Archive's Young Master](https://anilist.co/manga/160693) (17:15 20 October 2025)
 -   📖 Read chapter 47 of [Magye Academy-ui Silnun Agyeok](https://anilist.co/manga/190356) (17:11 20 October 2025)
 -   📖 Read chapter 135 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (03:16 20 October 2025)
--   📖 Read chapter 102 - 119 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (17:12 19 October 2025)
--   📖 Read chapter 61 - 73 of [Daetteum Chakgakdanghaetda Goemul Cheonjaebaeuro](https://anilist.co/manga/182000) (06:41 19 October 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
