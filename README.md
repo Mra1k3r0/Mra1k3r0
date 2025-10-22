@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 120 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (22:41 22 October 2025)
 -   📖 Read chapter 3 - 9 of [My Status as an Assassin Obviously Exceeds the Hero’s](https://anilist.co/manga/103655) (15:40 22 October 2025)
 -   📖 Read chapter 58 of [Gwihwanhaenneunde Ipdae Jeonnarida](https://anilist.co/manga/164122) (23:51 21 October 2025)
 -   📖 Read chapter 73 of [The 100th Regression of the Max-Level Player](https://anilist.co/manga/170894) (23:45 21 October 2025)
 -   📖 Read chapter 97 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (23:34 21 October 2025)
--   📖 Read chapter 1 of [My Status as an Assassin Obviously Exceeds the Hero’s](https://anilist.co/manga/103655) (15:11 21 October 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
