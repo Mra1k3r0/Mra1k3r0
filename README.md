@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 31 of [Apocalypse Bringer Mynoghra](https://anilist.co/manga/122362) (02:17 24 October 2025)
 -   📖 Read chapter 10 - 35 of [My Status as an Assassin Obviously Exceeds the Hero’s](https://anilist.co/manga/103655) (02:05 24 October 2025)
 -   📖 Read chapter 283 of [Nano Machine](https://anilist.co/manga/120980) (04:50 23 October 2025)
 -   📖 Read chapter 172 of [Pick Me Up](https://anilist.co/manga/159441) (04:31 23 October 2025)
 -   📖 Read chapter 120 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (22:41 22 October 2025)
--   📖 Read chapter 3 - 9 of [My Status as an Assassin Obviously Exceeds the Hero’s](https://anilist.co/manga/103655) (15:40 22 October 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
