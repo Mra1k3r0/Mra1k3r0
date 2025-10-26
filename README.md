@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 281 - 285 of [Omniscient Reader](https://anilist.co/manga/119257) (00:21 26 October 2025)
 -   📖 Read chapter 141 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (17:05 25 October 2025)
 -   📖 Read chapter 24 of [Sinmadaeje](https://anilist.co/manga/198931) (16:32 25 October 2025)
 -   📖 Read chapter 95 of [The Dang Clan’s Swordmaster Heir Just Wants a Normal Life](https://anilist.co/manga/180163) (16:22 25 October 2025)
 -   📖 Read chapter 31 of [Apocalypse Bringer Mynoghra](https://anilist.co/manga/122362) (02:17 24 October 2025)
--   📖 Read chapter 10 - 35 of [My Status as an Assassin Obviously Exceeds the Hero’s](https://anilist.co/manga/103655) (02:05 24 October 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
