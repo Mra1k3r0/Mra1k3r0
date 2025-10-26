@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 of [Saga of Tanya the Evil](https://anilist.co/anime/21613) (05:30 26 October 2025)
+-   📺 Watched episode 1 - 2 of [Saga of Tanya the Evil](https://anilist.co/anime/21613) (10:34 26 October 2025)
 -   📖 Read chapter 281 - 285 of [Omniscient Reader](https://anilist.co/manga/119257) (00:21 26 October 2025)
 -   📖 Read chapter 141 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (17:05 25 October 2025)
 -   📖 Read chapter 24 of [Sinmadaeje](https://anilist.co/manga/198931) (16:32 25 October 2025)
