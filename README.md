@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 6 - 8 of [Saga of Tanya the Evil](https://anilist.co/anime/21613) (07:38 27 October 2025)
+-   📺 Watched episode 6 - 9 of [Saga of Tanya the Evil](https://anilist.co/anime/21613) (12:52 27 October 2025)
 -   📖 Read chapter 98 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (03:51 27 October 2025)
 -   📖 Read chapter 136 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (03:24 27 October 2025)
 -   📺 Watched episode 1 - 5 of [Saga of Tanya the Evil](https://anilist.co/anime/21613) (14:21 26 October 2025)
