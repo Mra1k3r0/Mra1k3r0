@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 151 of [Cheonhwa Archive's Young Master](https://anilist.co/manga/160693) (06:54 28 October 2025)
 -   📺 Completed [Saga of Tanya the Evil: Operation Desert Pasta](https://anilist.co/anime/135866) (05:35 28 October 2025)
 -   📺 Watched episode 1 of [Saga of Tanya the Evil: Operation Desert Pasta](https://anilist.co/anime/135866) (05:34 28 October 2025)
 -   📺 Completed [Saga of Tanya the Evil](https://anilist.co/anime/21613) (16:22 27 October 2025)
 -   📺 Watched episode 6 - 12 of [Saga of Tanya the Evil](https://anilist.co/anime/21613) (16:21 27 October 2025)
--   📖 Read chapter 98 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (03:51 27 October 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
