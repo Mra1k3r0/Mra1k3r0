@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 152 of [Cheonhwa Archive's Young Master](https://anilist.co/manga/160693) (03:11 29 October 2025)
+-   📖 Read chapter 48 of [Magye Academy-ui Silnun Agyeok](https://anilist.co/manga/190356) (03:01 29 October 2025)
 -   📖 Read chapter 2 - 3 of [Let This Grieving Soul Retire](https://anilist.co/manga/125579) (22:37 28 October 2025)
 -   📺 Completed [Saga of Tanya the Evil - the Movie -](https://anilist.co/anime/100878) (11:10 28 October 2025)
 -   📺 Watched episode 1 of [Saga of Tanya the Evil - the Movie -](https://anilist.co/anime/100878) (09:54 28 October 2025)
--   📖 Read chapter 151 of [Cheonhwa Archive's Young Master](https://anilist.co/manga/160693) (06:54 28 October 2025)
--   📺 Completed [Saga of Tanya the Evil: Operation Desert Pasta](https://anilist.co/anime/135866) (05:35 28 October 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
