@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 5 - 13 of [Let This Grieving Soul Retire](https://anilist.co/manga/125579) (07:47 30 October 2025)
+-   📖 Read chapter 5 - 14 of [Let This Grieving Soul Retire](https://anilist.co/manga/125579) (08:21 30 October 2025)
 -   📖 Read chapter 2 - 4 of [Let This Grieving Soul Retire](https://anilist.co/manga/125579) (04:52 29 October 2025)
 -   📖 Read chapter 152 of [Cheonhwa Archive's Young Master](https://anilist.co/manga/160693) (03:11 29 October 2025)
 -   📖 Read chapter 48 of [Magye Academy-ui Silnun Agyeok](https://anilist.co/manga/190356) (03:01 29 October 2025)
