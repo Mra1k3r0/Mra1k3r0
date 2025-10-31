@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 74 of [The 100th Regression of the Max-Level Player](https://anilist.co/manga/170894) (03:52 31 October 2025)
 -   📖 Read chapter 284 of [Nano Machine](https://anilist.co/manga/120980) (00:20 31 October 2025)
 -   📖 Read chapter 74 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (23:58 30 October 2025)
 -   📖 Read chapter 5 - 14 of [Let This Grieving Soul Retire](https://anilist.co/manga/125579) (08:21 30 October 2025)
 -   📖 Read chapter 2 - 4 of [Let This Grieving Soul Retire](https://anilist.co/manga/125579) (04:52 29 October 2025)
--   📖 Read chapter 152 of [Cheonhwa Archive's Young Master](https://anilist.co/manga/160693) (03:11 29 October 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
