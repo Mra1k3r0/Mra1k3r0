@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 142 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (22:53 31 October 2025)
 -   📺 Watched episode 1 of [Let This Grieving Soul Retire](https://anilist.co/anime/175019) (13:28 31 October 2025)
 -   📖 Read chapter 15 of [Let This Grieving Soul Retire](https://anilist.co/manga/125579) (10:22 31 October 2025)
 -   📖 Read chapter 74 of [The 100th Regression of the Max-Level Player](https://anilist.co/manga/170894) (03:52 31 October 2025)
 -   📖 Read chapter 284 of [Nano Machine](https://anilist.co/manga/120980) (00:20 31 October 2025)
--   📖 Read chapter 74 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (23:58 30 October 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
