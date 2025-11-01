@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 75 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (22:55 01 November 2025)
 -   📖 Read chapter 1 - 8 of [Chronicles of a Doomed Prodigy](https://anilist.co/manga/183376) (15:10 01 November 2025)
 -   📖 Plans to read [Chronicles of a Doomed Prodigy](https://anilist.co/manga/183376) (03:51 01 November 2025)
 -   📖 Read chapter 94 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (23:23 31 October 2025)
 -   📖 Read chapter 142 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (22:53 31 October 2025)
--   📺 Watched episode 1 of [Let This Grieving Soul Retire](https://anilist.co/anime/175019) (13:28 31 October 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
