@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 2 of [Chronicles of a Doomed Prodigy](https://anilist.co/manga/183376) (06:45 01 November 2025)
+-   📖 Read chapter 1 - 6 of [Chronicles of a Doomed Prodigy](https://anilist.co/manga/183376) (12:02 01 November 2025)
 -   📖 Plans to read [Chronicles of a Doomed Prodigy](https://anilist.co/manga/183376) (03:51 01 November 2025)
 -   📖 Read chapter 94 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (23:23 31 October 2025)
 -   📖 Read chapter 142 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (22:53 31 October 2025)
