@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 20 of [Chronicles of a Doomed Prodigy](https://anilist.co/manga/183376) (00:31 02 November 2025)
+-   📖 Read chapter 1 - 24 of [Chronicles of a Doomed Prodigy](https://anilist.co/manga/183376) (03:35 02 November 2025)
 -   📖 Read chapter 75 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (22:55 01 November 2025)
 -   📖 Plans to read [Chronicles of a Doomed Prodigy](https://anilist.co/manga/183376) (03:51 01 November 2025)
 -   📖 Read chapter 94 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (23:23 31 October 2025)
