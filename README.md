@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 176 of [The Reborn Ranker Chronicles](https://anilist.co/manga/141316) (05:47 03 November 2025)
+-   📖 Read chapter 176 - 178 of [The Reborn Ranker Chronicles](https://anilist.co/manga/141316) (07:41 03 November 2025)
 -   📖 Read chapter 49 of [Magye Academy-ui Silnun Agyeok](https://anilist.co/manga/190356) (22:35 02 November 2025)
 -   📖 Read chapter 137 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (22:10 02 November 2025)
 -   📖 Read chapter 1 - 59 of [Chronicles of a Doomed Prodigy](https://anilist.co/manga/183376) (14:02 02 November 2025)
