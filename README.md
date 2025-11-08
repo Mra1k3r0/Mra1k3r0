@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 99 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (13:06 08 November 2025)
+-   📖 Read chapter 285 of [Nano Machine](https://anilist.co/manga/120980) (12:57 08 November 2025)
 -   📖 Read chapter 176 - 178 of [The Reborn Ranker Chronicles](https://anilist.co/manga/141316) (07:41 03 November 2025)
 -   📖 Read chapter 49 of [Magye Academy-ui Silnun Agyeok](https://anilist.co/manga/190356) (22:35 02 November 2025)
 -   📖 Read chapter 137 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (22:10 02 November 2025)
--   📖 Read chapter 1 - 59 of [Chronicles of a Doomed Prodigy](https://anilist.co/manga/183376) (14:02 02 November 2025)
--   📖 Read chapter 75 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (22:55 01 November 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
