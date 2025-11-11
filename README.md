@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 68 - 83 of [Reincarnated Murim Lord](https://anilist.co/manga/176790) (08:12 11 November 2025)
+-   📖 Read chapter 68 - 86 of [Reincarnated Murim Lord](https://anilist.co/manga/176790) (08:37 11 November 2025)
 -   📖 Read chapter 50 of [Magye Academy-ui Silnun Agyeok](https://anilist.co/manga/190356) (07:46 11 November 2025)
 -   📖 Read chapter 75 of [The 100th Regression of the Max-Level Player](https://anilist.co/manga/170894) (05:57 11 November 2025)
 -   📖 Read chapter 143 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (05:57 11 November 2025)
