@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 68 - 70 of [Reincarnated Murim Lord](https://anilist.co/manga/176790) (06:13 11 November 2025)
+-   📖 Read chapter 68 - 74 of [Reincarnated Murim Lord](https://anilist.co/manga/176790) (07:06 11 November 2025)
 -   📖 Read chapter 75 of [The 100th Regression of the Max-Level Player](https://anilist.co/manga/170894) (05:57 11 November 2025)
 -   📖 Read chapter 143 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (05:57 11 November 2025)
 -   📖 Read chapter 153 of [Cheonhwa Archive's Young Master](https://anilist.co/manga/160693) (05:57 11 November 2025)
