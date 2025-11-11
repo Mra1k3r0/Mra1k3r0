@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 68 - 74 of [Reincarnated Murim Lord](https://anilist.co/manga/176790) (07:06 11 November 2025)
+-   📖 Read chapter 68 - 83 of [Reincarnated Murim Lord](https://anilist.co/manga/176790) (08:12 11 November 2025)
+-   📖 Read chapter 50 of [Magye Academy-ui Silnun Agyeok](https://anilist.co/manga/190356) (07:46 11 November 2025)
 -   📖 Read chapter 75 of [The 100th Regression of the Max-Level Player](https://anilist.co/manga/170894) (05:57 11 November 2025)
 -   📖 Read chapter 143 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (05:57 11 November 2025)
 -   📖 Read chapter 153 of [Cheonhwa Archive's Young Master](https://anilist.co/manga/160693) (05:57 11 November 2025)
--   📖 Read chapter 138 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (05:57 11 November 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
