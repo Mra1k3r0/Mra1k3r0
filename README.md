@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 93 of [Reincarnated Murim Lord](https://anilist.co/manga/176790) (00:38 12 November 2025)
+-   📖 Read chapter 97 of [The Dang Clan’s Swordmaster Heir Just Wants a Normal Life](https://anilist.co/manga/180163) (00:38 12 November 2025)
 -   📖 Read chapter 68 - 86 of [Reincarnated Murim Lord](https://anilist.co/manga/176790) (08:37 11 November 2025)
 -   📖 Read chapter 50 of [Magye Academy-ui Silnun Agyeok](https://anilist.co/manga/190356) (07:46 11 November 2025)
 -   📖 Read chapter 75 of [The 100th Regression of the Max-Level Player](https://anilist.co/manga/170894) (05:57 11 November 2025)
--   📖 Read chapter 143 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (05:57 11 November 2025)
--   📖 Read chapter 153 of [Cheonhwa Archive's Young Master](https://anilist.co/manga/160693) (05:57 11 November 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
