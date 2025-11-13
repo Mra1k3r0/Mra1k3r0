@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 139 of [The Grand Mudang Saga](https://anilist.co/manga/127783) (02:18 13 November 2025)
+-   📖 Read chapter 139 - 157 of [The Grand Mudang Saga](https://anilist.co/manga/127783) (05:06 13 November 2025)
 -   📖 Read chapter 76 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (06:57 12 November 2025)
 -   📖 Read chapter 93 of [Reincarnated Murim Lord](https://anilist.co/manga/176790) (00:38 12 November 2025)
 -   📖 Read chapter 97 of [The Dang Clan’s Swordmaster Heir Just Wants a Normal Life](https://anilist.co/manga/180163) (00:38 12 November 2025)
