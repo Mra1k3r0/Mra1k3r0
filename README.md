@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 of [Absolute Regression](https://anilist.co/manga/180891) (08:41 13 November 2025)
+-   📖 Read chapter 1 - 6 of [Absolute Regression](https://anilist.co/manga/180891) (11:05 13 November 2025)
 -   📖 Plans to read [Absolute Regression](https://anilist.co/manga/180891) (08:28 13 November 2025)
 -   📖 Read chapter 139 - 157 of [The Grand Mudang Saga](https://anilist.co/manga/127783) (05:06 13 November 2025)
 -   📖 Read chapter 76 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (06:57 12 November 2025)
