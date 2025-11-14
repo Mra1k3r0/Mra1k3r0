@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 10 - 38 of [Absolute Regression](https://anilist.co/manga/180891) (04:37 14 November 2025)
+-   📖 Read chapter 10 - 41 of [Absolute Regression](https://anilist.co/manga/180891) (06:04 14 November 2025)
 -   📖 Read chapter 1 - 9 of [Absolute Regression](https://anilist.co/manga/180891) (11:17 13 November 2025)
 -   📖 Plans to read [Absolute Regression](https://anilist.co/manga/180891) (08:28 13 November 2025)
 -   📖 Read chapter 139 - 157 of [The Grand Mudang Saga](https://anilist.co/manga/127783) (05:06 13 November 2025)
