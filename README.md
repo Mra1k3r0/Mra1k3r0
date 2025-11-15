@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 140 of [Jeoldaemusin](https://anilist.co/manga/123556) (06:43 15 November 2025)
 -   📖 Read chapter 73 of [Absolute Regression](https://anilist.co/manga/180891) (01:43 15 November 2025)
 -   📖 Read chapter 100 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (00:48 15 November 2025)
 -   📖 Read chapter 76 of [The 100th Regression of the Max-Level Player](https://anilist.co/manga/170894) (16:00 14 November 2025)
 -   📖 Read chapter 286 of [Nano Machine](https://anilist.co/manga/120980) (15:24 14 November 2025)
--   📖 Read chapter 10 - 68 of [Absolute Regression](https://anilist.co/manga/180891) (12:37 14 November 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
