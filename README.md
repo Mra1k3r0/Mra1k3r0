@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 44 of [Reincarnated as an Unruly Heir](https://anilist.co/manga/138397) (08:40 16 November 2025)
+-   📖 Read chapter 44 - 52 of [Reincarnated as an Unruly Heir](https://anilist.co/manga/138397) (10:54 16 November 2025)
 -   📖 Read chapter 77 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (06:24 16 November 2025)
 -   📖 Read chapter 173 - 175 of [Pick Me Up](https://anilist.co/manga/159441) (09:54 15 November 2025)
 -   📖 Read chapter 9 of [Akdangdeurui Huwonjaga Doeeotda](https://anilist.co/manga/201009) (08:25 15 November 2025)
