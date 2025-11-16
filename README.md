@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 77 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (06:24 16 November 2025)
 -   📖 Read chapter 173 - 175 of [Pick Me Up](https://anilist.co/manga/159441) (09:54 15 November 2025)
 -   📖 Read chapter 9 of [Akdangdeurui Huwonjaga Doeeotda](https://anilist.co/manga/201009) (08:25 15 November 2025)
 -   📖 Read chapter 140 of [Jeoldaemusin](https://anilist.co/manga/123556) (06:43 15 November 2025)
 -   📖 Read chapter 73 of [Absolute Regression](https://anilist.co/manga/180891) (01:43 15 November 2025)
--   📖 Read chapter 100 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (00:48 15 November 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
