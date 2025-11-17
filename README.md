@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 44 - 70 of [Reincarnated as an Unruly Heir](https://anilist.co/manga/138397) (03:00 17 November 2025)
+-   📖 Read chapter 44 - 71 of [Reincarnated as an Unruly Heir](https://anilist.co/manga/138397) (05:50 17 November 2025)
 -   📖 Read chapter 144 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (23:00 16 November 2025)
 -   📖 Read chapter 139 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (22:55 16 November 2025)
 -   📖 Read chapter 77 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (06:24 16 November 2025)
