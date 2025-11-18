@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 60 - 61 of [Chronicles of a Doomed Prodigy](https://anilist.co/manga/183376) (02:11 18 November 2025)
+-   📖 Plans to read [Shadow of the Supreme](https://anilist.co/manga/180890) (02:05 18 November 2025)
+-   📖 Read chapter 51 of [Magye Academy-ui Silnun Agyeok](https://anilist.co/manga/190356) (01:24 18 November 2025)
+-   📖 Read chapter 94 - 95 of [Reincarnated Murim Lord](https://anilist.co/manga/176790) (01:16 18 November 2025)
 -   📖 Read chapter 44 - 109 of [Reincarnated as an Unruly Heir](https://anilist.co/manga/138397) (12:43 17 November 2025)
--   📖 Read chapter 144 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (23:00 16 November 2025)
--   📖 Read chapter 139 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (22:55 16 November 2025)
--   📖 Read chapter 77 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (06:24 16 November 2025)
--   📖 Read chapter 173 - 175 of [Pick Me Up](https://anilist.co/manga/159441) (09:54 15 November 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
