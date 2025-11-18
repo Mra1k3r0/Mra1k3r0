@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 of [Shadow of the Supreme](https://anilist.co/manga/180890) (05:21 18 November 2025)
 -   📖 Read chapter 60 - 61 of [Chronicles of a Doomed Prodigy](https://anilist.co/manga/183376) (02:11 18 November 2025)
 -   📖 Plans to read [Shadow of the Supreme](https://anilist.co/manga/180890) (02:05 18 November 2025)
 -   📖 Read chapter 51 of [Magye Academy-ui Silnun Agyeok](https://anilist.co/manga/190356) (01:24 18 November 2025)
 -   📖 Read chapter 94 - 95 of [Reincarnated Murim Lord](https://anilist.co/manga/176790) (01:16 18 November 2025)
--   📖 Read chapter 44 - 109 of [Reincarnated as an Unruly Heir](https://anilist.co/manga/138397) (12:43 17 November 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
