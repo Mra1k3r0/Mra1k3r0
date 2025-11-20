@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 101 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (19:50 20 November 2025)
+-   📖 Read chapter 176 of [Pick Me Up](https://anilist.co/manga/159441) (19:40 20 November 2025)
+-   📖 Read chapter 287 of [Nano Machine](https://anilist.co/manga/120980) (19:30 20 November 2025)
 -   📖 Read chapter 10 - 17 of [Shadow of the Supreme](https://anilist.co/manga/180890) (02:19 20 November 2025)
 -   📖 Read chapter 9 of [Shadow of the Supreme](https://anilist.co/manga/180890) (13:51 19 November 2025)
--   📖 Read chapter 1 - 4 of [Shadow of the Supreme](https://anilist.co/manga/180890) (16:13 18 November 2025)
--   📖 Read chapter 96 of [Reincarnated Murim Lord](https://anilist.co/manga/176790) (15:22 18 November 2025)
--   📖 Read chapter 60 - 61 of [Chronicles of a Doomed Prodigy](https://anilist.co/manga/183376) (02:11 18 November 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
