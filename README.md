@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 98 of [The Dang Clan’s Swordmaster Heir Just Wants a Normal Life](https://anilist.co/manga/180163) (03:00 22 November 2025)
 -   📖 Read chapter 81 of [Shadow of the Supreme](https://anilist.co/manga/180890) (22:12 21 November 2025)
 -   📖 Read chapter 101 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (19:50 20 November 2025)
 -   📖 Read chapter 176 of [Pick Me Up](https://anilist.co/manga/159441) (19:40 20 November 2025)
 -   📖 Read chapter 287 of [Nano Machine](https://anilist.co/manga/120980) (19:30 20 November 2025)
--   📖 Read chapter 10 - 17 of [Shadow of the Supreme](https://anilist.co/manga/180890) (02:19 20 November 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
