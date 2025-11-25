@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 102 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (00:52 25 November 2025)
 -   📖 Read chapter 140 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (23:19 23 November 2025)
 -   📖 Read chapter 1 - 2 of [Heavenly Demon Reborn!](https://anilist.co/manga/107518) (16:31 23 November 2025)
 -   📖 Plans to read [Heavenly Demon Reborn!](https://anilist.co/manga/107518) (15:43 23 November 2025)
 -   📖 Read chapter 215 - 216 of [Masters of Lightning Knives](https://anilist.co/manga/127848) (01:12 23 November 2025)
--   📖 Read chapter 10 of [Akdangdeurui Huwonjaga Doeeotda](https://anilist.co/manga/201009) (00:33 23 November 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
