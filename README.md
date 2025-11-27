@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 215 - 219 of [Heavenly Demon Reborn!](https://anilist.co/manga/107518) (04:56 27 November 2025)
+-   📖 Read chapter 177 of [Pick Me Up](https://anilist.co/manga/159441) (04:45 27 November 2025)
+-   📖 Read chapter 288 of [Nano Machine](https://anilist.co/manga/120980) (04:42 27 November 2025)
 -   📖 Read chapter 52 of [Magye Academy-ui Silnun Agyeok](https://anilist.co/manga/190356) (17:35 26 November 2025)
 -   📖 Read chapter 102 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (00:52 25 November 2025)
--   📖 Read chapter 140 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (23:19 23 November 2025)
--   📖 Read chapter 1 - 2 of [Heavenly Demon Reborn!](https://anilist.co/manga/107518) (16:31 23 November 2025)
--   📖 Plans to read [Heavenly Demon Reborn!](https://anilist.co/manga/107518) (15:43 23 November 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
