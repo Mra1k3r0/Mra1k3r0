@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 78 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (00:54 30 November 2025)
 -   📖 Read chapter 2 of [Paragon Demon: Revenant Saga](https://anilist.co/manga/185817) (18:18 29 November 2025)
 -   📖 Read chapter 62 of [Chronicles of a Doomed Prodigy](https://anilist.co/manga/183376) (22:06 28 November 2025)
 -   📖 Read chapter 1 of [Paragon Demon: Revenant Saga](https://anilist.co/manga/185817) (11:55 27 November 2025)
 -   📖 Completed [Heavenly Demon Reborn!](https://anilist.co/manga/107518) (11:44 27 November 2025)
--   📖 Read chapter 215 - 219 of [Heavenly Demon Reborn!](https://anilist.co/manga/107518) (04:56 27 November 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
