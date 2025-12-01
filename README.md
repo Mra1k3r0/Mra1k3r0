@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 8 - 10 of [Paragon Demon: Revenant Saga](https://anilist.co/manga/185817) (00:21 01 December 2025)
+-   📖 Read chapter 141 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (23:44 30 November 2025)
+-   📖 Read chapter 103 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (23:38 30 November 2025)
+-   📖 Read chapter 53 of [Magye Academy-ui Silnun Agyeok](https://anilist.co/manga/190356) (23:16 30 November 2025)
 -   📖 Read chapter 3 - 7 of [Paragon Demon: Revenant Saga](https://anilist.co/manga/185817) (10:19 30 November 2025)
--   📖 Read chapter 11 of [Akdangdeurui Huwonjaga Doeeotda](https://anilist.co/manga/201009) (01:54 30 November 2025)
--   📖 Read chapter 78 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (00:54 30 November 2025)
--   📖 Read chapter 2 of [Paragon Demon: Revenant Saga](https://anilist.co/manga/185817) (18:18 29 November 2025)
--   📖 Read chapter 62 of [Chronicles of a Doomed Prodigy](https://anilist.co/manga/183376) (22:06 28 November 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
