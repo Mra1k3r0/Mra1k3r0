@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 8 - 15 of [Paragon Demon: Revenant Saga](https://anilist.co/manga/185817) (03:23 01 December 2025)
+-   📖 Read chapter 8 - 17 of [Paragon Demon: Revenant Saga](https://anilist.co/manga/185817) (04:03 01 December 2025)
 -   📖 Read chapter 141 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (23:44 30 November 2025)
 -   📖 Read chapter 103 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (23:38 30 November 2025)
 -   📖 Read chapter 53 of [Magye Academy-ui Silnun Agyeok](https://anilist.co/manga/190356) (23:16 30 November 2025)
