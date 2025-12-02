@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 22 - 25 of [Paragon Demon: Revenant Saga](https://anilist.co/manga/185817) (02:10 02 December 2025)
+-   📖 Read chapter 99 - 100 of [The Dang Clan’s Swordmaster Heir Just Wants a Normal Life](https://anilist.co/manga/180163) (01:53 02 December 2025)
 -   📖 Read chapter 8 - 21 of [Paragon Demon: Revenant Saga](https://anilist.co/manga/185817) (05:52 01 December 2025)
 -   📖 Read chapter 141 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (23:44 30 November 2025)
 -   📖 Read chapter 103 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (23:38 30 November 2025)
--   📖 Read chapter 53 of [Magye Academy-ui Silnun Agyeok](https://anilist.co/manga/190356) (23:16 30 November 2025)
--   📖 Read chapter 3 - 7 of [Paragon Demon: Revenant Saga](https://anilist.co/manga/185817) (10:19 30 November 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
