@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 289 of [Nano Machine](https://anilist.co/manga/120980) (08:19 04 December 2025)
 -   📖 Read chapter 178 - 180 of [Return of the Mad Demon](https://anilist.co/manga/137304) (08:14 04 December 2025)
 -   📖 Read chapter 145 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (08:25 03 December 2025)
 -   📖 Read chapter 22 - 58 of [Paragon Demon: Revenant Saga](https://anilist.co/manga/185817) (13:40 02 December 2025)
 -   📖 Read chapter 99 - 100 of [The Dang Clan’s Swordmaster Heir Just Wants a Normal Life](https://anilist.co/manga/180163) (01:53 02 December 2025)
--   📖 Read chapter 8 - 21 of [Paragon Demon: Revenant Saga](https://anilist.co/manga/185817) (05:52 01 December 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
