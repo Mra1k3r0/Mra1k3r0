@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (00:46 05 December 2025)
 -   📖 Read chapter 178 of [Pick Me Up](https://anilist.co/manga/159441) (16:22 04 December 2025)
 -   📖 Read chapter 289 of [Nano Machine](https://anilist.co/manga/120980) (08:19 04 December 2025)
 -   📖 Read chapter 178 - 180 of [Return of the Mad Demon](https://anilist.co/manga/137304) (08:14 04 December 2025)
 -   📖 Read chapter 145 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (08:25 03 December 2025)
--   📖 Read chapter 22 - 58 of [Paragon Demon: Revenant Saga](https://anilist.co/manga/185817) (13:40 02 December 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
