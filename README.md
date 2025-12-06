@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 20 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (09:58 06 December 2025)
+-   📖 Read chapter 1 - 23 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (10:58 06 December 2025)
 -   📖 Read chapter 77 - 78 of [The 100th Regression of the Max-Level Player](https://anilist.co/manga/170894) (02:08 06 December 2025)
 -   📖 Read chapter 12 of [Akdangdeurui Huwonjaga Doeeotda](https://anilist.co/manga/201009) (01:41 06 December 2025)
 -   📖 Plans to read [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (00:46 05 December 2025)
