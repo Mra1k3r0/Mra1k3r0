@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 56 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (03:19 07 December 2025)
+-   📖 Read chapter 79 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (04:20 07 December 2025)
+-   📖 Read chapter 1 - 66 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (04:13 07 December 2025)
 -   📖 Read chapter 77 - 78 of [The 100th Regression of the Max-Level Player](https://anilist.co/manga/170894) (02:08 06 December 2025)
 -   📖 Read chapter 12 of [Akdangdeurui Huwonjaga Doeeotda](https://anilist.co/manga/201009) (01:41 06 December 2025)
 -   📖 Plans to read [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (00:46 05 December 2025)
--   📖 Read chapter 178 of [Pick Me Up](https://anilist.co/manga/159441) (16:22 04 December 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
