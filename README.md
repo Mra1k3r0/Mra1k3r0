@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 104 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (00:35 08 December 2025)
+-   📖 Read chapter 142 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (00:29 08 December 2025)
 -   📖 Read chapter 79 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (04:20 07 December 2025)
 -   📖 Read chapter 1 - 66 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (04:13 07 December 2025)
 -   📖 Read chapter 77 - 78 of [The 100th Regression of the Max-Level Player](https://anilist.co/manga/170894) (02:08 06 December 2025)
--   📖 Read chapter 12 of [Akdangdeurui Huwonjaga Doeeotda](https://anilist.co/manga/201009) (01:41 06 December 2025)
--   📖 Plans to read [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (00:46 05 December 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
