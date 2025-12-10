@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 179 of [Pick Me Up](https://anilist.co/manga/159441) (15:31 10 December 2025)
 -   📖 Read chapter 146 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (03:46 10 December 2025)
 -   📖 Read chapter 54 of [Magye Academy-ui Silnun Agyeok](https://anilist.co/manga/190356) (03:36 09 December 2025)
 -   📖 Read chapter 104 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (00:35 08 December 2025)
 -   📖 Read chapter 142 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (00:29 08 December 2025)
--   📖 Read chapter 79 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (04:20 07 December 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
