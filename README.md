@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 74 - 75 of [Daetteum Chakgakdanghaetda Goemul Cheonjaebaeuro](https://anilist.co/manga/182000) (15:49 15 December 2025)
 -   📖 Read chapter 80 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (02:39 15 December 2025)
 -   📖 Read chapter 67 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (02:20 15 December 2025)
 -   📖 Read chapter 105 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (02:10 15 December 2025)
 -   📖 Read chapter 13 of [Akdangdeurui Huwonjaga Doeeotda](https://anilist.co/manga/201009) (00:38 13 December 2025)
--   📖 Read chapter 79 of [The 100th Regression of the Max-Level Player](https://anilist.co/manga/170894) (23:23 11 December 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
