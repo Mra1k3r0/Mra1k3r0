@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 76 - 79 of [Daetteum Chakgakdanghaetda Goemul Cheonjaebaeuro](https://anilist.co/manga/182000) (09:15 16 December 2025)
+-   📖 Read chapter 76 - 80 of [Daetteum Chakgakdanghaetda Goemul Cheonjaebaeuro](https://anilist.co/manga/182000) (09:20 16 December 2025)
 -   📖 Read chapter 74 - 75 of [Daetteum Chakgakdanghaetda Goemul Cheonjaebaeuro](https://anilist.co/manga/182000) (15:49 15 December 2025)
 -   📖 Read chapter 80 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (02:39 15 December 2025)
 -   📖 Read chapter 67 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (02:20 15 December 2025)
