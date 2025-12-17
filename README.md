@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 3 of [Insector](https://anilist.co/manga/178064) (07:36 17 December 2025)
+-   📖 Read chapter 1 - 10 of [Insector](https://anilist.co/manga/178064) (12:18 17 December 2025)
 -   📖 Plans to read [Insector](https://anilist.co/manga/178064) (06:53 17 December 2025)
 -   📖 Read chapter 68 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (02:19 17 December 2025)
 -   📖 Read chapter 76 - 80 of [Daetteum Chakgakdanghaetda Goemul Cheonjaebaeuro](https://anilist.co/manga/182000) (09:20 16 December 2025)
