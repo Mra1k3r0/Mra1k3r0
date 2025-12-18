@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 28 - 49 of [Insector](https://anilist.co/manga/178064) (07:11 18 December 2025)
+-   📖 Read chapter 28 - 52 of [Insector](https://anilist.co/manga/178064) (07:26 18 December 2025)
 -   📖 Read chapter 80 of [The 100th Regression of the Max-Level Player](https://anilist.co/manga/170894) (02:04 18 December 2025)
 -   📖 Read chapter 1 - 27 of [Insector](https://anilist.co/manga/178064) (13:08 17 December 2025)
 -   📖 Plans to read [Insector](https://anilist.co/manga/178064) (06:53 17 December 2025)
