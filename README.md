@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 147 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (02:22 19 December 2025)
+-   📖 Read chapter 291 of [Nano Machine](https://anilist.co/manga/120980) (02:05 19 December 2025)
+-   📖 Read chapter 14 of [Akdangdeurui Huwonjaga Doeeotda](https://anilist.co/manga/201009) (01:57 19 December 2025)
 -   📖 Read chapter 28 - 52 of [Insector](https://anilist.co/manga/178064) (07:26 18 December 2025)
 -   📖 Read chapter 80 of [The 100th Regression of the Max-Level Player](https://anilist.co/manga/170894) (02:04 18 December 2025)
--   📖 Read chapter 1 - 27 of [Insector](https://anilist.co/manga/178064) (13:08 17 December 2025)
--   📖 Plans to read [Insector](https://anilist.co/manga/178064) (06:53 17 December 2025)
--   📖 Read chapter 68 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (02:19 17 December 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
