@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 69 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (13:56 25 December 2025)
 -   📖 Read chapter 292 of [Nano Machine](https://anilist.co/manga/120980) (04:46 25 December 2025)
 -   📖 Read chapter 148 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (10:48 24 December 2025)
 -   📖 Read chapter 56 of [Magye Academy-ui Silnun Agyeok](https://anilist.co/manga/190356) (11:07 22 December 2025)
 -   📖 Read chapter 106 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (04:32 22 December 2025)
--   📖 Read chapter 144 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (04:24 22 December 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
