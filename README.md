@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 53 - 74 of [The End is a Game to Me](https://anilist.co/manga/168504) (03:00 28 December 2025)
+-   📖 Read chapter 53 - 80 of [The End is a Game to Me](https://anilist.co/manga/168504) (03:33 28 December 2025)
 -   📖 Read chapter 81 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (16:25 27 December 2025)
 -   📖 Read chapter 15 of [Akdangdeurui Huwonjaga Doeeotda](https://anilist.co/manga/201009) (06:41 26 December 2025)
 -   📖 Read chapter 69 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (13:56 25 December 2025)
