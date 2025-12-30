@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [I Am An Undercover Agent In The Demon Country](https://anilist.co/manga/198040) (14:49 30 December 2025)
 -   📖 Read chapter 82 - 87 of [Shadow of the Supreme](https://anilist.co/manga/180890) (02:46 30 December 2025)
 -   📖 Read chapter 107 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (00:26 30 December 2025)
 -   📖 Read chapter 57 of [Magye Academy-ui Silnun Agyeok](https://anilist.co/manga/190356) (04:11 29 December 2025)
 -   📖 Read chapter 145 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (04:02 29 December 2025)
--   📖 Read chapter 149 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (14:26 28 December 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
