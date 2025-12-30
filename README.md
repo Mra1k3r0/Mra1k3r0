@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 107 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (00:26 30 December 2025)
 -   📖 Read chapter 57 of [Magye Academy-ui Silnun Agyeok](https://anilist.co/manga/190356) (04:11 29 December 2025)
 -   📖 Read chapter 145 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (04:02 29 December 2025)
 -   📖 Read chapter 149 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (14:26 28 December 2025)
 -   📖 Read chapter 53 - 80 of [The End is a Game to Me](https://anilist.co/manga/168504) (03:33 28 December 2025)
--   📖 Read chapter 81 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (16:25 27 December 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
