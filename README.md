@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 12 - 16 of [I Am An Undercover Agent In The Demon Country](https://anilist.co/manga/198040) (16:12 01 January 2026)
 -   📖 Read chapter 293 of [Nano Machine](https://anilist.co/manga/120980) (01:55 01 January 2026)
 -   📖 Read chapter 1 - 11 of [I Am An Undercover Agent In The Demon Country](https://anilist.co/manga/198040) (01:34 31 December 2025)
 -   📖 Plans to read [I Am An Undercover Agent In The Demon Country](https://anilist.co/manga/198040) (14:49 30 December 2025)
 -   📖 Read chapter 82 - 87 of [Shadow of the Supreme](https://anilist.co/manga/180890) (02:46 30 December 2025)
--   📖 Read chapter 107 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (00:26 30 December 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 
