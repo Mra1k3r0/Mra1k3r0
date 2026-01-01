@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 12 - 16 of [I Am An Undercover Agent In The Demon Country](https://anilist.co/manga/198040) (16:12 01 January 2026)
+-   📖 Read chapter 12 - 20 of [I Am An Undercover Agent In The Demon Country](https://anilist.co/manga/198040) (16:32 01 January 2026)
 -   📖 Read chapter 293 of [Nano Machine](https://anilist.co/manga/120980) (01:55 01 January 2026)
 -   📖 Read chapter 1 - 11 of [I Am An Undercover Agent In The Demon Country](https://anilist.co/manga/198040) (01:34 31 December 2025)
 -   📖 Plans to read [I Am An Undercover Agent In The Demon Country](https://anilist.co/manga/198040) (14:49 30 December 2025)
