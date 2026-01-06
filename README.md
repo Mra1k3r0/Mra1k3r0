@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 58 of [Magye Academy-ui Silnun Agyeok](https://anilist.co/manga/190356) (03:41 06 January 2026)
+-   📖 Read chapter 150 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (03:35 06 January 2026)
 -   📖 Read chapter 82 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (03:46 04 January 2026)
 -   📖 Read chapter 70 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (04:36 02 January 2026)
 -   📖 Read chapter 16 of [Akdangdeurui Huwonjaga Doeeotda](https://anilist.co/manga/201009) (04:14 02 January 2026)
--   📖 Read chapter 12 - 20 of [I Am An Undercover Agent In The Demon Country](https://anilist.co/manga/198040) (16:32 01 January 2026)
--   📖 Read chapter 293 of [Nano Machine](https://anilist.co/manga/120980) (01:55 01 January 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
