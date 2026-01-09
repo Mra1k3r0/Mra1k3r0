@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 12 - 13 of [Black Haze](https://anilist.co/manga/187169) (07:33 09 January 2026)
+-   📖 Read chapter 17 of [Akdangdeurui Huwonjaga Doeeotda](https://anilist.co/manga/201009) (07:30 09 January 2026)
 -   📖 Read chapter 294 of [Nano Machine](https://anilist.co/manga/120980) (05:44 08 January 2026)
 -   📺 Watched episode 2 of [A Certain Magical Index](https://anilist.co/anime/4654) (12:14 07 January 2026)
 -   📖 Read chapter 88 of [Shadow of the Supreme](https://anilist.co/manga/180890) (18:58 06 January 2026)
--   📖 Read chapter 108 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (18:54 06 January 2026)
--   📖 Read chapter 58 of [Magye Academy-ui Silnun Agyeok](https://anilist.co/manga/190356) (03:41 06 January 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
