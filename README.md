@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 59 of [Magye Academy-ui Silnun Agyeok](https://anilist.co/manga/190356) (15:18 11 January 2026)
 -   📖 Read chapter 71 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (14:34 11 January 2026)
 -   📖 Read chapter 83 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (01:55 11 January 2026)
 -   📖 Read chapter 12 - 55 of [Black Haze](https://anilist.co/manga/187169) (07:50 10 January 2026)
 -   📖 Read chapter 17 of [Akdangdeurui Huwonjaga Doeeotda](https://anilist.co/manga/201009) (07:30 09 January 2026)
--   📖 Read chapter 294 of [Nano Machine](https://anilist.co/manga/120980) (05:44 08 January 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
