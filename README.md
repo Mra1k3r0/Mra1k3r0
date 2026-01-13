@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 182 - 186 of [Return of the Mad Demon](https://anilist.co/manga/137304) (03:53 13 January 2026)
+-   📖 Read chapter 151 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (03:29 13 January 2026)
+-   📖 Read chapter 109 of [The Reborn Young Lord is an Assassin](https://anilist.co/manga/175262) (03:21 13 January 2026)
 -   📖 Read chapter 56 of [Black Haze](https://anilist.co/manga/187169) (03:29 12 January 2026)
 -   📖 Read chapter 59 of [Magye Academy-ui Silnun Agyeok](https://anilist.co/manga/190356) (15:18 11 January 2026)
--   📖 Read chapter 71 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (14:34 11 January 2026)
--   📖 Read chapter 83 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (01:55 11 January 2026)
--   📖 Read chapter 12 - 55 of [Black Haze](https://anilist.co/manga/187169) (07:50 10 January 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
