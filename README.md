@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 7 of [Gongjakgaui Yeokdaegeup Sindong](https://anilist.co/manga/201624) (07:11 15 January 2026)
+-   📖 Plans to read [Gongjakgaui Yeokdaegeup Sindong](https://anilist.co/manga/201624) (06:23 15 January 2026)
 -   📖 Read chapter 89 of [Shadow of the Supreme](https://anilist.co/manga/180890) (16:40 14 January 2026)
 -   📖 Read chapter 295 of [Nano Machine](https://anilist.co/manga/120980) (16:33 14 January 2026)
 -   📖 Read chapter 180 - 183 of [Pick Me Up](https://anilist.co/manga/159441) (01:08 14 January 2026)
--   📖 Read chapter 182 - 186 of [Return of the Mad Demon](https://anilist.co/manga/137304) (03:53 13 January 2026)
--   📖 Read chapter 151 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (03:29 13 January 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
