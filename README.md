@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 15 of [Gongjakgaui Yeokdaegeup Sindong](https://anilist.co/manga/201624) (08:09 15 January 2026)
+-   📖 Read chapter 1 - 21 of [Gongjakgaui Yeokdaegeup Sindong](https://anilist.co/manga/201624) (09:14 15 January 2026)
 -   📖 Plans to read [Gongjakgaui Yeokdaegeup Sindong](https://anilist.co/manga/201624) (06:23 15 January 2026)
 -   📖 Read chapter 89 of [Shadow of the Supreme](https://anilist.co/manga/180890) (16:40 14 January 2026)
 -   📖 Read chapter 295 of [Nano Machine](https://anilist.co/manga/120980) (16:33 14 January 2026)
