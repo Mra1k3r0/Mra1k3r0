@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 15 of [The Eminence in Shadow](https://anilist.co/manga/106758) (04:52 16 January 2026)
+-   📖 Plans to read [The Eminence in Shadow](https://anilist.co/manga/106758) (04:52 16 January 2026)
 -   📖 Read chapter 18 of [Akdangdeurui Huwonjaga Doeeotda](https://anilist.co/manga/201009) (03:33 16 January 2026)
 -   📖 Read chapter 1 - 30 of [Gongjakgaui Yeokdaegeup Sindong](https://anilist.co/manga/201624) (09:57 15 January 2026)
 -   📖 Plans to read [Gongjakgaui Yeokdaegeup Sindong](https://anilist.co/manga/201624) (06:23 15 January 2026)
--   📖 Read chapter 89 of [Shadow of the Supreme](https://anilist.co/manga/180890) (16:40 14 January 2026)
--   📖 Read chapter 295 of [Nano Machine](https://anilist.co/manga/120980) (16:33 14 January 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
