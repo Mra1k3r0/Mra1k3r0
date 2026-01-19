@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 19 of [The Eminence in Shadow](https://anilist.co/manga/106758) (03:05 19 January 2026)
+-   📖 Read chapter 19 - 21 of [The Eminence in Shadow](https://anilist.co/manga/106758) (08:10 19 January 2026)
 -   📖 Read chapter 16 - 18 of [The Eminence in Shadow](https://anilist.co/manga/106758) (04:30 18 January 2026)
 -   📖 Read chapter 60 of [Magye Academy-ui Silnun Agyeok](https://anilist.co/manga/190356) (04:24 18 January 2026)
 -   📖 Read chapter 184 of [Pick Me Up](https://anilist.co/manga/159441) (04:19 18 January 2026)
