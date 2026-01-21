@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 29 - 48 of [The Eminence in Shadow](https://anilist.co/manga/106758) (15:53 20 January 2026)
+-   📖 Read chapter 29 - 54 of [The Eminence in Shadow](https://anilist.co/manga/106758) (00:01 21 January 2026)
 -   📖 Read chapter 152 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (22:18 19 January 2026)
 -   📖 Read chapter 19 - 28 of [The Eminence in Shadow](https://anilist.co/manga/106758) (09:43 19 January 2026)
 -   📖 Read chapter 16 - 18 of [The Eminence in Shadow](https://anilist.co/manga/106758) (04:30 18 January 2026)
