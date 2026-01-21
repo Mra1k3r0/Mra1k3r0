@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 31 of [Gongjakgaui Yeokdaegeup Sindong](https://anilist.co/manga/201624) (22:58 21 January 2026)
 -   📖 Read chapter 29 - 59 of [The Eminence in Shadow](https://anilist.co/manga/106758) (09:31 21 January 2026)
 -   📖 Read chapter 152 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (22:18 19 January 2026)
 -   📖 Read chapter 19 - 28 of [The Eminence in Shadow](https://anilist.co/manga/106758) (09:43 19 January 2026)
 -   📖 Read chapter 16 - 18 of [The Eminence in Shadow](https://anilist.co/manga/106758) (04:30 18 January 2026)
--   📖 Read chapter 60 of [Magye Academy-ui Silnun Agyeok](https://anilist.co/manga/190356) (04:24 18 January 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
