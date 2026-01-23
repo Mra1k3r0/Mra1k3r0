@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 60 - 62 of [The Eminence in Shadow](https://anilist.co/manga/106758) (00:49 23 January 2026)
+-   📖 Read chapter 60 - 68 of [The Eminence in Shadow](https://anilist.co/manga/106758) (02:53 23 January 2026)
 -   📖 Read chapter 57 of [Black Haze](https://anilist.co/manga/187169) (23:21 22 January 2026)
 -   📖 Read chapter 90 of [Shadow of the Supreme](https://anilist.co/manga/180890) (15:32 22 January 2026)
 -   📖 Read chapter 296 of [Nano Machine](https://anilist.co/manga/120980) (15:22 22 January 2026)
