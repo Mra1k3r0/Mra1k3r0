@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 153 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (01:12 27 January 2026)
 -   📖 Read chapter 146 - 147 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (06:07 26 January 2026)
 -   📺 Watched episode 4 of [The Fragrant Flower Blooms With Dignity](https://anilist.co/anime/181444) (05:04 25 January 2026)
 -   📖 Read chapter 19 of [The Patron of Villains](https://anilist.co/manga/201009) (12:00 23 January 2026)
 -   📖 Read chapter 60 - 78 of [The Eminence in Shadow](https://anilist.co/manga/106758) (05:03 23 January 2026)
--   📖 Read chapter 57 of [Black Haze](https://anilist.co/manga/187169) (23:21 22 January 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
