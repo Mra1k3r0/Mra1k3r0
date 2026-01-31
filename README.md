@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 58 of [Black Haze](https://anilist.co/manga/187169) (01:44 31 January 2026)
+-   📖 Read chapter 20 of [The Patron of Villains](https://anilist.co/manga/201009) (01:34 31 January 2026)
 -   📖 Read chapter 297 of [Nano Machine](https://anilist.co/manga/120980) (22:24 28 January 2026)
 -   📖 Read chapter 72 - 73 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (03:19 28 January 2026)
 -   📖 Read chapter 32 of [Gongjakgaui Yeokdaegeup Sindong](https://anilist.co/manga/201624) (02:40 28 January 2026)
--   📖 Read chapter 153 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (01:12 27 January 2026)
--   📖 Read chapter 146 - 147 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (06:07 26 January 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
