@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 31 of [Kaisha To Shiseikatsu](https://anilist.co/manga/164770) (15:58 01 February 2026)
 -   📖 Read chapter 85 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (15:06 01 February 2026)
 -   📺 Completed [Gachiakuta](https://anilist.co/anime/178025) (13:15 01 February 2026)
 -   📺 Watched episode 2 - 24 of [Gachiakuta](https://anilist.co/anime/178025) (13:15 01 February 2026)
 -   📖 Read chapter 58 of [Black Haze](https://anilist.co/manga/187169) (01:44 31 January 2026)
--   📖 Read chapter 20 of [The Patron of Villains](https://anilist.co/manga/201009) (01:34 31 January 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
