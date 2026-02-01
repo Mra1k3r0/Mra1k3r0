@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Gachiakuta](https://anilist.co/anime/178025) (13:15 01 February 2026)
+-   📺 Watched episode 2 - 24 of [Gachiakuta](https://anilist.co/anime/178025) (13:15 01 February 2026)
 -   📖 Read chapter 58 of [Black Haze](https://anilist.co/manga/187169) (01:44 31 January 2026)
 -   📖 Read chapter 20 of [The Patron of Villains](https://anilist.co/manga/201009) (01:34 31 January 2026)
 -   📖 Read chapter 297 of [Nano Machine](https://anilist.co/manga/120980) (22:24 28 January 2026)
--   📖 Read chapter 72 - 73 of [The Regressed Mercenary Has a Plan](https://anilist.co/manga/182066) (03:19 28 January 2026)
--   📖 Read chapter 32 of [Gongjakgaui Yeokdaegeup Sindong](https://anilist.co/manga/201624) (02:40 28 January 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
