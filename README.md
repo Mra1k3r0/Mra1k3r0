@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 155 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (04:52 06 February 2026)
 -   📖 Read chapter 298 of [Nano Machine](https://anilist.co/manga/120980) (18:21 05 February 2026)
 -   📖 Read chapter 154 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (22:35 02 February 2026)
 -   📖 Read chapter 31 - 107 of [Kaisha To Shiseikatsu](https://anilist.co/manga/164770) (04:40 02 February 2026)
 -   📖 Read chapter 185 - 186 of [Pick Me Up](https://anilist.co/manga/159441) (01:30 02 February 2026)
--   📖 Read chapter 148 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (16:21 01 February 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
