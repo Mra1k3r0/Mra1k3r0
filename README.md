@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 149 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (23:41 08 February 2026)
+-   📖 Read chapter 59 of [Black Haze](https://anilist.co/manga/187169) (23:30 08 February 2026)
+-   📖 Read chapter 187 of [Pick Me Up](https://anilist.co/manga/159441) (23:30 08 February 2026)
 -   📖 Read chapter 86 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (01:27 08 February 2026)
 -   📖 Read chapter 61 of [Tyrant of the Tower Defense Game](https://anilist.co/manga/153513) (12:32 07 February 2026)
--   📖 Plans to read [Tyrant of the Tower Defense Game](https://anilist.co/manga/153513) (00:11 07 February 2026)
--   📖 Read chapter 21 of [The Patron of Villains](https://anilist.co/manga/201009) (22:40 06 February 2026)
--   📖 Read chapter 155 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (04:52 06 February 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
