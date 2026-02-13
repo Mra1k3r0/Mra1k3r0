@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 19 of [The Heavenly Demon Wants a Quiet Life](https://anilist.co/manga/185816) (10:41 13 February 2026)
 -   📖 Read chapter 188 of [Pick Me Up](https://anilist.co/manga/159441) (00:50 13 February 2026)
 -   📖 Read chapter 22 of [The Patron of Villains](https://anilist.co/manga/201009) (23:39 12 February 2026)
 -   📖 Read chapter 299 of [Nano Machine](https://anilist.co/manga/120980) (00:18 12 February 2026)
 -   📖 Read chapter 156 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (00:03 12 February 2026)
--   📖 Read chapter 144 - 145 of [The Novel's Extra](https://anilist.co/manga/152128) (06:39 11 February 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
