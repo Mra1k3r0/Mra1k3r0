@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 60 of [Black Haze](https://anilist.co/manga/187169) (03:33 15 February 2026)
+-   📖 Read chapter 33 - 35 of [Gongjakgaui Yeokdaegeup Sindong](https://anilist.co/manga/201624) (03:29 15 February 2026)
+-   📖 Read chapter 87 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (03:04 15 February 2026)
 -   📖 Read chapter 62 of [Tyrant of the Tower Defense Game](https://anilist.co/manga/153513) (09:30 14 February 2026)
 -   📖 Read chapter 19 - 67 of [The Heavenly Demon Wants a Quiet Life](https://anilist.co/manga/185816) (04:30 14 February 2026)
--   📖 Read chapter 188 of [Pick Me Up](https://anilist.co/manga/159441) (00:50 13 February 2026)
--   📖 Read chapter 22 of [The Patron of Villains](https://anilist.co/manga/201009) (23:39 12 February 2026)
--   📖 Read chapter 299 of [Nano Machine](https://anilist.co/manga/120980) (00:18 12 February 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
