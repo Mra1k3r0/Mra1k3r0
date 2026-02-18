@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 7 of [Choinui Game Bangsong](https://anilist.co/manga/202499) (03:47 18 February 2026)
+-   📖 Plans to read [Choinui Game Bangsong](https://anilist.co/manga/202499) (01:48 18 February 2026)
 -   📖 Read chapter 61 of [Black Haze](https://anilist.co/manga/187169) (17:39 16 February 2026)
 -   📖 Read chapter 146 of [The Novel's Extra](https://anilist.co/manga/152128) (17:34 16 February 2026)
 -   📖 Read chapter 44 - 45 of [The Villain's Survival Route](https://anilist.co/manga/187427) (13:39 16 February 2026)
--   📖 Read chapter 150 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (12:12 16 February 2026)
--   📖 Read chapter 150 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (12:12 16 February 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
