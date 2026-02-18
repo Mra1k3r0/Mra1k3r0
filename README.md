@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 7 of [Choinui Game Bangsong](https://anilist.co/manga/202499) (03:47 18 February 2026)
+-   📖 Read chapter 1 - 10 of [Choinui Game Bangsong](https://anilist.co/manga/202499) (10:31 18 February 2026)
 -   📖 Plans to read [Choinui Game Bangsong](https://anilist.co/manga/202499) (01:48 18 February 2026)
 -   📖 Read chapter 61 of [Black Haze](https://anilist.co/manga/187169) (17:39 16 February 2026)
 -   📖 Read chapter 146 of [The Novel's Extra](https://anilist.co/manga/152128) (17:34 16 February 2026)
