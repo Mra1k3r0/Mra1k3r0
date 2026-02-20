@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 18 of [The Genius Swordsman of Mount Hua](https://anilist.co/manga/188155) (03:45 20 February 2026)
+-   📖 Read chapter 1 - 26 of [The Genius Swordsman of Mount Hua](https://anilist.co/manga/188155) (05:36 20 February 2026)
 -   📖 Plans to read [The Genius Swordsman of Mount Hua](https://anilist.co/manga/188155) (05:12 19 February 2026)
 -   📖 Read chapter 1 - 25 of [Choinui Game Bangsong](https://anilist.co/manga/202499) (04:52 19 February 2026)
 -   📖 Plans to read [Choinui Game Bangsong](https://anilist.co/manga/202499) (01:48 18 February 2026)
