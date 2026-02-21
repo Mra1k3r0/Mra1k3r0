@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 2 of [Horror Story Club](https://anilist.co/manga/181021) (00:47 21 February 2026)
+-   📖 Read chapter 1 - 6 of [Horror Story Club](https://anilist.co/manga/181021) (01:31 21 February 2026)
 -   📖 Plans to read [Horror Story Club](https://anilist.co/manga/181021) (14:09 20 February 2026)
 -   📖 Read chapter 189 of [Pick Me Up](https://anilist.co/manga/159441) (08:58 20 February 2026)
 -   📖 Read chapter 300 of [Nano Machine](https://anilist.co/manga/120980) (08:48 20 February 2026)
