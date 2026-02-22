@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 7 - 8 of [Horror Story Club](https://anilist.co/manga/181021) (14:45 21 February 2026)
+-   📖 Read chapter 7 - 12 of [Horror Story Club](https://anilist.co/manga/181021) (01:02 22 February 2026)
 -   📖 Read chapter 23 of [The Patron of Villains](https://anilist.co/manga/201009) (14:38 21 February 2026)
 -   📖 Read chapter 1 - 6 of [Horror Story Club](https://anilist.co/manga/181021) (01:31 21 February 2026)
 -   📖 Plans to read [Horror Story Club](https://anilist.co/manga/181021) (14:09 20 February 2026)
