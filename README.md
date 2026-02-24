@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 62 of [Black Haze](https://anilist.co/manga/187169) (16:38 24 February 2026)
 -   📖 Read chapter 51 of [The Genius Swordsman of Mount Hua](https://anilist.co/manga/188155) (09:07 24 February 2026)
 -   📖 Read chapter 147 of [The Novel's Extra](https://anilist.co/manga/152128) (09:06 24 February 2026)
 -   📖 Read chapter 7 - 78 of [Horror Story Club](https://anilist.co/manga/181021) (12:18 23 February 2026)
 -   📖 Read chapter 151 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (08:45 23 February 2026)
--   📖 Read chapter 88 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (01:28 22 February 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
