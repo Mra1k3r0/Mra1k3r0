@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 24 of [The Patron of Villains](https://anilist.co/manga/201009) (23:10 26 February 2026)
 -   📖 Read chapter 157 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (05:23 26 February 2026)
 -   📖 Read chapter 190 of [Pick Me Up](https://anilist.co/manga/159441) (16:07 25 February 2026)
 -   📖 Read chapter 62 of [Black Haze](https://anilist.co/manga/187169) (16:38 24 February 2026)
 -   📖 Read chapter 51 of [The Genius Swordsman of Mount Hua](https://anilist.co/manga/188155) (09:07 24 February 2026)
--   📖 Read chapter 147 of [The Novel's Extra](https://anilist.co/manga/152128) (09:06 24 February 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
