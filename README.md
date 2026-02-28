@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 52 of [The Genius Swordsman of Mount Hua](https://anilist.co/manga/188155) (06:39 28 February 2026)
 -   📖 Read chapter 158 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (11:52 27 February 2026)
 -   📖 Read chapter 301 of [Nano Machine](https://anilist.co/manga/120980) (11:39 27 February 2026)
 -   📖 Read chapter 24 of [The Patron of Villains](https://anilist.co/manga/201009) (23:10 26 February 2026)
 -   📖 Read chapter 157 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (05:23 26 February 2026)
--   📖 Read chapter 190 of [Pick Me Up](https://anilist.co/manga/159441) (16:07 25 February 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
