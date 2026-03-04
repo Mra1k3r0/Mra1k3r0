@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 68 of [The Heavenly Demon Wants a Quiet Life](https://anilist.co/manga/185816) (22:15 04 March 2026)
+-   📖 Read chapter 302 of [Nano Machine](https://anilist.co/manga/120980) (21:52 04 March 2026)
+-   📖 Read chapter 191 of [Pick Me Up](https://anilist.co/manga/159441) (21:40 04 March 2026)
 -   📖 Read chapter 63 of [Black Haze](https://anilist.co/manga/187169) (02:47 04 March 2026)
 -   📖 Read chapter 159 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (02:37 04 March 2026)
--   📖 Read chapter 26 of [Superhuman Streamer](https://anilist.co/manga/202499) (02:24 04 March 2026)
--   📖 Read chapter 148 of [The Novel's Extra](https://anilist.co/manga/152128) (22:23 02 March 2026)
--   📖 Read chapter 152 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (01:56 02 March 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
