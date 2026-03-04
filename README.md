@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 63 of [Black Haze](https://anilist.co/manga/187169) (02:47 04 March 2026)
+-   📖 Read chapter 159 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (02:37 04 March 2026)
+-   📖 Read chapter 26 of [Superhuman Streamer](https://anilist.co/manga/202499) (02:24 04 March 2026)
 -   📖 Read chapter 148 of [The Novel's Extra](https://anilist.co/manga/152128) (22:23 02 March 2026)
 -   📖 Read chapter 152 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (01:56 02 March 2026)
--   📖 Read chapter 46 of [The Villain's Survival Route](https://anilist.co/manga/187427) (01:49 02 March 2026)
--   📖 Read chapter 52 of [The Genius Swordsman of Mount Hua](https://anilist.co/manga/188155) (06:39 28 February 2026)
--   📖 Read chapter 158 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (11:52 27 February 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
