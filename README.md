@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 121 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (14:02 06 March 2026)
 -   📖 Read chapter 68 - 70 of [The Heavenly Demon Wants a Quiet Life](https://anilist.co/manga/185816) (05:45 05 March 2026)
 -   📖 Read chapter 302 of [Nano Machine](https://anilist.co/manga/120980) (21:52 04 March 2026)
 -   📖 Read chapter 191 of [Pick Me Up](https://anilist.co/manga/159441) (21:40 04 March 2026)
 -   📖 Read chapter 63 of [Black Haze](https://anilist.co/manga/187169) (02:47 04 March 2026)
--   📖 Read chapter 159 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (02:37 04 March 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
