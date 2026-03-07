@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 121 - 131 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (12:16 07 March 2026)
+-   📖 Read chapter 121 - 134 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (17:56 07 March 2026)
+-   📖 Read chapter 89 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (17:40 07 March 2026)
 -   📖 Read chapter 25 of [The Patron of Villains](https://anilist.co/manga/201009) (03:42 07 March 2026)
 -   📖 Read chapter 68 - 70 of [The Heavenly Demon Wants a Quiet Life](https://anilist.co/manga/185816) (05:45 05 March 2026)
 -   📖 Read chapter 302 of [Nano Machine](https://anilist.co/manga/120980) (21:52 04 March 2026)
--   📖 Read chapter 191 of [Pick Me Up](https://anilist.co/manga/159441) (21:40 04 March 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
