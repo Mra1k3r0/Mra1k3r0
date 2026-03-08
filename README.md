@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 36 - 38 of [Gongjakgaui Yeokdaegeup Sindong](https://anilist.co/manga/201624) (14:41 08 March 2026)
 -   📖 Read chapter 217 - 220 of [Masters of Lightning Knives](https://anilist.co/manga/127848) (12:48 08 March 2026)
 -   📖 Read chapter 121 - 138 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (20:06 07 March 2026)
 -   📖 Read chapter 89 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (17:40 07 March 2026)
 -   📖 Read chapter 25 of [The Patron of Villains](https://anilist.co/manga/201009) (03:42 07 March 2026)
--   📖 Read chapter 68 - 70 of [The Heavenly Demon Wants a Quiet Life](https://anilist.co/manga/185816) (05:45 05 March 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
