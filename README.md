@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 303 of [Nano Machine](https://anilist.co/manga/120980) (03:22 12 March 2026)
+-   📖 Read chapter 160 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (03:16 12 March 2026)
 -   📖 Read chapter 27 of [Superhuman Streamer](https://anilist.co/manga/202499) (08:07 10 March 2026)
 -   📖 Read chapter 149 of [The Novel's Extra](https://anilist.co/manga/152128) (05:30 10 March 2026)
 -   📖 Read chapter 47 of [The Villain's Survival Route](https://anilist.co/manga/187427) (04:23 09 March 2026)
--   📖 Read chapter 153 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (03:47 09 March 2026)
--   📖 Read chapter 36 - 38 of [Gongjakgaui Yeokdaegeup Sindong](https://anilist.co/manga/201624) (14:41 08 March 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
