@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 28 of [Superhuman Streamer](https://anilist.co/manga/202499) (02:19 14 March 2026)
 -   📖 Read chapter 26 of [The Patron of Villains](https://anilist.co/manga/201009) (06:53 13 March 2026)
 -   📖 Read chapter 64 of [Black Haze](https://anilist.co/manga/187169) (14:22 12 March 2026)
 -   📖 Read chapter 192 of [Pick Me Up](https://anilist.co/manga/159441) (03:58 12 March 2026)
 -   📖 Read chapter 303 of [Nano Machine](https://anilist.co/manga/120980) (03:22 12 March 2026)
--   📖 Read chapter 160 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (03:16 12 March 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
