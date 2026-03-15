@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 90 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (04:37 15 March 2026)
 -   📖 Read chapter 53 - 54 of [The Genius Swordsman of Mount Hua](https://anilist.co/manga/188155) (16:06 14 March 2026)
 -   📖 Read chapter 139 - 140 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (11:37 14 March 2026)
 -   📖 Read chapter 28 of [Superhuman Streamer](https://anilist.co/manga/202499) (02:19 14 March 2026)
 -   📖 Read chapter 26 of [The Patron of Villains](https://anilist.co/manga/201009) (06:53 13 March 2026)
--   📖 Read chapter 64 of [Black Haze](https://anilist.co/manga/187169) (14:22 12 March 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
