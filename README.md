@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Rebirth of the Divine Demon](https://anilist.co/manga/199222) (14:53 16 March 2026)
+-   📖 Read chapter 39 of [Gongjakgaui Yeokdaegeup Sindong](https://anilist.co/manga/201624) (14:37 16 March 2026)
 -   📖 Read chapter 48 of [The Villain's Survival Route](https://anilist.co/manga/187427) (02:59 16 March 2026)
 -   📖 Read chapter 154 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (02:53 16 March 2026)
 -   📖 Read chapter 90 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (04:37 15 March 2026)
--   📖 Read chapter 53 - 54 of [The Genius Swordsman of Mount Hua](https://anilist.co/manga/188155) (16:06 14 March 2026)
--   📖 Read chapter 139 - 140 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (11:37 14 March 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
