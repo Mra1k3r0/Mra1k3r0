@@ -42,7 +42,7 @@
 
 -   📖 Read chapter 150 of [The Novel's Extra](https://anilist.co/manga/152128) (04:07 17 March 2026)
 -   📖 Plans to read [Rebirth of the Divine Demon](https://anilist.co/manga/199222) (14:53 16 March 2026)
--   📖 Read chapter 39 of [Gongjakgaui Yeokdaegeup Sindong](https://anilist.co/manga/201624) (14:37 16 March 2026)
+-   📖 Read chapter 39 of [The Reborn Prodigy of the Ducal Family](https://anilist.co/manga/201624) (14:37 16 March 2026)
 -   📖 Read chapter 48 of [The Villain's Survival Route](https://anilist.co/manga/187427) (02:59 16 March 2026)
 -   📖 Read chapter 154 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (02:53 16 March 2026)
 
