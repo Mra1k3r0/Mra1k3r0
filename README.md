@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 10 - 11 of [Classroom of the Elite Season 3](https://anilist.co/anime/146066) (04:14 03 April 2026)
+-   📺 Completed [Classroom of the Elite Season 3](https://anilist.co/anime/146066) (05:06 03 April 2026)
+-   📺 Watched episode 10 - 13 of [Classroom of the Elite Season 3](https://anilist.co/anime/146066) (05:04 03 April 2026)
 -   📖 Read chapter 150 of [The Novel's Extra](https://anilist.co/manga/152128) (04:07 17 March 2026)
 -   📖 Plans to read [Rebirth of the Divine Demon](https://anilist.co/manga/199222) (14:53 16 March 2026)
 -   📖 Read chapter 39 of [The Reborn Prodigy of the Ducal Family](https://anilist.co/manga/201624) (14:37 16 March 2026)
--   📖 Read chapter 48 of [The Villain's Survival Route](https://anilist.co/manga/187427) (02:59 16 March 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
