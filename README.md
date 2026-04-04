@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 2 of [Classroom of the Elite 4th Season: Second Year, First Semester](https://anilist.co/anime/180745) (03:31 04 April 2026)
+-   📺 Watched episode 1 - 4 of [Classroom of the Elite 4th Season: Second Year, First Semester](https://anilist.co/anime/180745) (04:41 04 April 2026)
 -   📺 Completed [Classroom of the Elite Season 3](https://anilist.co/anime/146066) (05:06 03 April 2026)
 -   📺 Watched episode 10 - 13 of [Classroom of the Elite Season 3](https://anilist.co/anime/146066) (05:04 03 April 2026)
 -   📖 Read chapter 150 of [The Novel's Extra](https://anilist.co/manga/152128) (04:07 17 March 2026)
