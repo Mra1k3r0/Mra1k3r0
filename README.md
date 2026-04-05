@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 29 of [The Patron of Villains](https://anilist.co/manga/201009) (17:44 05 April 2026)
+-   📖 Read chapter 157 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (17:43 05 April 2026)
+-   📖 Read chapter 115 of [Reincarnated Murim Lord](https://anilist.co/manga/176790) (17:35 05 April 2026)
+-   📖 Read chapter 163 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (17:35 05 April 2026)
 -   📖 Read chapter 1 - 3 of [Dr. Frost](https://anilist.co/manga/70345) (03:53 05 April 2026)
--   📖 Plans to read [Dr. Frost](https://anilist.co/manga/70345) (03:37 05 April 2026)
--   📺 Watched episode 1 - 3 of [Classroom of the Elite 4th Season: Second Year, First Semester](https://anilist.co/anime/180745) (13:13 04 April 2026)
--   📺 Completed [Classroom of the Elite Season 3](https://anilist.co/anime/146066) (05:06 03 April 2026)
--   📺 Watched episode 10 - 13 of [Classroom of the Elite Season 3](https://anilist.co/anime/146066) (05:04 03 April 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
