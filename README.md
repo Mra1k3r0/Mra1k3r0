@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 3 of [Dr. Frost](https://anilist.co/manga/70345) (03:53 05 April 2026)
+-   📖 Plans to read [Dr. Frost](https://anilist.co/manga/70345) (03:37 05 April 2026)
 -   📺 Watched episode 1 - 3 of [Classroom of the Elite 4th Season: Second Year, First Semester](https://anilist.co/anime/180745) (13:13 04 April 2026)
 -   📺 Completed [Classroom of the Elite Season 3](https://anilist.co/anime/146066) (05:06 03 April 2026)
 -   📺 Watched episode 10 - 13 of [Classroom of the Elite Season 3](https://anilist.co/anime/146066) (05:04 03 April 2026)
--   📖 Read chapter 150 of [The Novel's Extra](https://anilist.co/manga/152128) (04:07 17 March 2026)
--   📖 Plans to read [Rebirth of the Divine Demon](https://anilist.co/manga/199222) (14:53 16 March 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
