@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 154 - 157 of [Cheonhwa Archive's Young Master](https://anilist.co/manga/160693) (04:25 06 April 2026)
+-   📖 Read chapter 154 - 169 of [Cheonhwa Archive's Young Master](https://anilist.co/manga/160693) (06:21 06 April 2026)
 -   📖 Read chapter 29 of [The Patron of Villains](https://anilist.co/manga/201009) (17:44 05 April 2026)
 -   📖 Read chapter 157 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (17:43 05 April 2026)
 -   📖 Read chapter 115 of [Reincarnated Murim Lord](https://anilist.co/manga/176790) (17:35 05 April 2026)
