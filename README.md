@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 31 of [Superhuman Streamer](https://anilist.co/manga/202499) (14:00 10 April 2026)
+-   📖 Read chapter 37 of [Rebirth of the Divine Demon](https://anilist.co/manga/199222) (13:52 10 April 2026)
 -   📖 Read chapter 196 of [Pick Me Up](https://anilist.co/manga/159441) (01:02 09 April 2026)
 -   📺 Watched episode 4 - 5 of [Classroom of the Elite 4th Season: Second Year, First Semester](https://anilist.co/anime/180745) (17:05 08 April 2026)
 -   📺 Watched episode 1 of [Re:ZERO -Starting Life in Another World- Season 4](https://anilist.co/anime/189046) (15:39 08 April 2026)
--   📖 Read chapter 29 - 30 of [Superhuman Streamer](https://anilist.co/manga/202499) (02:55 08 April 2026)
--   📖 Read chapter 152 of [The Novel's Extra](https://anilist.co/manga/152128) (18:52 07 April 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
