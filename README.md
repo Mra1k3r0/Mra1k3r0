@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 307 of [Nano Machine](https://anilist.co/manga/120980) (12:26 12 April 2026)
 -   📖 Read chapter 71 - 73 of [The Heavenly Demon Wants a Quiet Life](https://anilist.co/manga/185816) (02:59 12 April 2026)
 -   📖 Read chapter 93 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (02:08 12 April 2026)
 -   📖 Read chapter 141 - 143 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (11:49 11 April 2026)
 -   📖 Read chapter 51 of [The Villain's Survival Route](https://anilist.co/manga/187427) (06:26 11 April 2026)
--   📖 Read chapter 30 of [The Patron of Villains](https://anilist.co/manga/201009) (01:35 11 April 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
