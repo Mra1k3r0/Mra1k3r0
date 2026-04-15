@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 29 - 60 of [Illusion Hunter from Another World](https://anilist.co/manga/186503) (04:35 15 April 2026)
 -   📖 Read chapter 74 - 75 of [The Heavenly Demon Wants a Quiet Life](https://anilist.co/manga/185816) (00:58 15 April 2026)
 -   📖 Read chapter 38 of [Rebirth of the Divine Demon](https://anilist.co/manga/199222) (13:41 14 April 2026)
 -   📖 Read chapter 153 of [The Novel's Extra](https://anilist.co/manga/152128) (00:01 14 April 2026)
 -   📖 Read chapter 164 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (23:55 13 April 2026)
--   📖 Read chapter 32 of [Superhuman Streamer](https://anilist.co/manga/202499) (02:52 13 April 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
