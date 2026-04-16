@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 of [Re:ZERO -Starting Life in Another World- Season 4](https://anilist.co/anime/189046) (09:51 16 April 2026)
 -   📖 Read chapter 197 of [Pick Me Up](https://anilist.co/manga/159441) (22:44 15 April 2026)
 -   📺 Watched episode 6 of [Classroom of the Elite 4th Season: Second Year, First Semester](https://anilist.co/anime/180745) (15:17 15 April 2026)
 -   📖 Plans to read [Sesange Nappeun Yeongaeneun Eopda](https://anilist.co/manga/206766) (09:21 15 April 2026)
 -   📖 Read chapter 29 - 85 of [Illusion Hunter from Another World](https://anilist.co/manga/186503) (06:52 15 April 2026)
--   📖 Read chapter 74 - 75 of [The Heavenly Demon Wants a Quiet Life](https://anilist.co/manga/185816) (00:58 15 April 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
