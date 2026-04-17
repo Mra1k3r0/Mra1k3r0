@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Jack-of-All-Trades, Party of None](https://anilist.co/anime/187264) (15:51 17 April 2026)
 -   📖 Read chapter 1 - 19 of [Sesange Nappeun Yeongaeneun Eopda](https://anilist.co/manga/206766) (02:27 17 April 2026)
 -   📖 Read chapter 31 of [The Patron of Villains](https://anilist.co/manga/201009) (23:41 16 April 2026)
 -   📺 Watched episode 2 of [Re:ZERO -Starting Life in Another World- Season 4](https://anilist.co/anime/189046) (09:51 16 April 2026)
 -   📖 Read chapter 197 of [Pick Me Up](https://anilist.co/manga/159441) (22:44 15 April 2026)
--   📺 Watched episode 6 of [Classroom of the Elite 4th Season: Second Year, First Semester](https://anilist.co/anime/180745) (15:17 15 April 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
