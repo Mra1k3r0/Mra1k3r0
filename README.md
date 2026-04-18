@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 2 - 3 of [Jack-of-All-Trades, Party of None](https://anilist.co/anime/187264) (12:42 18 April 2026)
+-   📺 Watched episode 2 - 4 of [Jack-of-All-Trades, Party of None](https://anilist.co/anime/187264) (14:29 18 April 2026)
 -   📖 Read chapter 52 of [The Villain's Survival Route](https://anilist.co/manga/187427) (00:40 18 April 2026)
 -   📖 Read chapter 308 of [Nano Machine](https://anilist.co/manga/120980) (00:35 18 April 2026)
 -   📺 Watched episode 1 of [Jack-of-All-Trades, Party of None](https://anilist.co/anime/187264) (15:51 17 April 2026)
