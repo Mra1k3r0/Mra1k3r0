@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 of [Jack-of-All-Trades, Party of None](https://anilist.co/anime/187264) (12:16 18 April 2026)
 -   📖 Read chapter 52 of [The Villain's Survival Route](https://anilist.co/manga/187427) (00:40 18 April 2026)
 -   📖 Read chapter 308 of [Nano Machine](https://anilist.co/manga/120980) (00:35 18 April 2026)
 -   📺 Watched episode 1 of [Jack-of-All-Trades, Party of None](https://anilist.co/anime/187264) (15:51 17 April 2026)
 -   📖 Read chapter 1 - 19 of [Sesange Nappeun Yeongaeneun Eopda](https://anilist.co/manga/206766) (02:27 17 April 2026)
--   📖 Read chapter 31 of [The Patron of Villains](https://anilist.co/manga/201009) (23:41 16 April 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
