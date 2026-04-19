@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 5 of [Jack-of-All-Trades, Party of None](https://anilist.co/anime/187264) (06:09 19 April 2026)
 -   📖 Read chapter 20 - 21 of [There's No Such Thing as a Bad Lady](https://anilist.co/manga/206766) (00:43 19 April 2026)
 -   📖 Read chapter 117 of [Reincarnated Murim Lord](https://anilist.co/manga/176790) (00:35 19 April 2026)
 -   📖 Read chapter 94 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (00:28 19 April 2026)
 -   📖 Read chapter 174 of [Cheonhwa Archive's Young Master](https://anilist.co/manga/160693) (00:15 19 April 2026)
--   📺 Watched episode 2 - 4 of [Jack-of-All-Trades, Party of None](https://anilist.co/anime/187264) (14:29 18 April 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
