@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 86 of [Illusion Hunter from Another World](https://anilist.co/manga/186503) (12:36 20 April 2026)
 -   📖 Read chapter 57 - 58 of [The Genius Swordsman of Mount Hua](https://anilist.co/manga/188155) (07:11 20 April 2026)
 -   📖 Read chapter 69 of [Black Haze](https://anilist.co/manga/187169) (06:55 20 April 2026)
 -   📖 Read chapter 159 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (01:31 20 April 2026)
 -   📺 Completed [Jack-of-All-Trades, Party of None](https://anilist.co/anime/187264) (11:42 19 April 2026)
--   📺 Watched episode 5 - 12 of [Jack-of-All-Trades, Party of None](https://anilist.co/anime/187264) (09:01 19 April 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
