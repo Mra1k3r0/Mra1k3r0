@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 159 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (01:31 20 April 2026)
 -   📺 Completed [Jack-of-All-Trades, Party of None](https://anilist.co/anime/187264) (11:42 19 April 2026)
 -   📺 Watched episode 5 - 12 of [Jack-of-All-Trades, Party of None](https://anilist.co/anime/187264) (09:01 19 April 2026)
 -   📖 Read chapter 20 - 21 of [There's No Such Thing as a Bad Lady](https://anilist.co/manga/206766) (00:43 19 April 2026)
 -   📖 Read chapter 117 of [Reincarnated Murim Lord](https://anilist.co/manga/176790) (00:35 19 April 2026)
--   📖 Read chapter 94 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (00:28 19 April 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
