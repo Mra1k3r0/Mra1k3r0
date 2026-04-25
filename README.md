@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 32 of [The Patron of Villains](https://anilist.co/manga/201009) (04:09 25 April 2026)
+-   📖 Read chapter 30 - 34 of [Survival-ro Segye Choegang](https://anilist.co/manga/191819) (04:06 25 April 2026)
 -   📖 Read chapter 26 - 29 of [Survival-ro Segye Choegang](https://anilist.co/manga/191819) (13:14 24 April 2026)
 -   📖 Read chapter 118 of [Reincarnated Murim Lord](https://anilist.co/manga/176790) (13:10 24 April 2026)
 -   📖 Read chapter 144 of [Time-Limited Genius Dark Knight](https://anilist.co/manga/165182) (04:34 23 April 2026)
--   📖 Read chapter 309 of [Nano Machine](https://anilist.co/manga/120980) (04:23 23 April 2026)
--   📖 Read chapter 198 of [Pick Me Up](https://anilist.co/manga/159441) (04:17 23 April 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
