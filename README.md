@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 24 - 25 of [A Wimp’s Tower Strategy Guide](https://anilist.co/manga/203958) (04:50 29 April 2026)
 -   📖 Read chapter 155 of [The Novel's Extra](https://anilist.co/manga/152128) (02:16 28 April 2026)
 -   📖 Read chapter 160 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (17:57 26 April 2026)
 -   📖 Read chapter 70 of [Black Haze](https://anilist.co/manga/187169) (17:49 26 April 2026)
 -   📖 Read chapter 35 - 37 of [Survival-ro Segye Choegang](https://anilist.co/manga/191819) (06:20 26 April 2026)
--   📖 Read chapter 32 of [The Patron of Villains](https://anilist.co/manga/201009) (04:09 25 April 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
