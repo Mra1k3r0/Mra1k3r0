@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 3 - 4 of [Re:ZERO -Starting Life in Another World- Season 4](https://anilist.co/anime/189046) (05:00 30 April 2026)
+-   📖 Read chapter 26 of [A Wimp’s Tower Strategy Guide](https://anilist.co/manga/203958) (03:12 30 April 2026)
+-   📖 Read chapter 59 - 60 of [The Genius Swordsman of Mount Hua](https://anilist.co/manga/188155) (03:02 30 April 2026)
+-   📖 Read chapter 310 of [Nano Machine](https://anilist.co/manga/120980) (02:53 30 April 2026)
 -   📖 Read chapter 199 of [Pick Me Up](https://anilist.co/manga/159441) (00:39 30 April 2026)
--   📺 Watched episode 7 - 8 of [Classroom of the Elite 4th Season: Second Year, First Semester](https://anilist.co/anime/180745) (15:42 29 April 2026)
--   📖 Read chapter 1 - 5 of [Modeungeol Gieokaneun Cheonjaemusa](https://anilist.co/manga/211415) (13:19 29 April 2026)
--   📖 Plans to read [Modeungeol Gieokaneun Cheonjaemusa](https://anilist.co/manga/211415) (12:39 29 April 2026)
--   📖 Read chapter 24 - 25 of [A Wimp’s Tower Strategy Guide](https://anilist.co/manga/203958) (04:50 29 April 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
