@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 33 of [The Patron of Villains](https://anilist.co/manga/201009) (04:24 03 May 2026)
+-   📖 Read chapter 38 of [Survival-ro Segye Choegang](https://anilist.co/manga/191819) (03:51 03 May 2026)
+-   📖 Read chapter 167 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (03:49 03 May 2026)
 -   📖 Read chapter 166 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (01:50 02 May 2026)
 -   📖 Read chapter 34 of [Superhuman Streamer](https://anilist.co/manga/202499) (10:43 30 April 2026)
--   📺 Watched episode 3 - 4 of [Re:ZERO -Starting Life in Another World- Season 4](https://anilist.co/anime/189046) (05:00 30 April 2026)
--   📖 Read chapter 26 of [A Wimp’s Tower Strategy Guide](https://anilist.co/manga/203958) (03:12 30 April 2026)
--   📖 Read chapter 59 - 60 of [The Genius Swordsman of Mount Hua](https://anilist.co/manga/188155) (03:02 30 April 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
