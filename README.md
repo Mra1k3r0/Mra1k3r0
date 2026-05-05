@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 71 of [Black Haze](https://anilist.co/manga/187169) (07:25 05 May 2026)
+-   📖 Read chapter 95 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (07:22 05 May 2026)
 -   📖 Read chapter 40 - 41 of [Rebirth of the Divine Demon](https://anilist.co/manga/199222) (06:57 05 May 2026)
 -   📖 Read chapter 156 of [The Novel's Extra](https://anilist.co/manga/152128) (23:16 04 May 2026)
 -   📖 Read chapter 6 of [Modeungeol Gieokaneun Cheonjaemusa](https://anilist.co/manga/211415) (00:44 04 May 2026)
--   📖 Read chapter 119 of [Reincarnated Murim Lord](https://anilist.co/manga/176790) (23:59 03 May 2026)
--   📖 Read chapter 161 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (16:23 03 May 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
