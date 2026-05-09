@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 76 - 80 of [The Heavenly Demon Wants a Quiet Life](https://anilist.co/manga/185816) (02:32 09 May 2026)
 -   📖 Read chapter 35 of [Superhuman Streamer](https://anilist.co/manga/202499) (01:18 08 May 2026)
 -   📖 Read chapter 61 of [The Genius Swordsman of Mount Hua](https://anilist.co/manga/188155) (01:11 08 May 2026)
 -   📖 Read chapter 34 of [The Patron of Villains](https://anilist.co/manga/201009) (01:06 08 May 2026)
 -   📺 Watched episode 5 of [Re:ZERO -Starting Life in Another World- Season 4](https://anilist.co/anime/189046) (12:38 07 May 2026)
--   📺 Watched episode 9 of [Classroom of the Elite 4th Season: Second Year, First Semester](https://anilist.co/anime/180745) (03:36 07 May 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
