@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 176 of [Cheonhwa Archive's Young Master](https://anilist.co/manga/160693) (12:01 10 May 2026)
+-   📖 Read chapter 162 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (00:19 11 May 2026)
+-   📖 Read chapter 176 - 178 of [Cheonhwa Archive's Young Master](https://anilist.co/manga/160693) (00:06 11 May 2026)
 -   📖 Read chapter 96 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (03:50 10 May 2026)
 -   📖 Read chapter 168 of [The Academy's Undercover Professor](https://anilist.co/manga/150836) (21:37 09 May 2026)
 -   📖 Read chapter 76 - 80 of [The Heavenly Demon Wants a Quiet Life](https://anilist.co/manga/185816) (02:32 09 May 2026)
--   📖 Read chapter 35 of [Superhuman Streamer](https://anilist.co/manga/202499) (01:18 08 May 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
