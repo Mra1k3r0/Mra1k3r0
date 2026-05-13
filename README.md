@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 72 of [Black Haze](https://anilist.co/manga/187169) (23:43 13 May 2026)
+-   📖 Read chapter 312 of [Nano Machine](https://anilist.co/manga/120980) (23:34 13 May 2026)
+-   📖 Read chapter 201 of [Pick Me Up](https://anilist.co/manga/159441) (23:29 13 May 2026)
 -   📖 Read chapter 158 - 163 of [The Grand Mudang Saga](https://anilist.co/manga/127783) (16:00 13 May 2026)
 -   📖 Read chapter 42 - 43 of [Rebirth of the Divine Demon](https://anilist.co/manga/199222) (02:19 13 May 2026)
--   📖 Read chapter 62 of [The Genius Swordsman of Mount Hua](https://anilist.co/manga/188155) (02:06 13 May 2026)
--   📖 Read chapter 120 - 121 of [Reincarnated Murim Lord](https://anilist.co/manga/176790) (11:29 11 May 2026)
--   📖 Read chapter 162 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (00:19 11 May 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
