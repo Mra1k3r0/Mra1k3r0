@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 36 of [Superhuman Streamer](https://anilist.co/manga/202499) (03:50 16 May 2026)
 -   📺 Watched episode 10 of [Classroom of the Elite 4th Season: Second Year, First Semester](https://anilist.co/anime/180745) (12:41 14 May 2026)
 -   📖 Read chapter 179 of [Cheonhwa Archive's Young Master](https://anilist.co/manga/160693) (23:54 13 May 2026)
 -   📖 Read chapter 72 of [Black Haze](https://anilist.co/manga/187169) (23:43 13 May 2026)
 -   📖 Read chapter 312 of [Nano Machine](https://anilist.co/manga/120980) (23:34 13 May 2026)
--   📖 Read chapter 201 of [Pick Me Up](https://anilist.co/manga/159441) (23:29 13 May 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
