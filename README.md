@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 35 of [The Patron of Villains](https://anilist.co/manga/201009) (00:25 17 May 2026)
 -   📖 Read chapter 97 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (23:07 16 May 2026)
 -   📖 Read chapter 63 of [The Genius Swordsman of Mount Hua](https://anilist.co/manga/188155) (23:01 16 May 2026)
 -   📖 Read chapter 36 of [Superhuman Streamer](https://anilist.co/manga/202499) (03:50 16 May 2026)
 -   📺 Watched episode 10 of [Classroom of the Elite 4th Season: Second Year, First Semester](https://anilist.co/anime/180745) (12:41 14 May 2026)
--   📖 Read chapter 179 of [Cheonhwa Archive's Young Master](https://anilist.co/manga/160693) (23:54 13 May 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
