@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 7 of [Modeungeol Gieokaneun Cheonjaemusa](https://anilist.co/manga/211415) (14:11 18 May 2026)
 -   📖 Read chapter 122 of [Reincarnated Murim Lord](https://anilist.co/manga/176790) (22:12 17 May 2026)
 -   📖 Read chapter 163 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (22:05 17 May 2026)
 -   📺 Watched episode 6 of [Re:ZERO -Starting Life in Another World- Season 4](https://anilist.co/anime/189046) (07:01 17 May 2026)
 -   📖 Read chapter 35 of [The Patron of Villains](https://anilist.co/manga/201009) (00:25 17 May 2026)
--   📖 Read chapter 97 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (23:07 16 May 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
