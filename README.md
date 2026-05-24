@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 11 - 301 of [Release that Witch](https://anilist.co/manga/108152) (14:49 24 May 2026)
+-   📖 Read chapter 11 - 303 of [Release that Witch](https://anilist.co/manga/108152) (16:11 24 May 2026)
 -   📖 Read chapter 11 - 52 of [Release that Witch](https://anilist.co/manga/108152) (09:00 20 May 2026)
 -   📖 Read chapter 1 - 10 of [Release that Witch](https://anilist.co/manga/108152) (10:43 19 May 2026)
 -   📖 Plans to read [Release that Witch](https://anilist.co/manga/108152) (08:50 19 May 2026)
