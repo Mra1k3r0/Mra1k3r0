@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 64 - 65 of [The Genius Swordsman of Mount Hua](https://anilist.co/manga/188155) (11:45 01 June 2026)
+-   📖 Read chapter 181 - 182 of [Cheonhwa Archive's Young Master](https://anilist.co/manga/160693) (19:11 01 June 2026)
+-   📖 Read chapter 64 - 66 of [The Genius Swordsman of Mount Hua](https://anilist.co/manga/188155) (19:00 01 June 2026)
 -   📖 Read chapter 123 - 124 of [Reincarnated Murim Lord](https://anilist.co/manga/176790) (11:20 01 June 2026)
 -   📖 Read chapter 10 - 11 of [Modeungeol Gieokaneun Cheonjaemusa](https://anilist.co/manga/211415) (08:35 01 June 2026)
 -   📖 Read chapter 158 of [The Novel's Extra](https://anilist.co/manga/152128) (08:24 01 June 2026)
--   📖 Read chapter 202 - 203 of [Pick Me Up](https://anilist.co/manga/159441) (01:16 01 June 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
