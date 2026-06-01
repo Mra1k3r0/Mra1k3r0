@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 202 - 203 of [Pick Me Up](https://anilist.co/manga/159441) (01:16 01 June 2026)
+-   📖 Read chapter 164 - 165 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (00:52 01 June 2026)
 -   📖 Read chapter 322 - 425 of [Release that Witch](https://anilist.co/manga/108152) (15:41 31 May 2026)
 -   📖 Read chapter 316 - 321 of [Release that Witch](https://anilist.co/manga/108152) (04:01 28 May 2026)
 -   📖 Read chapter 313 - 315 of [Release that Witch](https://anilist.co/manga/108152) (01:12 27 May 2026)
--   📖 Read chapter 11 - 312 of [Release that Witch](https://anilist.co/manga/108152) (01:14 26 May 2026)
--   📖 Read chapter 11 - 52 of [Release that Witch](https://anilist.co/manga/108152) (09:00 20 May 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
