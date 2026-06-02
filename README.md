@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 426 - 432 of [Release that Witch](https://anilist.co/manga/108152) (05:18 02 June 2026)
+-   📖 Read chapter 159 of [The Novel's Extra](https://anilist.co/manga/152128) (01:36 02 June 2026)
 -   📖 Read chapter 181 - 182 of [Cheonhwa Archive's Young Master](https://anilist.co/manga/160693) (19:11 01 June 2026)
 -   📖 Read chapter 64 - 66 of [The Genius Swordsman of Mount Hua](https://anilist.co/manga/188155) (19:00 01 June 2026)
 -   📖 Read chapter 123 - 124 of [Reincarnated Murim Lord](https://anilist.co/manga/176790) (11:20 01 June 2026)
--   📖 Read chapter 10 - 11 of [Modeungeol Gieokaneun Cheonjaemusa](https://anilist.co/manga/211415) (08:35 01 June 2026)
--   📖 Read chapter 158 of [The Novel's Extra](https://anilist.co/manga/152128) (08:24 01 June 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
