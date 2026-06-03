@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 478 - 503 of [Release that Witch](https://anilist.co/manga/108152) (06:04 03 June 2026)
+-   📖 Read chapter 478 - 513 of [Release that Witch](https://anilist.co/manga/108152) (12:08 03 June 2026)
 -   📖 Read chapter 426 - 477 of [Release that Witch](https://anilist.co/manga/108152) (10:08 02 June 2026)
 -   📖 Read chapter 159 of [The Novel's Extra](https://anilist.co/manga/152128) (01:36 02 June 2026)
 -   📖 Read chapter 181 - 182 of [Cheonhwa Archive's Young Master](https://anilist.co/manga/160693) (19:11 01 June 2026)
