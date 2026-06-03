@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 478 - 553 of [Release that Witch](https://anilist.co/manga/108152) (15:14 03 June 2026)
+-   📖 Read chapter 478 - 554 of [Release that Witch](https://anilist.co/manga/108152) (22:52 03 June 2026)
+-   📖 Read chapter 204 of [Pick Me Up](https://anilist.co/manga/159441) (22:41 03 June 2026)
 -   📖 Read chapter 426 - 477 of [Release that Witch](https://anilist.co/manga/108152) (10:08 02 June 2026)
 -   📖 Read chapter 159 of [The Novel's Extra](https://anilist.co/manga/152128) (01:36 02 June 2026)
 -   📖 Read chapter 181 - 182 of [Cheonhwa Archive's Young Master](https://anilist.co/manga/160693) (19:11 01 June 2026)
--   📖 Read chapter 64 - 66 of [The Genius Swordsman of Mount Hua](https://anilist.co/manga/188155) (19:00 01 June 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
