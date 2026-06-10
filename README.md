@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 562 - 566 of [Release that Witch](https://anilist.co/manga/108152) (06:48 10 June 2026)
 -   📖 Read chapter 6 - 10 of [Classmate](https://anilist.co/manga/197889) (14:43 09 June 2026)
 -   📖 Read chapter 160 of [The Novel's Extra](https://anilist.co/manga/152128) (00:23 09 June 2026)
 -   📖 Read chapter 67 of [The Genius Swordsman of Mount Hua](https://anilist.co/manga/188155) (15:42 08 June 2026)
 -   📖 Read chapter 164 - 166 of [The Grand Mudang Saga](https://anilist.co/manga/127783) (12:05 08 June 2026)
--   📖 Read chapter 125 of [Reincarnated Murim Lord](https://anilist.co/manga/176790) (03:09 08 June 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
