@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 64 of [The Legendary Hero is an Academy Honors Student](https://anilist.co/manga/185979) (12:41 12 June 2026)
+-   📖 Read chapter 1 - 77 of [The Legendary Hero is an Academy Honors Student](https://anilist.co/manga/185979) (15:50 12 June 2026)
 -   📖 Plans to read [The Legendary Hero is an Academy Honors Student](https://anilist.co/manga/185979) (12:34 11 June 2026)
 -   📖 Read chapter 81 - 85 of [The Heavenly Demon Wants a Quiet Life](https://anilist.co/manga/185816) (23:50 10 June 2026)
 -   📖 Read chapter 205 of [Pick Me Up](https://anilist.co/manga/159441) (23:14 10 June 2026)
