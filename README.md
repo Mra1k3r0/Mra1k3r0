@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 45 - 46 of [Rebirth of the Divine Demon](https://anilist.co/manga/199222) (17:06 13 June 2026)
+-   📖 Read chapter 45 - 48 of [Rebirth of the Divine Demon](https://anilist.co/manga/199222) (17:53 13 June 2026)
 -   📖 Read chapter 36 - 39 of [The Patron of Villains](https://anilist.co/manga/201009) (15:50 13 June 2026)
 -   📖 Read chapter 78 - 89 of [The Legendary Hero is an Academy Honors Student](https://anilist.co/manga/185979) (06:06 13 June 2026)
 -   📖 Read chapter 1 - 77 of [The Legendary Hero is an Academy Honors Student](https://anilist.co/manga/185979) (15:50 12 June 2026)
