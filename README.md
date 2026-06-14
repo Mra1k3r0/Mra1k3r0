@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 13 of [Modeungeol Gieokaneun Cheonjaemusa](https://anilist.co/manga/211415) (04:52 14 June 2026)
 -   📖 Read chapter 45 - 48 of [Rebirth of the Divine Demon](https://anilist.co/manga/199222) (17:53 13 June 2026)
 -   📖 Read chapter 36 - 39 of [The Patron of Villains](https://anilist.co/manga/201009) (15:50 13 June 2026)
 -   📖 Read chapter 78 - 89 of [The Legendary Hero is an Academy Honors Student](https://anilist.co/manga/185979) (06:06 13 June 2026)
 -   📖 Read chapter 1 - 77 of [The Legendary Hero is an Academy Honors Student](https://anilist.co/manga/185979) (15:50 12 June 2026)
--   📖 Plans to read [The Legendary Hero is an Academy Honors Student](https://anilist.co/manga/185979) (12:34 11 June 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
