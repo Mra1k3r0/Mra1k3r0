@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 63 of [Chronicles of a Doomed Prodigy](https://anilist.co/manga/183376) (05:20 18 June 2026)
+-   📖 Read chapter 86 of [The Heavenly Demon Wants a Quiet Life](https://anilist.co/manga/185816) (05:12 18 June 2026)
 -   📖 Read chapter 206 of [Pick Me Up](https://anilist.co/manga/159441) (19:04 17 June 2026)
 -   📖 Read chapter 68 of [The Genius Swordsman of Mount Hua](https://anilist.co/manga/188155) (01:56 16 June 2026)
 -   📖 Read chapter 161 of [The Novel's Extra](https://anilist.co/manga/152128) (01:46 16 June 2026)
--   📖 Read chapter 126 of [Reincarnated Murim Lord](https://anilist.co/manga/176790) (04:04 15 June 2026)
--   📖 Read chapter 167 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (18:24 14 June 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
