@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 - 10 of [That Time I Got Reincarnated as a Slime Season 4](https://anilist.co/anime/182205) (09:54 19 June 2026)
 -   📖 Read chapter 1 - 7 of [Geomjega Namgungsegareul Seuneun Beop](https://anilist.co/manga/213323) (02:31 19 June 2026)
 -   📖 Plans to read [Geomjega Namgungsegareul Seuneun Beop](https://anilist.co/manga/213323) (01:03 19 June 2026)
 -   📖 Read chapter 40 of [The Patron of Villains](https://anilist.co/manga/201009) (00:57 19 June 2026)
 -   📺 Watched episode 15 of [Classroom of the Elite 4th Season: Second Year, First Semester](https://anilist.co/anime/180745) (13:48 18 June 2026)
--   📖 Read chapter 63 - 81 of [Chronicles of a Doomed Prodigy](https://anilist.co/manga/183376) (10:56 18 June 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
