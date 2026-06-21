@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 168 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (19:01 21 June 2026)
 -   📖 Read chapter 53 - 57 of [The Villain's Survival Route](https://anilist.co/manga/187427) (09:03 21 June 2026)
 -   📖 Read chapter 91 of [The Legendary Hero is an Academy Honors Student](https://anilist.co/manga/185979) (05:44 21 June 2026)
 -   📖 Read chapter 73 - 78 of [Black Haze](https://anilist.co/manga/187169) (01:26 21 June 2026)
 -   📺 Watched episode 1 - 10 of [B: The Beginning](https://anilist.co/anime/21665) (17:12 20 June 2026)
--   📺 Watched episode 11 of [That Time I Got Reincarnated as a Slime Season 4](https://anilist.co/anime/182205) (03:47 20 June 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
