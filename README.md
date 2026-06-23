@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 162 of [The Novel's Extra](https://anilist.co/manga/152128) (04:21 23 June 2026)
 -   📖 Read chapter 69 of [The Genius Swordsman of Mount Hua](https://anilist.co/manga/188155) (16:27 22 June 2026)
 -   📖 Read chapter 14 of [Modeungeol Gieokaneun Cheonjaemusa](https://anilist.co/manga/211415) (14:51 22 June 2026)
 -   📖 Read chapter 168 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (19:01 21 June 2026)
 -   📖 Read chapter 53 - 57 of [The Villain's Survival Route](https://anilist.co/manga/187427) (09:03 21 June 2026)
--   📖 Read chapter 91 of [The Legendary Hero is an Academy Honors Student](https://anilist.co/manga/185979) (05:44 21 June 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
