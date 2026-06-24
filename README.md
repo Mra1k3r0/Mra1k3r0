@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 207 of [Pick Me Up](https://anilist.co/manga/159441) (17:45 24 June 2026)
 -   📺 Watched episode 16 of [Classroom of the Elite 4th Season: Second Year, First Semester](https://anilist.co/anime/180745) (14:16 24 June 2026)
 -   📖 Read chapter 25 of [The Shepherd Wizard](https://anilist.co/manga/208208) (10:32 24 June 2026)
 -   📖 Read chapter 22 of [Life of a Demon Hunter](https://anilist.co/manga/208364) (18:43 23 June 2026)
 -   📖 Read chapter 162 of [The Novel's Extra](https://anilist.co/manga/152128) (04:21 23 June 2026)
--   📖 Read chapter 69 of [The Genius Swordsman of Mount Hua](https://anilist.co/manga/188155) (16:27 22 June 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
