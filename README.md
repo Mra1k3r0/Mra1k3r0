@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 81 - 86 of [The 100th Regression of the Max-Level Player](https://anilist.co/manga/170894) (06:35 25 June 2026)
+-   📖 Read chapter 81 - 88 of [The 100th Regression of the Max-Level Player](https://anilist.co/manga/170894) (06:45 25 June 2026)
 -   📖 Read chapter 207 of [Pick Me Up](https://anilist.co/manga/159441) (17:45 24 June 2026)
 -   📺 Watched episode 16 of [Classroom of the Elite 4th Season: Second Year, First Semester](https://anilist.co/anime/180745) (14:16 24 June 2026)
 -   📖 Read chapter 25 of [The Shepherd Wizard](https://anilist.co/manga/208208) (10:32 24 June 2026)
