@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 82 of [Chronicles of a Doomed Prodigy](https://anilist.co/manga/183376) (06:14 26 June 2026)
+-   📖 Read chapter 41 of [The Patron of Villains](https://anilist.co/manga/201009) (06:06 26 June 2026)
 -   📖 Read chapter 81 - 88 of [The 100th Regression of the Max-Level Player](https://anilist.co/manga/170894) (06:45 25 June 2026)
 -   📖 Read chapter 207 of [Pick Me Up](https://anilist.co/manga/159441) (17:45 24 June 2026)
 -   📺 Watched episode 16 of [Classroom of the Elite 4th Season: Second Year, First Semester](https://anilist.co/anime/180745) (14:16 24 June 2026)
--   📖 Read chapter 25 of [The Shepherd Wizard](https://anilist.co/manga/208208) (10:32 24 June 2026)
--   📖 Read chapter 22 of [Life of a Demon Hunter](https://anilist.co/manga/208364) (18:43 23 June 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
