@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 23 of [Life of a Demon Hunter](https://anilist.co/manga/208364) (04:00 27 June 2026)
 -   📖 Read chapter 127 of [Reincarnated Murim Lord](https://anilist.co/manga/176790) (19:41 26 June 2026)
 -   📖 Read chapter 50 of [Rebirth of the Divine Demon](https://anilist.co/manga/199222) (19:34 26 June 2026)
 -   📺 Watched episode 12 of [That Time I Got Reincarnated as a Slime Season 4](https://anilist.co/anime/182205) (19:03 26 June 2026)
 -   📖 Read chapter 82 of [Chronicles of a Doomed Prodigy](https://anilist.co/manga/183376) (06:14 26 June 2026)
--   📖 Read chapter 41 of [The Patron of Villains](https://anilist.co/manga/201009) (06:06 26 June 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
