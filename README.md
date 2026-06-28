@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 154 - 176 of [66,666 Years: Advent of the Dark Mage](https://anilist.co/manga/137595) (06:44 28 June 2026)
 -   📖 Read chapter 15 of [Modeungeol Gieokaneun Cheonjaemusa](https://anilist.co/manga/211415) (18:41 27 June 2026)
 -   📖 Read chapter 92 of [The Legendary Hero is an Academy Honors Student](https://anilist.co/manga/185979) (18:19 27 June 2026)
 -   📺 Watched episode 1 - 2 of [Lord of Mysteries Specials](https://anilist.co/anime/199448) (07:33 27 June 2026)
 -   📺 Completed [Classroom of the Elite 4th Season: Second Year, First Semester](https://anilist.co/anime/180745) (06:27 27 June 2026)
--   📖 Read chapter 23 of [Life of a Demon Hunter](https://anilist.co/manga/208364) (04:00 27 June 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
