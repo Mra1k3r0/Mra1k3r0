@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 83 of [Chronicles of a Doomed Prodigy](https://anilist.co/manga/183376) (03:06 29 June 2026)
+-   📖 Read chapter 128 of [Reincarnated Murim Lord](https://anilist.co/manga/176790) (02:54 29 June 2026)
+-   📖 Read chapter 169 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (02:45 29 June 2026)
 -   📺 Watched episode 3 of [Lord of Mysteries Specials](https://anilist.co/anime/199448) (18:01 28 June 2026)
 -   📺 Watched episode 1 - 6 of [Medaka Box](https://anilist.co/anime/11761) (17:58 28 June 2026)
--   📖 Read chapter 154 - 188 of [66,666 Years: Advent of the Dark Mage](https://anilist.co/manga/137595) (07:42 28 June 2026)
--   📖 Read chapter 15 of [Modeungeol Gieokaneun Cheonjaemusa](https://anilist.co/manga/211415) (18:41 27 June 2026)
--   📖 Read chapter 92 of [The Legendary Hero is an Academy Honors Student](https://anilist.co/manga/185979) (18:19 27 June 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
