@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Lord of Mysteries Specials](https://anilist.co/anime/199448) (17:34 01 July 2026)
+-   📖 Read chapter 208 of [Pick Me Up](https://anilist.co/manga/159441) (17:10 01 July 2026)
 -   📖 Read chapter 87 of [The Heavenly Demon Wants a Quiet Life](https://anilist.co/manga/185816) (12:04 01 July 2026)
 -   📖 Read chapter 89 of [The 100th Regression of the Max-Level Player](https://anilist.co/manga/170894) (11:59 01 July 2026)
 -   📖 Read chapter 189 of [66,666 Years: Advent of the Dark Mage](https://anilist.co/manga/137595) (11:53 01 July 2026)
--   📖 Read chapter 26 of [The Shepherd Wizard](https://anilist.co/manga/208208) (11:45 01 July 2026)
--   📖 Read chapter 70 of [The Genius Swordsman of Mount Hua](https://anilist.co/manga/188155) (03:21 30 June 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
