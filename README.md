@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 313 - 315 of [Nano Machine](https://anilist.co/manga/120980) (04:47 02 July 2026)
 -   📺 Completed [Lord of Mysteries Specials](https://anilist.co/anime/199448) (17:34 01 July 2026)
 -   📖 Read chapter 208 of [Pick Me Up](https://anilist.co/manga/159441) (17:10 01 July 2026)
 -   📖 Read chapter 87 of [The Heavenly Demon Wants a Quiet Life](https://anilist.co/manga/185816) (12:04 01 July 2026)
 -   📖 Read chapter 89 of [The 100th Regression of the Max-Level Player](https://anilist.co/manga/170894) (11:59 01 July 2026)
--   📖 Read chapter 189 of [66,666 Years: Advent of the Dark Mage](https://anilist.co/manga/137595) (11:53 01 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
