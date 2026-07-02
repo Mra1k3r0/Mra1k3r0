@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 313 - 315 of [Nano Machine](https://anilist.co/manga/120980) (04:47 02 July 2026)
+-   📖 Read chapter 32 of [Nigoru Hitomi de Nani wo Negau: Highserk Senki](https://anilist.co/manga/145369) (05:53 02 July 2026)
+-   📖 Read chapter 29 of [Tsuihou Sareru Tabi ni Skill wo te ni Ireta Ore ga, 100 no Isekai de 2-shuume Musou](https://anilist.co/manga/159212) (05:34 02 July 2026)
+-   📖 Read chapter 313 - 319 of [Nano Machine](https://anilist.co/manga/120980) (05:09 02 July 2026)
 -   📺 Completed [Lord of Mysteries Specials](https://anilist.co/anime/199448) (17:34 01 July 2026)
 -   📖 Read chapter 208 of [Pick Me Up](https://anilist.co/manga/159441) (17:10 01 July 2026)
--   📖 Read chapter 87 of [The Heavenly Demon Wants a Quiet Life](https://anilist.co/manga/185816) (12:04 01 July 2026)
--   📖 Read chapter 89 of [The 100th Regression of the Max-Level Player](https://anilist.co/manga/170894) (11:59 01 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
