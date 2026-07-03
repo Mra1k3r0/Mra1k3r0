@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 51 of [Rebirth of the Divine Demon](https://anilist.co/manga/199222) (07:24 03 July 2026)
 -   📖 Plans to read [Dokushin Kizoku wa Isekai wo Ouka suru: Kekkon shinai Otoko no Yuuga na Ohitorisama Life](https://anilist.co/manga/176600) (11:29 02 July 2026)
 -   📖 Read chapter 32 of [Nigoru Hitomi de Nani wo Negau: Highserk Senki](https://anilist.co/manga/145369) (05:53 02 July 2026)
 -   📖 Read chapter 29 of [Tsuihou Sareru Tabi ni Skill wo te ni Ireta Ore ga, 100 no Isekai de 2-shuume Musou](https://anilist.co/manga/159212) (05:34 02 July 2026)
 -   📖 Read chapter 313 - 319 of [Nano Machine](https://anilist.co/manga/120980) (05:09 02 July 2026)
--   📺 Completed [Lord of Mysteries Specials](https://anilist.co/anime/199448) (17:34 01 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
