@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 15 of [Dokushin Kizoku wa Isekai wo Ouka suru: Kekkon shinai Otoko no Yuuga na Ohitorisama Life](https://anilist.co/manga/176600) (17:57 03 July 2026)
+-   📖 Read chapter 1 - 18 of [Dokushin Kizoku wa Isekai wo Ouka suru: Kekkon shinai Otoko no Yuuga na Ohitorisama Life](https://anilist.co/manga/176600) (04:17 04 July 2026)
 -   📖 Read chapter 15 - 16 of [Geomjega Namgungsegareul Seuneun Beop](https://anilist.co/manga/213323) (08:16 03 July 2026)
 -   📖 Read chapter 51 of [Rebirth of the Divine Demon](https://anilist.co/manga/199222) (07:24 03 July 2026)
 -   📖 Plans to read [Dokushin Kizoku wa Isekai wo Ouka suru: Kekkon shinai Otoko no Yuuga na Ohitorisama Life](https://anilist.co/manga/176600) (11:29 02 July 2026)
