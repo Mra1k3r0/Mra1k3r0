@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 22 of [Dokushin Kizoku wa Isekai wo Ouka suru: Kekkon shinai Otoko no Yuuga na Ohitorisama Life](https://anilist.co/manga/176600) (07:55 04 July 2026)
+-   📖 Read chapter 1 - 26 of [Dokushin Kizoku wa Isekai wo Ouka suru: Kekkon shinai Otoko no Yuuga na Ohitorisama Life](https://anilist.co/manga/176600) (09:09 04 July 2026)
+-   📖 Read chapter 24 of [Life of a Demon Hunter](https://anilist.co/manga/208364) (08:46 04 July 2026)
 -   📖 Read chapter 15 - 16 of [Geomjega Namgungsegareul Seuneun Beop](https://anilist.co/manga/213323) (08:16 03 July 2026)
 -   📖 Read chapter 51 of [Rebirth of the Divine Demon](https://anilist.co/manga/199222) (07:24 03 July 2026)
 -   📖 Plans to read [Dokushin Kizoku wa Isekai wo Ouka suru: Kekkon shinai Otoko no Yuuga na Ohitorisama Life](https://anilist.co/manga/176600) (11:29 02 July 2026)
--   📖 Read chapter 32 of [Nigoru Hitomi de Nani wo Negau: Highserk Senki](https://anilist.co/manga/145369) (05:53 02 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
