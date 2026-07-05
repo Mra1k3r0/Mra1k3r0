@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 27 - 32 of [Dokushin Kizoku wa Isekai wo Ouka suru: Kekkon shinai Otoko no Yuuga na Ohitorisama Life](https://anilist.co/manga/176600) (12:18 05 July 2026)
+-   📺 Watched episode 13 of [That Time I Got Reincarnated as a Slime Season 4](https://anilist.co/anime/182205) (17:46 05 July 2026)
+-   📖 Read chapter 27 - 34 of [Dokushin Kizoku wa Isekai wo Ouka suru: Kekkon shinai Otoko no Yuuga na Ohitorisama Life](https://anilist.co/manga/176600) (17:23 05 July 2026)
+-   📖 Read chapter 170 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (17:23 05 July 2026)
 -   📖 Read chapter 42 of [The Patron of Villains](https://anilist.co/manga/201009) (05:30 05 July 2026)
 -   📖 Read chapter 16 of [Modeungeol Gieokaneun Cheonjaemusa](https://anilist.co/manga/211415) (19:30 04 July 2026)
--   📖 Read chapter 93 of [The Legendary Hero is an Academy Honors Student](https://anilist.co/manga/185979) (19:07 04 July 2026)
--   📖 Read chapter 1 - 26 of [Dokushin Kizoku wa Isekai wo Ouka suru: Kekkon shinai Otoko no Yuuga na Ohitorisama Life](https://anilist.co/manga/176600) (09:09 04 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
