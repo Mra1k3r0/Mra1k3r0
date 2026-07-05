@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 27 of [Dokushin Kizoku wa Isekai wo Ouka suru: Kekkon shinai Otoko no Yuuga na Ohitorisama Life](https://anilist.co/manga/176600) (05:48 05 July 2026)
+-   📖 Read chapter 27 - 29 of [Dokushin Kizoku wa Isekai wo Ouka suru: Kekkon shinai Otoko no Yuuga na Ohitorisama Life](https://anilist.co/manga/176600) (06:00 05 July 2026)
 -   📖 Read chapter 42 of [The Patron of Villains](https://anilist.co/manga/201009) (05:30 05 July 2026)
 -   📖 Read chapter 16 of [Modeungeol Gieokaneun Cheonjaemusa](https://anilist.co/manga/211415) (19:30 04 July 2026)
 -   📖 Read chapter 93 of [The Legendary Hero is an Academy Honors Student](https://anilist.co/manga/185979) (19:07 04 July 2026)
