@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 169 of [The Grand Mudang Saga](https://anilist.co/manga/127783) (07:44 07 July 2026)
 -   📖 Read chapter 27 of [The Shepherd Wizard](https://anilist.co/manga/208208) (04:10 07 July 2026)
 -   📖 Read chapter 163 of [The Novel's Extra](https://anilist.co/manga/152128) (03:58 07 July 2026)
 -   📖 Read chapter 84 of [Chronicles of a Doomed Prodigy](https://anilist.co/manga/183376) (18:29 06 July 2026)
 -   📖 Read chapter 71 of [The Genius Swordsman of Mount Hua](https://anilist.co/manga/188155) (18:27 06 July 2026)
--   📖 Read chapter 129 of [Reincarnated Murim Lord](https://anilist.co/manga/176790) (04:38 06 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
