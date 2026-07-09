@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Saga of Tanya the Evil Season 2](https://anilist.co/anime/135865) (05:27 09 July 2026)
 -   📖 Read chapter 190 of [66,666 Years: Advent of the Dark Mage](https://anilist.co/manga/137595) (03:24 09 July 2026)
 -   📖 Read chapter 320 of [Nano Machine](https://anilist.co/manga/120980) (17:22 08 July 2026)
 -   📖 Read chapter 88 of [The Heavenly Demon Wants a Quiet Life](https://anilist.co/manga/185816) (16:23 08 July 2026)
 -   📖 Read chapter 209 of [Pick Me Up](https://anilist.co/manga/159441) (16:17 08 July 2026)
--   📖 Read chapter 169 of [The Grand Mudang Saga](https://anilist.co/manga/127783) (07:44 07 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
