@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 25 of [Life of a Demon Hunter](https://anilist.co/manga/208364) (05:53 11 July 2026)
 -   📖 Read chapter 43 of [The Patron of Villains](https://anilist.co/manga/201009) (02:26 10 July 2026)
 -   📖 Read chapter 17 of [Geomjega Namgungsegareul Seuneun Beop](https://anilist.co/manga/213323) (02:07 10 July 2026)
 -   📖 Read chapter 52 of [Rebirth of the Divine Demon](https://anilist.co/manga/199222) (02:01 10 July 2026)
 -   📖 Read chapter 79 of [Black Haze](https://anilist.co/manga/187169) (15:55 09 July 2026)
--   📺 Watched episode 1 of [Saga of Tanya the Evil Season 2](https://anilist.co/anime/135865) (05:27 09 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
