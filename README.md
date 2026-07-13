@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 85 of [Chronicles of a Doomed Prodigy](https://anilist.co/manga/183376) (16:41 13 July 2026)
+-   📖 Read chapter 164 of [The Novel's Extra](https://anilist.co/manga/152128) (16:38 13 July 2026)
+-   📖 Read chapter 72 of [The Genius Swordsman of Mount Hua](https://anilist.co/manga/188155) (16:32 13 July 2026)
 -   📖 Read chapter 170 of [The Grand Mudang Saga](https://anilist.co/manga/127783) (16:26 13 July 2026)
 -   📖 Read chapter 171 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (19:10 12 July 2026)
--   📺 Watched episode 14 of [That Time I Got Reincarnated as a Slime Season 4](https://anilist.co/anime/182205) (05:29 12 July 2026)
--   📖 Read chapter 17 of [Modeungeol Gieokaneun Cheonjaemusa](https://anilist.co/manga/211415) (03:23 12 July 2026)
--   📖 Read chapter 94 of [The Legendary Hero is an Academy Honors Student](https://anilist.co/manga/185979) (03:07 12 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
