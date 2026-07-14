@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 130 of [Reincarnated Murim Lord](https://anilist.co/manga/176790) (04:41 14 July 2026)
 -   📖 Read chapter 85 of [Chronicles of a Doomed Prodigy](https://anilist.co/manga/183376) (16:41 13 July 2026)
 -   📖 Read chapter 164 of [The Novel's Extra](https://anilist.co/manga/152128) (16:38 13 July 2026)
 -   📖 Read chapter 72 of [The Genius Swordsman of Mount Hua](https://anilist.co/manga/188155) (16:32 13 July 2026)
 -   📖 Read chapter 170 of [The Grand Mudang Saga](https://anilist.co/manga/127783) (16:26 13 July 2026)
--   📖 Read chapter 171 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (19:10 12 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
