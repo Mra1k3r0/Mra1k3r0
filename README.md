@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 6 of [A Cadet Becomes a Prophet?!](https://anilist.co/manga/195458) (15:12 14 July 2026)
 -   📖 Plans to read [A Cadet Becomes a Prophet?!](https://anilist.co/manga/195458) (11:10 14 July 2026)
 -   📖 Read chapter 130 of [Reincarnated Murim Lord](https://anilist.co/manga/176790) (04:41 14 July 2026)
 -   📖 Read chapter 85 of [Chronicles of a Doomed Prodigy](https://anilist.co/manga/183376) (16:41 13 July 2026)
 -   📖 Read chapter 164 of [The Novel's Extra](https://anilist.co/manga/152128) (16:38 13 July 2026)
--   📖 Read chapter 72 of [The Genius Swordsman of Mount Hua](https://anilist.co/manga/188155) (16:32 13 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
