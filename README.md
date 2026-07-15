@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 210 of [Pick Me Up](https://anilist.co/manga/159441) (16:56 15 July 2026)
 -   📖 Read chapter 1 - 51 of [A Cadet Becomes a Prophet?!](https://anilist.co/manga/195458) (19:05 14 July 2026)
 -   📖 Plans to read [A Cadet Becomes a Prophet?!](https://anilist.co/manga/195458) (11:10 14 July 2026)
 -   📖 Read chapter 130 of [Reincarnated Murim Lord](https://anilist.co/manga/176790) (04:41 14 July 2026)
 -   📖 Read chapter 85 of [Chronicles of a Doomed Prodigy](https://anilist.co/manga/183376) (16:41 13 July 2026)
--   📖 Read chapter 164 of [The Novel's Extra](https://anilist.co/manga/152128) (16:38 13 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
