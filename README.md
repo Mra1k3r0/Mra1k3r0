@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 3 of [Dungeon-eul Geurineun Hwaga](https://anilist.co/manga/213942) (19:54 17 July 2026)
 -   📖 Plans to read [Dungeon-eul Geurineun Hwaga](https://anilist.co/manga/213942) (14:45 17 July 2026)
 -   📖 Read chapter 52 of [A Cadet Becomes a Prophet?!](https://anilist.co/manga/195458) (14:33 17 July 2026)
 -   📖 Read chapter 53 of [Rebirth of the Divine Demon](https://anilist.co/manga/199222) (02:20 17 July 2026)
 -   📖 Read chapter 18 of [Geomjega Namgungsegareul Seuneun Beop](https://anilist.co/manga/213323) (22:21 16 July 2026)
--   📖 Read chapter 44 of [The Patron of Villains](https://anilist.co/manga/201009) (22:09 16 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
