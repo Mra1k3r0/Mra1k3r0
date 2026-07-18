@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 6 of [Goedame Tteoreojyeodo Chulgeuneul Haeya Haneunguna](https://anilist.co/manga/212562) (20:38 18 July 2026)
+-   📖 Read chapter 1 - 10 of [Goedame Tteoreojyeodo Chulgeuneul Haeya Haneunguna](https://anilist.co/manga/212562) (21:03 18 July 2026)
 -   📖 Read chapter 16 of [Dungeon-eul Geurineun Hwaga](https://anilist.co/manga/213942) (16:28 18 July 2026)
 -   📖 Plans to read [Goedame Tteoreojyeodo Chulgeuneul Haeya Haneunguna](https://anilist.co/manga/212562) (16:18 18 July 2026)
 -   📖 Read chapter 26 of [Life of a Demon Hunter](https://anilist.co/manga/208364) (16:17 18 July 2026)
