@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 16 of [Dungeon-eul Geurineun Hwaga](https://anilist.co/manga/213942) (16:28 18 July 2026)
+-   📖 Plans to read [Goedame Tteoreojyeodo Chulgeuneul Haeya Haneunguna](https://anilist.co/manga/212562) (16:18 18 July 2026)
+-   📖 Read chapter 26 of [Life of a Demon Hunter](https://anilist.co/manga/208364) (16:17 18 July 2026)
 -   📺 Watched episode 15 of [That Time I Got Reincarnated as a Slime Season 4](https://anilist.co/anime/182205) (10:19 18 July 2026)
 -   📖 Read chapter 1 - 15 of [Dungeon-eul Geurineun Hwaga](https://anilist.co/manga/213942) (03:09 18 July 2026)
--   📖 Plans to read [Dungeon-eul Geurineun Hwaga](https://anilist.co/manga/213942) (14:45 17 July 2026)
--   📖 Read chapter 52 of [A Cadet Becomes a Prophet?!](https://anilist.co/manga/195458) (14:33 17 July 2026)
--   📖 Read chapter 53 of [Rebirth of the Divine Demon](https://anilist.co/manga/199222) (02:20 17 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
