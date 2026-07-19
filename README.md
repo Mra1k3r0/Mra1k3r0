@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 4 of [From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage](https://anilist.co/anime/208044) (12:51 19 July 2026)
 -   📖 Read chapter 1 - 26 of [Goedame Tteoreojyeodo Chulgeuneul Haeya Haneunguna](https://anilist.co/manga/212562) (05:03 19 July 2026)
 -   📖 Read chapter 95 of [The Legendary Hero is an Academy Honors Student](https://anilist.co/manga/185979) (03:24 19 July 2026)
 -   📖 Read chapter 18 of [Modeungeol Gieokaneun Cheonjaemusa](https://anilist.co/manga/211415) (03:06 19 July 2026)
 -   📖 Read chapter 16 of [Dungeon-eul Geurineun Hwaga](https://anilist.co/manga/213942) (16:28 18 July 2026)
--   📖 Plans to read [Goedame Tteoreojyeodo Chulgeuneul Haeya Haneunguna](https://anilist.co/manga/212562) (16:18 18 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
