@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 131 of [Reincarnated Murim Lord](https://anilist.co/manga/176790) (02:06 20 July 2026)
 -   📖 Read chapter 172 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (15:58 19 July 2026)
 -   📺 Watched episode 4 of [From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage](https://anilist.co/anime/208044) (12:51 19 July 2026)
 -   📖 Read chapter 1 - 26 of [Goedame Tteoreojyeodo Chulgeuneul Haeya Haneunguna](https://anilist.co/manga/212562) (05:03 19 July 2026)
 -   📖 Read chapter 95 of [The Legendary Hero is an Academy Honors Student](https://anilist.co/manga/185979) (03:24 19 July 2026)
--   📖 Read chapter 18 of [Modeungeol Gieokaneun Cheonjaemusa](https://anilist.co/manga/211415) (03:06 19 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
