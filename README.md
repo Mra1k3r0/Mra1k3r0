@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 13 of [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (17:12 20 July 2026)
+-   📖 Read chapter 1 - 21 of [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (17:51 20 July 2026)
 -   📖 Plans to read [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (14:47 20 July 2026)
 -   📖 Read chapter 171 of [The Grand Mudang Saga](https://anilist.co/manga/127783) (11:05 20 July 2026)
 -   📖 Read chapter 131 of [Reincarnated Murim Lord](https://anilist.co/manga/176790) (02:06 20 July 2026)
