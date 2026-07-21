@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 21 of [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (17:51 20 July 2026)
--   📖 Plans to read [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (14:47 20 July 2026)
--   📖 Read chapter 171 of [The Grand Mudang Saga](https://anilist.co/manga/127783) (11:05 20 July 2026)
--   📖 Read chapter 131 of [Reincarnated Murim Lord](https://anilist.co/manga/176790) (02:06 20 July 2026)
--   📖 Read chapter 172 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (15:58 19 July 2026)
+-   📺 Plans to watch [School Rumble](https://anilist.co/anime/24) (04:37 21 July 2026)
+-   📖 Read chapter 1 - 38 of [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (03:37 21 July 2026)
+-   📖 Read chapter 165 of [The Novel's Extra](https://anilist.co/manga/152128) (01:43 21 July 2026)
+-   📖 Read chapter 73 of [The Genius Swordsman of Mount Hua](https://anilist.co/manga/188155) (01:38 21 July 2026)
+-   📖 Read chapter 28 of [The Shepherd Wizard](https://anilist.co/manga/208208) (01:28 21 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
