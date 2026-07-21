@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Hero-ga Jipchakaneun Akdangi Doeeotda](https://anilist.co/manga/199014) (14:44 21 July 2026)
 -   📺 Plans to watch [School Rumble](https://anilist.co/anime/24) (04:37 21 July 2026)
 -   📖 Read chapter 1 - 38 of [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (03:37 21 July 2026)
 -   📖 Read chapter 165 of [The Novel's Extra](https://anilist.co/manga/152128) (01:43 21 July 2026)
 -   📖 Read chapter 73 of [The Genius Swordsman of Mount Hua](https://anilist.co/manga/188155) (01:38 21 July 2026)
--   📖 Read chapter 28 of [The Shepherd Wizard](https://anilist.co/manga/208208) (01:28 21 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
