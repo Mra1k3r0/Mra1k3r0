@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 90 of [The Heavenly Demon Wants a Quiet Life](https://anilist.co/manga/185816) (01:29 23 July 2026)
+-   📖 Read chapter 322 of [Nano Machine](https://anilist.co/manga/120980) (01:21 23 July 2026)
 -   📖 Read chapter 192 of [66,666 Years: Advent of the Dark Mage](https://anilist.co/manga/137595) (14:11 22 July 2026)
 -   📖 Read chapter 1 - 53 of [Hero-ga Jipchakaneun Akdangi Doeeotda](https://anilist.co/manga/199014) (02:43 22 July 2026)
 -   📖 Plans to read [Hero-ga Jipchakaneun Akdangi Doeeotda](https://anilist.co/manga/199014) (14:44 21 July 2026)
--   📺 Plans to watch [School Rumble](https://anilist.co/anime/24) (04:37 21 July 2026)
--   📖 Read chapter 1 - 38 of [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (03:37 21 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
