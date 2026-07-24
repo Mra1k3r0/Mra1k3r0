@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 53 of [A Cadet Becomes a Prophet?!](https://anilist.co/manga/195458) (17:53 24 July 2026)
 -   📖 Read chapter 45 of [The Patron of Villains](https://anilist.co/manga/201009) (03:42 24 July 2026)
 -   📖 Read chapter 19 of [Geomjega Namgungsegareul Seuneun Beop](https://anilist.co/manga/213323) (03:33 24 July 2026)
 -   📖 Read chapter 54 of [Rebirth of the Divine Demon](https://anilist.co/manga/199222) (03:28 24 July 2026)
 -   📖 Read chapter 211 of [Pick Me Up](https://anilist.co/manga/159441) (15:08 23 July 2026)
--   📖 Read chapter 90 of [The Heavenly Demon Wants a Quiet Life](https://anilist.co/manga/185816) (01:29 23 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
