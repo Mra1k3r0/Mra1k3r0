@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 173 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (16:17 26 July 2026)
 -   📖 Read chapter 96 of [The Legendary Hero is an Academy Honors Student](https://anilist.co/manga/185979) (04:21 26 July 2026)
 -   📖 Read chapter 19 of [Modeungeol Gieokaneun Cheonjaemusa](https://anilist.co/manga/211415) (04:15 26 July 2026)
 -   📖 Read chapter 27 of [Life of a Demon Hunter](https://anilist.co/manga/208364) (17:33 25 July 2026)
 -   📖 Read chapter 17 of [Dungeon-eul Geurineun Hwaga](https://anilist.co/manga/213942) (17:22 25 July 2026)
--   📖 Read chapter 27 of [Goedame Tteoreojyeodo Chulgeuneul Haeya Haneunguna](https://anilist.co/manga/212562) (04:05 25 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
