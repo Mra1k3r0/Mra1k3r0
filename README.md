@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 166 of [The Novel's Extra](https://anilist.co/manga/152128) (16:37 27 July 2026)
+-   📖 Read chapter 74 of [The Genius Swordsman of Mount Hua](https://anilist.co/manga/188155) (16:14 27 July 2026)
 -   📖 Read chapter 132 of [Reincarnated Murim Lord](https://anilist.co/manga/176790) (03:52 27 July 2026)
 -   📖 Read chapter 39 of [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (03:46 27 July 2026)
 -   📖 Read chapter 173 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (16:17 26 July 2026)
--   📖 Read chapter 96 of [The Legendary Hero is an Academy Honors Student](https://anilist.co/manga/185979) (04:21 26 July 2026)
--   📖 Read chapter 19 of [Modeungeol Gieokaneun Cheonjaemusa](https://anilist.co/manga/211415) (04:15 26 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
