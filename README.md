@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 7 of [Myeolgwisudojeon](https://anilist.co/manga/214315) (17:03 28 July 2026)
+-   📖 Plans to read [Myeolgwisudojeon](https://anilist.co/manga/214315) (17:02 28 July 2026)
 -   📖 Read chapter 29 of [The Shepherd Wizard](https://anilist.co/manga/208208) (03:34 28 July 2026)
 -   📖 Read chapter 166 of [The Novel's Extra](https://anilist.co/manga/152128) (16:37 27 July 2026)
 -   📖 Read chapter 74 of [The Genius Swordsman of Mount Hua](https://anilist.co/manga/188155) (16:14 27 July 2026)
--   📖 Read chapter 132 of [Reincarnated Murim Lord](https://anilist.co/manga/176790) (03:52 27 July 2026)
--   📖 Read chapter 39 of [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (03:46 27 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
