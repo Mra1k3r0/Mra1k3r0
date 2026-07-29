@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 9 of [Seirei Gensouki: Spirit Chronicles](https://anilist.co/anime/126546) (10:08 29 July 2026)
 -   📖 Read chapter 1 - 7 of [Myeolgwisudojeon](https://anilist.co/manga/214315) (17:03 28 July 2026)
 -   📖 Plans to read [Myeolgwisudojeon](https://anilist.co/manga/214315) (17:02 28 July 2026)
 -   📖 Read chapter 29 of [The Shepherd Wizard](https://anilist.co/manga/208208) (03:34 28 July 2026)
 -   📖 Read chapter 166 of [The Novel's Extra](https://anilist.co/manga/152128) (16:37 27 July 2026)
--   📖 Read chapter 74 of [The Genius Swordsman of Mount Hua](https://anilist.co/manga/188155) (16:14 27 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
