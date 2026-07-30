@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 91 of [The Heavenly Demon Wants a Quiet Life](https://anilist.co/manga/185816) (02:47 30 July 2026)
+-   📖 Read chapter 212 of [Pick Me Up](https://anilist.co/manga/159441) (02:21 30 July 2026)
 -   📺 Watched episode 1 of [Seirei Gensouki: Spirit Chronicles Season 2](https://anilist.co/anime/141182) (12:48 29 July 2026)
 -   📺 Completed [Seirei Gensouki: Spirit Chronicles](https://anilist.co/anime/126546) (11:16 29 July 2026)
 -   📺 Watched episode 1 - 12 of [Seirei Gensouki: Spirit Chronicles](https://anilist.co/anime/126546) (11:13 29 July 2026)
--   📖 Read chapter 1 - 7 of [Myeolgwisudojeon](https://anilist.co/manga/214315) (17:03 28 July 2026)
--   📖 Plans to read [Myeolgwisudojeon](https://anilist.co/manga/214315) (17:02 28 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
