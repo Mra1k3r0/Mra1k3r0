@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 28 of [Life of a Demon Hunter](https://anilist.co/manga/208364) (18:13 31 July 2026)
 -   📖 Read chapter 46 of [The Patron of Villains](https://anilist.co/manga/201009) (05:45 31 July 2026)
 -   📖 Read chapter 54 of [A Cadet Becomes a Prophet?!](https://anilist.co/manga/195458) (05:31 31 July 2026)
 -   📖 Read chapter 55 of [Rebirth of the Divine Demon](https://anilist.co/manga/199222) (05:26 31 July 2026)
 -   📖 Read chapter 20 of [Geomjega Namgungsegareul Seuneun Beop](https://anilist.co/manga/213323) (04:57 31 July 2026)
--   📺 Completed [Seirei Gensouki: Spirit Chronicles Season 2](https://anilist.co/anime/141182) (14:59 30 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
