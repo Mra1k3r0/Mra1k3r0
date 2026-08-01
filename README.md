@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 20 of [Modeungeol Gieokaneun Cheonjaemusa](https://anilist.co/manga/211415) (18:37 01 August 2026)
+-   📖 Read chapter 97 of [The Legendary Hero is an Academy Honors Student](https://anilist.co/manga/185979) (18:31 01 August 2026)
 -   📖 Read chapter 18 of [Dungeon-eul Geurineun Hwaga](https://anilist.co/manga/213942) (16:17 01 August 2026)
 -   📺 Watched episode 6 of [From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage](https://anilist.co/anime/208044) (03:33 01 August 2026)
 -   📖 Read chapter 28 of [Goedame Tteoreojyeodo Chulgeuneul Haeya Haneunguna](https://anilist.co/manga/212562) (02:57 01 August 2026)
--   📖 Read chapter 28 of [Life of a Demon Hunter](https://anilist.co/manga/208364) (18:13 31 July 2026)
--   📖 Read chapter 46 of [The Patron of Villains](https://anilist.co/manga/201009) (05:45 31 July 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
