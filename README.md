@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [I Became a Legend After My 10 Year-Long Last Stand](https://anilist.co/anime/199748) (04:17 03 August 2026)
 -   📖 Read chapter 40 of [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (17:10 02 August 2026)
 -   📖 Read chapter 133 of [Reincarnated Murim Lord](https://anilist.co/manga/176790) (17:03 02 August 2026)
 -   📖 Read chapter 174 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (16:51 02 August 2026)
 -   📖 Read chapter 172 of [The Grand Mudang Saga](https://anilist.co/manga/127783) (02:44 02 August 2026)
--   📖 Read chapter 20 of [Modeungeol Gieokaneun Cheonjaemusa](https://anilist.co/manga/211415) (18:37 01 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
