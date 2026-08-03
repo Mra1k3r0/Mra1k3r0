@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [KILL BLUE](https://anilist.co/anime/198113) (14:33 03 August 2026)
 -   📺 Watched episode 1 - 5 of [I Became a Legend After My 10 Year-Long Last Stand](https://anilist.co/anime/199748) (06:13 03 August 2026)
 -   📖 Read chapter 40 of [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (17:10 02 August 2026)
 -   📖 Read chapter 133 of [Reincarnated Murim Lord](https://anilist.co/manga/176790) (17:03 02 August 2026)
 -   📖 Read chapter 174 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (16:51 02 August 2026)
--   📖 Read chapter 172 of [The Grand Mudang Saga](https://anilist.co/manga/127783) (02:44 02 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
