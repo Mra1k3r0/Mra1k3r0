@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 7 of [KILL BLUE](https://anilist.co/anime/198113) (16:03 04 August 2026)
 -   📖 Read chapter 75 of [The Genius Swordsman of Mount Hua](https://anilist.co/manga/188155) (05:32 04 August 2026)
 -   📖 Read chapter 167 of [The Novel's Extra](https://anilist.co/manga/152128) (05:28 04 August 2026)
 -   📖 Read chapter 30 of [The Shepherd Wizard](https://anilist.co/manga/208208) (05:16 04 August 2026)
 -   📺 Watched episode 1 - 6 of [KILL BLUE](https://anilist.co/anime/198113) (17:39 03 August 2026)
--   📺 Watched episode 1 - 5 of [I Became a Legend After My 10 Year-Long Last Stand](https://anilist.co/anime/199748) (06:13 03 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
