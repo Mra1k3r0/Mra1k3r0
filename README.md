@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 2 of [The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat](https://anilist.co/anime/129898) (09:59 05 August 2026)
+-   📺 Watched episode 1 - 6 of [The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat](https://anilist.co/anime/129898) (11:44 05 August 2026)
 -   📺 Plans to watch [The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat](https://anilist.co/anime/129898) (09:04 05 August 2026)
 -   📺 Plans to watch [Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru 2nd Season](https://anilist.co/anime/169579) (09:04 05 August 2026)
 -   📺 Completed [KILL BLUE](https://anilist.co/anime/198113) (05:16 05 August 2026)
