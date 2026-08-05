@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [KILL BLUE](https://anilist.co/anime/198113) (05:16 05 August 2026)
+-   📺 Watched episode 7 - 12 of [KILL BLUE](https://anilist.co/anime/198113) (05:14 05 August 2026)
 -   📖 Read chapter 8 of [Myeolgwisudojeon](https://anilist.co/manga/214315) (04:20 05 August 2026)
--   📺 Watched episode 7 - 10 of [KILL BLUE](https://anilist.co/anime/198113) (17:14 04 August 2026)
 -   📖 Read chapter 75 of [The Genius Swordsman of Mount Hua](https://anilist.co/manga/188155) (05:32 04 August 2026)
 -   📖 Read chapter 167 of [The Novel's Extra](https://anilist.co/manga/152128) (05:28 04 August 2026)
--   📖 Read chapter 30 of [The Shepherd Wizard](https://anilist.co/manga/208208) (05:16 04 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
