@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 2 of [The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat](https://anilist.co/anime/129898) (09:59 05 August 2026)
+-   📺 Plans to watch [The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat](https://anilist.co/anime/129898) (09:04 05 August 2026)
+-   📺 Plans to watch [Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru 2nd Season](https://anilist.co/anime/169579) (09:04 05 August 2026)
 -   📺 Completed [KILL BLUE](https://anilist.co/anime/198113) (05:16 05 August 2026)
 -   📺 Watched episode 7 - 12 of [KILL BLUE](https://anilist.co/anime/198113) (05:14 05 August 2026)
--   📖 Read chapter 8 of [Myeolgwisudojeon](https://anilist.co/manga/214315) (04:20 05 August 2026)
--   📖 Read chapter 75 of [The Genius Swordsman of Mount Hua](https://anilist.co/manga/188155) (05:32 04 August 2026)
--   📖 Read chapter 167 of [The Novel's Extra](https://anilist.co/manga/152128) (05:28 04 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
