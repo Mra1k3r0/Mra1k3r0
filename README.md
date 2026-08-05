@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 213 of [Pick Me Up](https://anilist.co/manga/159441) (20:44 05 August 2026)
 -   📺 Plans to watch [Kaguya-sama: Love is War](https://anilist.co/anime/101921) (17:54 05 August 2026)
 -   📺 Completed [The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat](https://anilist.co/anime/129898) (17:41 05 August 2026)
 -   📺 Watched episode 1 - 12 of [The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat](https://anilist.co/anime/129898) (17:39 05 August 2026)
 -   📺 Plans to watch [The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat](https://anilist.co/anime/129898) (09:04 05 August 2026)
--   📺 Plans to watch [Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru 2nd Season](https://anilist.co/anime/169579) (09:04 05 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
