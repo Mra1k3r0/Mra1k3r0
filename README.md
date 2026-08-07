@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 7 of [From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage](https://anilist.co/anime/208044) (14:09 07 August 2026)
 -   📖 Read chapter 47 of [The Patron of Villains](https://anilist.co/manga/201009) (01:52 07 August 2026)
 -   📖 Read chapter 21 of [Geomjega Namgungsegareul Seuneun Beop](https://anilist.co/manga/213323) (01:43 07 August 2026)
 -   📖 Read chapter 92 of [The Heavenly Demon Wants a Quiet Life](https://anilist.co/manga/185816) (04:16 06 August 2026)
 -   📖 Read chapter 213 of [Pick Me Up](https://anilist.co/manga/159441) (20:44 05 August 2026)
--   📺 Plans to watch [Kaguya-sama: Love is War](https://anilist.co/anime/101921) (17:54 05 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
