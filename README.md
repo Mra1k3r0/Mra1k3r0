@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 17 of [That Time I Got Reincarnated as a Slime Season 4](https://anilist.co/anime/182205) (11:41 08 August 2026)
 -   📖 Read chapter 29 of [Goedame Tteoreojyeodo Chulgeuneul Haeya Haneunguna](https://anilist.co/manga/212562) (07:34 08 August 2026)
 -   📖 Read chapter 55 of [A Cadet Becomes a Prophet?!](https://anilist.co/manga/195458) (17:00 07 August 2026)
 -   📺 Watched episode 7 of [From Overshadowed to Overpowered: Second Reincarnation of a Talentless Sage](https://anilist.co/anime/208044) (14:09 07 August 2026)
 -   📖 Read chapter 47 of [The Patron of Villains](https://anilist.co/manga/201009) (01:52 07 August 2026)
--   📖 Read chapter 21 of [Geomjega Namgungsegareul Seuneun Beop](https://anilist.co/manga/213323) (01:43 07 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
