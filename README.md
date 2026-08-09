@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 175 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (17:40 09 August 2026)
 -   📖 Read chapter 29 of [Life of a Demon Hunter](https://anilist.co/manga/208364) (04:34 09 August 2026)
 -   📖 Read chapter 21 of [Modeungeol Gieokaneun Cheonjaemusa](https://anilist.co/manga/211415) (04:26 09 August 2026)
 -   📖 Read chapter 98 of [The Legendary Hero is an Academy Honors Student](https://anilist.co/manga/185979) (20:04 08 August 2026)
 -   📖 Read chapter 19 of [Dungeon-eul Geurineun Hwaga](https://anilist.co/manga/213942) (19:59 08 August 2026)
--   📺 Watched episode 17 of [That Time I Got Reincarnated as a Slime Season 4](https://anilist.co/anime/182205) (11:41 08 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
