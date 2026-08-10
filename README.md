@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Lout of Count’s Family](https://anilist.co/manga/123573) (15:26 10 August 2026)
+-   📖 Read chapter 168 of [The Novel's Extra](https://anilist.co/manga/152128) (15:15 10 August 2026)
 -   📖 Read chapter 41 of [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (05:42 10 August 2026)
 -   📖 Read chapter 173 of [The Grand Mudang Saga](https://anilist.co/manga/127783) (05:33 10 August 2026)
 -   📖 Read chapter 134 of [Reincarnated Murim Lord](https://anilist.co/manga/176790) (05:25 10 August 2026)
--   📖 Read chapter 175 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (17:40 09 August 2026)
--   📖 Read chapter 29 of [Life of a Demon Hunter](https://anilist.co/manga/208364) (04:34 09 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
