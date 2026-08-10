@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 41 of [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (05:42 10 August 2026)
+-   📖 Read chapter 173 of [The Grand Mudang Saga](https://anilist.co/manga/127783) (05:33 10 August 2026)
+-   📖 Read chapter 134 of [Reincarnated Murim Lord](https://anilist.co/manga/176790) (05:25 10 August 2026)
 -   📖 Read chapter 175 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (17:40 09 August 2026)
 -   📖 Read chapter 29 of [Life of a Demon Hunter](https://anilist.co/manga/208364) (04:34 09 August 2026)
--   📖 Read chapter 21 of [Modeungeol Gieokaneun Cheonjaemusa](https://anilist.co/manga/211415) (04:26 09 August 2026)
--   📖 Read chapter 98 of [The Legendary Hero is an Academy Honors Student](https://anilist.co/manga/185979) (20:04 08 August 2026)
--   📖 Read chapter 19 of [Dungeon-eul Geurineun Hwaga](https://anilist.co/manga/213942) (19:59 08 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
