@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 28 of [Lout of Count’s Family](https://anilist.co/manga/123573) (10:37 11 August 2026)
+-   📖 Read chapter 1 - 29 of [Lout of Count’s Family](https://anilist.co/manga/123573) (10:57 11 August 2026)
 -   📖 Read chapter 31 of [The Shepherd Wizard](https://anilist.co/manga/208208) (04:12 11 August 2026)
 -   📖 Read chapter 76 of [The Genius Swordsman of Mount Hua](https://anilist.co/manga/188155) (04:00 11 August 2026)
 -   📖 Plans to read [Lout of Count’s Family](https://anilist.co/manga/123573) (15:26 10 August 2026)
