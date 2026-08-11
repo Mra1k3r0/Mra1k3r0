@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 14 of [Lout of Count’s Family](https://anilist.co/manga/123573) (09:48 11 August 2026)
 -   📖 Read chapter 31 of [The Shepherd Wizard](https://anilist.co/manga/208208) (04:12 11 August 2026)
 -   📖 Read chapter 76 of [The Genius Swordsman of Mount Hua](https://anilist.co/manga/188155) (04:00 11 August 2026)
 -   📖 Plans to read [Lout of Count’s Family](https://anilist.co/manga/123573) (15:26 10 August 2026)
 -   📖 Read chapter 168 of [The Novel's Extra](https://anilist.co/manga/152128) (15:15 10 August 2026)
--   📖 Read chapter 41 of [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (05:42 10 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
