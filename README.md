@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 108 of [Lout of Count’s Family](https://anilist.co/manga/123573) (12:56 12 August 2026)
+-   📖 Read chapter 1 - 109 of [Lout of Count’s Family](https://anilist.co/manga/123573) (15:44 12 August 2026)
+-   📖 Read chapter 93 of [The Heavenly Demon Wants a Quiet Life](https://anilist.co/manga/185816) (15:39 12 August 2026)
+-   📖 Read chapter 214 of [Pick Me Up](https://anilist.co/manga/159441) (15:33 12 August 2026)
 -   📖 Read chapter 9 of [Myeolgwisudojeon](https://anilist.co/manga/214315) (17:11 11 August 2026)
 -   📖 Read chapter 31 of [The Shepherd Wizard](https://anilist.co/manga/208208) (04:12 11 August 2026)
--   📖 Read chapter 76 of [The Genius Swordsman of Mount Hua](https://anilist.co/manga/188155) (04:00 11 August 2026)
--   📖 Plans to read [Lout of Count’s Family](https://anilist.co/manga/123573) (15:26 10 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
