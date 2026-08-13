@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 137 of [Lout of Count’s Family](https://anilist.co/manga/123573) (07:04 13 August 2026)
+-   📖 Read chapter 1 - 139 of [Lout of Count’s Family](https://anilist.co/manga/123573) (07:15 13 August 2026)
 -   📖 Read chapter 93 of [The Heavenly Demon Wants a Quiet Life](https://anilist.co/manga/185816) (15:39 12 August 2026)
 -   📖 Read chapter 214 of [Pick Me Up](https://anilist.co/manga/159441) (15:33 12 August 2026)
 -   📖 Read chapter 9 of [Myeolgwisudojeon](https://anilist.co/manga/214315) (17:11 11 August 2026)
