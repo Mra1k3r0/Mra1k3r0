@@ -40,8 +40,8 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 178 of [Lout of Count’s Family](https://anilist.co/manga/123573) (04:34 14 August 2026)
 -   📖 Read chapter 48 of [The Patron of Villains](https://anilist.co/manga/201009) (02:02 14 August 2026)
--   📖 Read chapter 1 - 170 of [Lout of Count’s Family](https://anilist.co/manga/123573) (18:35 13 August 2026)
 -   📖 Read chapter 93 of [The Heavenly Demon Wants a Quiet Life](https://anilist.co/manga/185816) (15:39 12 August 2026)
 -   📖 Read chapter 214 of [Pick Me Up](https://anilist.co/manga/159441) (15:33 12 August 2026)
 -   📖 Read chapter 9 of [Myeolgwisudojeon](https://anilist.co/manga/214315) (17:11 11 August 2026)
