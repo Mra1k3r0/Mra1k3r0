@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 30 of [Goedame Tteoreojyeodo Chulgeuneul Haeya Haneunguna](https://anilist.co/manga/212562) (18:47 14 August 2026)
 -   📖 Read chapter 56 of [A Cadet Becomes a Prophet?!](https://anilist.co/manga/195458) (16:39 14 August 2026)
 -   📖 Read chapter 1 - 184 of [Lout of Count’s Family](https://anilist.co/manga/123573) (13:04 14 August 2026)
 -   📖 Read chapter 22 of [Geomjega Namgungsegareul Seuneun Beop](https://anilist.co/manga/213323) (12:14 14 August 2026)
 -   📖 Read chapter 48 of [The Patron of Villains](https://anilist.co/manga/201009) (02:02 14 August 2026)
--   📖 Read chapter 93 of [The Heavenly Demon Wants a Quiet Life](https://anilist.co/manga/185816) (15:39 12 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
