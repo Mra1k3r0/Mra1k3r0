@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 22 of [Modeungeol Gieokaneun Cheonjaemusa](https://anilist.co/manga/211415) (18:23 15 August 2026)
+-   📖 Read chapter 30 of [Life of a Demon Hunter](https://anilist.co/manga/208364) (16:25 15 August 2026)
 -   📖 Read chapter 20 of [Dungeon-eul Geurineun Hwaga](https://anilist.co/manga/213942) (15:43 15 August 2026)
 -   📺 Watched episode 18 of [That Time I Got Reincarnated as a Slime Season 4](https://anilist.co/anime/182205) (04:37 15 August 2026)
 -   📖 Read chapter 185 of [Lout of Count’s Family](https://anilist.co/manga/123573) (04:10 15 August 2026)
--   📖 Read chapter 30 of [Goedame Tteoreojyeodo Chulgeuneul Haeya Haneunguna](https://anilist.co/manga/212562) (18:47 14 August 2026)
--   📖 Read chapter 56 of [A Cadet Becomes a Prophet?!](https://anilist.co/manga/195458) (16:39 14 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
