@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 42 of [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (15:54 17 August 2026)
+-   📖 Read chapter 135 of [Reincarnated Murim Lord](https://anilist.co/manga/176790) (15:47 17 August 2026)
 -   📖 Read chapter 176 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (07:21 17 August 2026)
 -   📖 Read chapter 174 of [The Grand Mudang Saga](https://anilist.co/manga/127783) (05:27 17 August 2026)
 -   📖 Read chapter 1 - 6 of [Ultimate Shut-in](https://anilist.co/manga/186019) (16:51 16 August 2026)
--   📖 Plans to read [Ultimate Shut-in](https://anilist.co/manga/186019) (16:17 16 August 2026)
--   📖 Read chapter 99 of [The Legendary Hero is an Academy Honors Student](https://anilist.co/manga/185979) (04:42 16 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
