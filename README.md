@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 176 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (07:21 17 August 2026)
+-   📖 Read chapter 174 of [The Grand Mudang Saga](https://anilist.co/manga/127783) (05:27 17 August 2026)
 -   📖 Read chapter 1 - 6 of [Ultimate Shut-in](https://anilist.co/manga/186019) (16:51 16 August 2026)
 -   📖 Plans to read [Ultimate Shut-in](https://anilist.co/manga/186019) (16:17 16 August 2026)
 -   📖 Read chapter 99 of [The Legendary Hero is an Academy Honors Student](https://anilist.co/manga/185979) (04:42 16 August 2026)
--   📖 Read chapter 22 of [Modeungeol Gieokaneun Cheonjaemusa](https://anilist.co/manga/211415) (18:23 15 August 2026)
--   📖 Read chapter 30 of [Life of a Demon Hunter](https://anilist.co/manga/208364) (16:25 15 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
