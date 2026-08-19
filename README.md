@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 8 - 9 of [Ultimate Shut-in](https://anilist.co/manga/186019) (11:02 19 August 2026)
 -   📖 Read chapter 10 of [Myeolgwisudojeon](https://anilist.co/manga/214315) (23:37 18 August 2026)
 -   📖 Read chapter 32 of [The Shepherd Wizard](https://anilist.co/manga/208208) (02:06 18 August 2026)
 -   📖 Read chapter 77 of [The Genius Swordsman of Mount Hua](https://anilist.co/manga/188155) (17:13 17 August 2026)
 -   📖 Read chapter 7 of [Ultimate Shut-in](https://anilist.co/manga/186019) (16:24 17 August 2026)
--   📖 Read chapter 42 of [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (15:54 17 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
