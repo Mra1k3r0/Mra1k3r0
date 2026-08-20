@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 10 - 12 of [Ultimate Shut-in](https://anilist.co/manga/186019) (13:56 20 August 2026)
 -   📖 Read chapter 215 of [Pick Me Up](https://anilist.co/manga/159441) (01:44 20 August 2026)
 -   📖 Read chapter 94 of [The Heavenly Demon Wants a Quiet Life](https://anilist.co/manga/185816) (01:34 20 August 2026)
 -   📖 Read chapter 8 - 9 of [Ultimate Shut-in](https://anilist.co/manga/186019) (11:02 19 August 2026)
 -   📖 Read chapter 10 of [Myeolgwisudojeon](https://anilist.co/manga/214315) (23:37 18 August 2026)
--   📖 Read chapter 32 of [The Shepherd Wizard](https://anilist.co/manga/208208) (02:06 18 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
