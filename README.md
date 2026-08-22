@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 19 of [That Time I Got Reincarnated as a Slime Season 4](https://anilist.co/anime/182205) (15:38 22 August 2026)
 -   📖 Read chapter 13 - 14 of [Ultimate Shut-in](https://anilist.co/manga/186019) (12:03 22 August 2026)
 -   📖 Read chapter 31 - 32 of [Goedame Tteoreojyeodo Chulgeuneul Haeya Haneunguna](https://anilist.co/manga/212562) (07:47 22 August 2026)
 -   📖 Read chapter 23 of [Geomjega Namgungsegareul Seuneun Beop](https://anilist.co/manga/213323) (19:02 20 August 2026)
 -   📖 Read chapter 10 - 12 of [Ultimate Shut-in](https://anilist.co/manga/186019) (13:56 20 August 2026)
--   📖 Read chapter 215 of [Pick Me Up](https://anilist.co/manga/159441) (01:44 20 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
