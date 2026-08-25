@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 33 of [The Shepherd Wizard](https://anilist.co/manga/208208) (04:10 25 August 2026)
+-   📖 Read chapter 169 of [The Novel's Extra](https://anilist.co/manga/152128) (04:02 25 August 2026)
 -   📖 Read chapter 136 of [Reincarnated Murim Lord](https://anilist.co/manga/176790) (16:10 24 August 2026)
 -   📖 Read chapter 177 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (05:40 24 August 2026)
 -   📖 Read chapter 23 of [The Martial Genius Who Remembers Everything](https://anilist.co/manga/211415) (05:34 24 August 2026)
--   📖 Read chapter 43 of [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (19:29 23 August 2026)
--   📖 Read chapter 100 of [The Legendary Hero is an Academy Honors Student](https://anilist.co/manga/185979) (19:11 23 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
