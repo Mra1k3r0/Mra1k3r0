@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 11 of [Myeolgwisudojeon](https://anilist.co/manga/214315) (00:05 26 August 2026)
 -   📖 Read chapter 78 of [The Genius Swordsman of Mount Hua](https://anilist.co/manga/188155) (15:01 25 August 2026)
 -   📖 Read chapter 33 of [The Shepherd Wizard](https://anilist.co/manga/208208) (04:10 25 August 2026)
 -   📖 Read chapter 169 of [The Novel's Extra](https://anilist.co/manga/152128) (04:02 25 August 2026)
 -   📖 Read chapter 136 of [Reincarnated Murim Lord](https://anilist.co/manga/176790) (16:10 24 August 2026)
--   📖 Read chapter 177 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (05:40 24 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
