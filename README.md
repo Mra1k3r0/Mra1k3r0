@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 24 of [Geomjega Namgungsegareul Seuneun Beop](https://anilist.co/manga/213323) (03:31 28 August 2026)
 -   📖 Read chapter 216 of [Pick Me Up](https://anilist.co/manga/159441) (23:44 26 August 2026)
 -   📖 Read chapter 11 of [Myeolgwisudojeon](https://anilist.co/manga/214315) (00:05 26 August 2026)
 -   📖 Read chapter 78 of [The Genius Swordsman of Mount Hua](https://anilist.co/manga/188155) (15:01 25 August 2026)
 -   📖 Read chapter 33 of [The Shepherd Wizard](https://anilist.co/manga/208208) (04:10 25 August 2026)
--   📖 Read chapter 169 of [The Novel's Extra](https://anilist.co/manga/152128) (04:02 25 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
