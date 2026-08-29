@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 32 of [Life of a Demon Hunter](https://anilist.co/manga/208364) (18:39 29 August 2026)
+-   📖 Read chapter 24 of [The Martial Genius Who Remembers Everything](https://anilist.co/manga/211415) (18:35 29 August 2026)
+-   📖 Read chapter 22 of [Dungeon-eul Geurineun Hwaga](https://anilist.co/manga/213942) (18:26 29 August 2026)
 -   📖 Read chapter 50 of [The Patron of Villains](https://anilist.co/manga/201009) (10:10 29 August 2026)
 -   📖 Read chapter 186 of [Lout of Count’s Family](https://anilist.co/manga/123573) (09:58 29 August 2026)
--   📖 Read chapter 33 of [Goedame Tteoreojyeodo Chulgeuneul Haeya Haneunguna](https://anilist.co/manga/212562) (00:39 29 August 2026)
--   📖 Read chapter 24 of [Geomjega Namgungsegareul Seuneun Beop](https://anilist.co/manga/213323) (03:31 28 August 2026)
--   📖 Read chapter 216 of [Pick Me Up](https://anilist.co/manga/159441) (23:44 26 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
