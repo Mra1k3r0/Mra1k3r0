@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 15 - 24 of [Ultimate Shut-in](https://anilist.co/manga/186019) (05:58 30 August 2026)
+-   📖 Read chapter 15 - 47 of [Ultimate Shut-in](https://anilist.co/manga/186019) (08:57 30 August 2026)
 -   📖 Read chapter 32 of [Life of a Demon Hunter](https://anilist.co/manga/208364) (18:39 29 August 2026)
 -   📖 Read chapter 24 of [The Martial Genius Who Remembers Everything](https://anilist.co/manga/211415) (18:35 29 August 2026)
 -   📖 Read chapter 22 of [Dungeon-eul Geurineun Hwaga](https://anilist.co/manga/213942) (18:26 29 August 2026)
