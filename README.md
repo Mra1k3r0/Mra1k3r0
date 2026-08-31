@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [The Knight Only Lives Today](https://anilist.co/manga/177706) (13:38 31 August 2026)
 -   📖 Read chapter 101 of [The Legendary Hero is an Academy Honors Student](https://anilist.co/manga/185979) (05:06 31 August 2026)
 -   📖 Read chapter 44 of [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (04:43 31 August 2026)
 -   📖 Read chapter 137 of [Reincarnated Murim Lord](https://anilist.co/manga/176790) (04:03 31 August 2026)
 -   📖 Read chapter 178 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (16:35 30 August 2026)
--   📖 Read chapter 15 - 47 of [Ultimate Shut-in](https://anilist.co/manga/186019) (08:57 30 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
