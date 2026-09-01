@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 79 of [The Genius Swordsman of Mount Hua](https://anilist.co/manga/188155) (17:40 01 September 2026)
 -   📖 Read chapter 170 of [The Novel's Extra](https://anilist.co/manga/152128) (05:39 01 September 2026)
 -   📖 Read chapter 34 of [The Shepherd Wizard](https://anilist.co/manga/208208) (05:25 01 September 2026)
 -   📖 Read chapter 1 - 26 of [The Knight Only Lives Today](https://anilist.co/manga/177706) (19:20 31 August 2026)
 -   📖 Plans to read [The Knight Only Lives Today](https://anilist.co/manga/177706) (13:38 31 August 2026)
--   📖 Read chapter 101 of [The Legendary Hero is an Academy Honors Student](https://anilist.co/manga/185979) (05:06 31 August 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
