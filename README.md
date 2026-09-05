@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 80 - 84 of [The Knight Only Lives Today](https://anilist.co/manga/177706) (06:25 05 September 2026)
+-   📖 Read chapter 80 - 112 of [The Knight Only Lives Today](https://anilist.co/manga/177706) (08:46 05 September 2026)
 -   📖 Read chapter 187 of [Lout of Count’s Family](https://anilist.co/manga/123573) (04:28 05 September 2026)
 -   📖 Read chapter 34 of [Goedame Tteoreojyeodo Chulgeuneul Haeya Haneunguna](https://anilist.co/manga/212562) (18:27 04 September 2026)
 -   📖 Read chapter 27 - 79 of [The Knight Only Lives Today](https://anilist.co/manga/177706) (04:37 04 September 2026)
