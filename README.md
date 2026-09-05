@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 80 - 84 of [The Knight Only Lives Today](https://anilist.co/manga/177706) (06:25 05 September 2026)
+-   📖 Read chapter 187 of [Lout of Count’s Family](https://anilist.co/manga/123573) (04:28 05 September 2026)
 -   📖 Read chapter 34 of [Goedame Tteoreojyeodo Chulgeuneul Haeya Haneunguna](https://anilist.co/manga/212562) (18:27 04 September 2026)
 -   📖 Read chapter 27 - 79 of [The Knight Only Lives Today](https://anilist.co/manga/177706) (04:37 04 September 2026)
 -   📖 Read chapter 12 of [Myeolgwisudojeon](https://anilist.co/manga/214315) (12:23 02 September 2026)
--   📖 Read chapter 79 of [The Genius Swordsman of Mount Hua](https://anilist.co/manga/188155) (17:40 01 September 2026)
--   📖 Read chapter 170 of [The Novel's Extra](https://anilist.co/manga/152128) (05:39 01 September 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
