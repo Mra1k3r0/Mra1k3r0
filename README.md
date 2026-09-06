@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 23 of [Dungeon-eul Geurineun Hwaga](https://anilist.co/manga/213942) (16:13 05 September 2026)
 -   📖 Read chapter 80 - 112 of [The Knight Only Lives Today](https://anilist.co/manga/177706) (08:46 05 September 2026)
 -   📖 Read chapter 187 of [Lout of Count’s Family](https://anilist.co/manga/123573) (04:28 05 September 2026)
 -   📖 Read chapter 34 of [Goedame Tteoreojyeodo Chulgeuneul Haeya Haneunguna](https://anilist.co/manga/212562) (18:27 04 September 2026)
 -   📖 Read chapter 27 - 79 of [The Knight Only Lives Today](https://anilist.co/manga/177706) (04:37 04 September 2026)
--   📖 Read chapter 12 of [Myeolgwisudojeon](https://anilist.co/manga/214315) (12:23 02 September 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
