@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Kkul Ppalgo Sipeun Cheonjae Gyosunim](https://anilist.co/manga/216732) (12:23 12 September 2026)
 -   📖 Read chapter 1 - 6 of [Saekkibuteo Sijakaneun Angmasaenghwal](https://anilist.co/manga/216731) (11:20 12 September 2026)
 -   📖 Plans to read [Saekkibuteo Sijakaneun Angmasaenghwal](https://anilist.co/manga/216731) (03:20 12 September 2026)
 -   📖 Read chapter 35 of [Goedame Tteoreojyeodo Chulgeuneul Haeya Haneunguna](https://anilist.co/manga/212562) (17:12 11 September 2026)
 -   📖 Read chapter 51 - 52 of [The Patron of Villains](https://anilist.co/manga/201009) (17:04 11 September 2026)
--   📖 Read chapter 188 of [Lout of Count’s Family](https://anilist.co/manga/123573) (13:05 11 September 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
