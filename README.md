@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 - 15 of [Kkul Ppalgo Sipeun Cheonjae Gyosunim](https://anilist.co/manga/216732) (07:39 13 September 2026)
+-   📖 Read chapter 24 of [Dungeon-eul Geurineun Hwaga](https://anilist.co/manga/213942) (16:01 13 September 2026)
+-   📖 Read chapter 34 of [Life of a Demon Hunter](https://anilist.co/manga/208364) (15:51 13 September 2026)
+-   📖 Read chapter 180 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (15:46 13 September 2026)
+-   📖 Read chapter 1 - 20 of [Kkul Ppalgo Sipeun Cheonjae Gyosunim](https://anilist.co/manga/216732) (15:42 13 September 2026)
 -   📖 Plans to read [Kkul Ppalgo Sipeun Cheonjae Gyosunim](https://anilist.co/manga/216732) (12:23 12 September 2026)
--   📖 Read chapter 1 - 6 of [Saekkibuteo Sijakaneun Angmasaenghwal](https://anilist.co/manga/216731) (11:20 12 September 2026)
--   📖 Plans to read [Saekkibuteo Sijakaneun Angmasaenghwal](https://anilist.co/manga/216731) (03:20 12 September 2026)
--   📖 Read chapter 35 of [Goedame Tteoreojyeodo Chulgeuneul Haeya Haneunguna](https://anilist.co/manga/212562) (17:12 11 September 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
