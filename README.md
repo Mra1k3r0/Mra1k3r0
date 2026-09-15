@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 26 of [Geomjega Namgungsegareul Seuneun Beop](https://anilist.co/manga/213323) (12:16 15 September 2026)
+-   📖 Read chapter 172 of [The Novel's Extra](https://anilist.co/manga/152128) (12:16 15 September 2026)
+-   📖 Read chapter 36 of [The Shepherd Wizard](https://anilist.co/manga/208208) (07:08 15 September 2026)
 -   📖 Read chapter 139 of [Reincarnated Murim Lord](https://anilist.co/manga/176790) (14:54 14 September 2026)
 -   📖 Read chapter 26 of [The Martial Genius Who Remembers Everything](https://anilist.co/manga/211415) (11:26 14 September 2026)
--   📖 Read chapter 46 of [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (23:08 13 September 2026)
--   📖 Read chapter 24 of [Dungeon-eul Geurineun Hwaga](https://anilist.co/manga/213942) (16:01 13 September 2026)
--   📖 Read chapter 34 of [Life of a Demon Hunter](https://anilist.co/manga/208364) (15:51 13 September 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
