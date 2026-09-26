@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 36 - 37 of [Goedame Tteoreojyeodo Chulgeuneul Haeya Haneunguna](https://anilist.co/manga/212562) (23:59 25 September 2026)
 -   📖 Read chapter 140 of [Reincarnated Murim Lord](https://anilist.co/manga/176790) (15:09 24 September 2026)
 -   📖 Read chapter 173 of [The Novel's Extra](https://anilist.co/manga/152128) (01:12 22 September 2026)
 -   📖 Read chapter 37 of [The Shepherd Wizard](https://anilist.co/manga/208208) (00:57 22 September 2026)
 -   📖 Read chapter 27 of [Geomjega Namgungsegareul Seuneun Beop](https://anilist.co/manga/213323) (18:33 17 September 2026)
--   📖 Read chapter 26 of [Geomjega Namgungsegareul Seuneun Beop](https://anilist.co/manga/213323) (12:16 15 September 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
