@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 14 - 15 of [The Academy’s Sashimi Sword Master](https://anilist.co/manga/184502) (03:25 27 September 2026)
--   📖 Read chapter 54 of [The Patron of Villains](https://anilist.co/manga/201009) (10:37 26 September 2026)
--   📖 Read chapter 36 - 37 of [Goedame Tteoreojyeodo Chulgeuneul Haeya Haneunguna](https://anilist.co/manga/212562) (23:59 25 September 2026)
--   📖 Read chapter 140 of [Reincarnated Murim Lord](https://anilist.co/manga/176790) (15:09 24 September 2026)
--   📖 Read chapter 173 of [The Novel's Extra](https://anilist.co/manga/152128) (01:12 22 September 2026)
+-   📖 Read chapter 102 - 104 of [The Legendary Hero is an Academy Honors Student](https://anilist.co/manga/185979) (04:26 28 September 2026)
+-   📖 Read chapter 189 of [Lout of Count’s Family](https://anilist.co/manga/123573) (02:41 28 September 2026)
+-   📖 Read chapter 27 of [The Martial Genius Who Remembers Everything](https://anilist.co/manga/211415) (02:40 28 September 2026)
+-   📖 Read chapter 81 - 82 of [The Genius Swordsman of Mount Hua](https://anilist.co/manga/188155) (02:40 28 September 2026)
+-   📖 Read chapter 47 - 48 of [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (02:39 28 September 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
