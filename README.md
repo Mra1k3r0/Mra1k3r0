@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 83 of [The Genius Swordsman of Mount Hua](https://anilist.co/manga/188155) (17:42 29 September 2026)
 -   📖 Read chapter 95 - 118 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (10:23 29 September 2026)
 -   📖 Read chapter 174 of [The Novel's Extra](https://anilist.co/manga/152128) (02:18 29 September 2026)
 -   📖 Read chapter 141 of [Reincarnated Murim Lord](https://anilist.co/manga/176790) (01:43 29 September 2026)
 -   📖 Read chapter 38 of [The Shepherd Wizard](https://anilist.co/manga/208208) (01:22 29 September 2026)
--   📖 Read chapter 102 - 104 of [The Legendary Hero is an Academy Honors Student](https://anilist.co/manga/185979) (04:26 28 September 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
