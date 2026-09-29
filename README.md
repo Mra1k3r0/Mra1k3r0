@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 95 - 112 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (08:05 29 September 2026)
 -   📖 Read chapter 174 of [The Novel's Extra](https://anilist.co/manga/152128) (02:18 29 September 2026)
 -   📖 Read chapter 141 of [Reincarnated Murim Lord](https://anilist.co/manga/176790) (01:43 29 September 2026)
 -   📖 Read chapter 38 of [The Shepherd Wizard](https://anilist.co/manga/208208) (01:22 29 September 2026)
 -   📖 Read chapter 102 - 104 of [The Legendary Hero is an Academy Honors Student](https://anilist.co/manga/185979) (04:26 28 September 2026)
--   📖 Read chapter 189 of [Lout of Count’s Family](https://anilist.co/manga/123573) (02:41 28 September 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
