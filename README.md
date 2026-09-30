@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 95 - 99 of [The Heavenly Demon Wants a Quiet Life](https://anilist.co/manga/185816) (05:52 30 September 2026)
 -   📖 Read chapter 13 - 16 of [Myeolgwisudojeon](https://anilist.co/manga/214315) (23:29 29 September 2026)
 -   📖 Read chapter 83 of [The Genius Swordsman of Mount Hua](https://anilist.co/manga/188155) (17:42 29 September 2026)
 -   📖 Read chapter 95 - 118 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (10:23 29 September 2026)
 -   📖 Read chapter 174 of [The Novel's Extra](https://anilist.co/manga/152128) (02:18 29 September 2026)
--   📖 Read chapter 141 of [Reincarnated Murim Lord](https://anilist.co/manga/176790) (01:43 29 September 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
