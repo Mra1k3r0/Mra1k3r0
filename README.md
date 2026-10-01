@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 77 - 100 of [Steel-Eating Player](https://anilist.co/manga/170956) (15:57 30 September 2026)
+-   📖 Read chapter 77 - 110 of [Steel-Eating Player](https://anilist.co/manga/170956) (01:32 01 October 2026)
+-   📖 Read chapter 219 - 221 of [Pick Me Up](https://anilist.co/manga/159441) (00:09 01 October 2026)
+-   📖 Read chapter 218 of [Pick Me Up](https://anilist.co/manga/159441) (00:01 01 October 2026)
 -   📖 Read chapter 95 - 99 of [The Heavenly Demon Wants a Quiet Life](https://anilist.co/manga/185816) (05:52 30 September 2026)
 -   📖 Read chapter 13 - 16 of [Myeolgwisudojeon](https://anilist.co/manga/214315) (23:29 29 September 2026)
--   📖 Read chapter 83 of [The Genius Swordsman of Mount Hua](https://anilist.co/manga/188155) (17:42 29 September 2026)
--   📖 Read chapter 95 - 118 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (10:23 29 September 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
