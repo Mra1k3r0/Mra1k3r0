@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 190 of [Lout of Count’s Family](https://anilist.co/manga/123573) (17:51 02 October 2026)
 -   📖 Read chapter 323 - 332 of [Nano Machine](https://anilist.co/manga/120980) (05:03 01 October 2026)
 -   📖 Read chapter 77 - 113 of [Steel-Eating Player](https://anilist.co/manga/170956) (01:47 01 October 2026)
 -   📖 Read chapter 219 - 221 of [Pick Me Up](https://anilist.co/manga/159441) (00:09 01 October 2026)
 -   📖 Read chapter 218 of [Pick Me Up](https://anilist.co/manga/159441) (00:01 01 October 2026)
--   📖 Read chapter 95 - 99 of [The Heavenly Demon Wants a Quiet Life](https://anilist.co/manga/185816) (05:52 30 September 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
