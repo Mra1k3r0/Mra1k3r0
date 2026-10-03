@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 55 of [The Patron of Villains](https://anilist.co/manga/201009) (07:17 03 October 2026)
 -   📖 Read chapter 38 of [Goedame Tteoreojyeodo Chulgeuneul Haeya Haneunguna](https://anilist.co/manga/212562) (02:04 03 October 2026)
 -   📖 Read chapter 190 of [Lout of Count’s Family](https://anilist.co/manga/123573) (17:51 02 October 2026)
 -   📖 Read chapter 323 - 332 of [Nano Machine](https://anilist.co/manga/120980) (05:03 01 October 2026)
 -   📖 Read chapter 77 - 113 of [Steel-Eating Player](https://anilist.co/manga/170956) (01:47 01 October 2026)
--   📖 Read chapter 219 - 221 of [Pick Me Up](https://anilist.co/manga/159441) (00:09 01 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
