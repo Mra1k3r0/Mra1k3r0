@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 28 of [Geomjega Namgungsegareul Seuneun Beop](https://anilist.co/manga/213323) (03:38 04 October 2026)
+-   📖 Read chapter 7 - 9 of [Saekkibuteo Sijakaneun Angmasaenghwal](https://anilist.co/manga/216731) (03:33 04 October 2026)
 -   📖 Read chapter 25 - 27 of [Dungeon-eul Geurineun Hwaga](https://anilist.co/manga/213942) (18:40 03 October 2026)
 -   📖 Read chapter 55 of [The Patron of Villains](https://anilist.co/manga/201009) (07:17 03 October 2026)
 -   📖 Read chapter 38 of [Goedame Tteoreojyeodo Chulgeuneul Haeya Haneunguna](https://anilist.co/manga/212562) (02:04 03 October 2026)
--   📖 Read chapter 190 of [Lout of Count’s Family](https://anilist.co/manga/123573) (17:51 02 October 2026)
--   📖 Read chapter 323 - 332 of [Nano Machine](https://anilist.co/manga/120980) (05:03 01 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
