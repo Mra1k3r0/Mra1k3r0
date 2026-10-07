@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 17 of [Myeolgwisudojeon](https://anilist.co/manga/214315) (23:45 06 October 2026)
 -   📖 Read chapter 39 of [The Shepherd Wizard](https://anilist.co/manga/208208) (16:54 06 October 2026)
 -   📖 Read chapter 35 - 37 of [Life of a Demon Hunter](https://anilist.co/manga/208364) (02:03 05 October 2026)
 -   📖 Read chapter 29 of [The Martial Genius Who Remembers Everything](https://anilist.co/manga/211415) (17:39 04 October 2026)
 -   📖 Read chapter 183 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (17:27 04 October 2026)
--   📖 Read chapter 28 of [Geomjega Namgungsegareul Seuneun Beop](https://anilist.co/manga/213323) (03:38 04 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
