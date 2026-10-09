@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 57 of [A Cadet Becomes a Prophet?!](https://anilist.co/manga/195458) (11:19 09 October 2026)
 -   📖 Read chapter 222 of [Pick Me Up](https://anilist.co/manga/159441) (06:28 09 October 2026)
 -   📖 Read chapter 119 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (06:19 09 October 2026)
 -   📖 Read chapter 84 of [The Genius Swordsman of Mount Hua](https://anilist.co/manga/188155) (06:11 09 October 2026)
 -   📖 Read chapter 17 of [Myeolgwisudojeon](https://anilist.co/manga/214315) (23:45 06 October 2026)
--   📖 Read chapter 39 of [The Shepherd Wizard](https://anilist.co/manga/208208) (16:54 06 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
