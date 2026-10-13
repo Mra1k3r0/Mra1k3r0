@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 142 - 143 of [Reincarnated Murim Lord](https://anilist.co/manga/176790) (00:20 13 October 2026)
+-   📖 Read chapter 40 of [The Shepherd Wizard](https://anilist.co/manga/208208) (00:11 13 October 2026)
 -   📖 Read chapter 28 of [Dungeon-eul Geurineun Hwaga](https://anilist.co/manga/213942) (13:06 12 October 2026)
 -   📖 Read chapter 30 of [The Martial Genius Who Remembers Everything](https://anilist.co/manga/211415) (13:00 12 October 2026)
 -   📖 Read chapter 184 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (12:48 12 October 2026)
--   📖 Read chapter 49 - 50 of [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (12:42 12 October 2026)
--   📖 Read chapter 10 of [Saekkibuteo Sijakaneun Angmasaenghwal](https://anilist.co/manga/216731) (13:47 11 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
