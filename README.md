@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 191 of [Lout of Count’s Family](https://anilist.co/manga/123573) (02:18 14 October 2026)
+-   📖 Read chapter 18 of [Myeolgwisudojeon](https://anilist.co/manga/214315) (01:46 14 October 2026)
 -   📖 Read chapter 142 - 143 of [Reincarnated Murim Lord](https://anilist.co/manga/176790) (00:20 13 October 2026)
 -   📖 Read chapter 40 of [The Shepherd Wizard](https://anilist.co/manga/208208) (00:11 13 October 2026)
 -   📖 Read chapter 28 of [Dungeon-eul Geurineun Hwaga](https://anilist.co/manga/213942) (13:06 12 October 2026)
--   📖 Read chapter 30 of [The Martial Genius Who Remembers Everything](https://anilist.co/manga/211415) (13:00 12 October 2026)
--   📖 Read chapter 184 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (12:48 12 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
