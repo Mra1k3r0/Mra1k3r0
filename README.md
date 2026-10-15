@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 333 - 334 of [Nano Machine](https://anilist.co/manga/120980) (03:00 15 October 2026)
+-   📖 Read chapter 120 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (02:54 15 October 2026)
+-   📖 Plans to read [Hyeonjilmusin](https://anilist.co/manga/209537) (02:45 15 October 2026)
+-   📺 Plans to watch [The Water Magician](https://anilist.co/anime/186052) (02:34 15 October 2026)
 -   📖 Read chapter 191 of [Lout of Count’s Family](https://anilist.co/manga/123573) (02:18 14 October 2026)
--   📖 Read chapter 18 of [Myeolgwisudojeon](https://anilist.co/manga/214315) (01:46 14 October 2026)
--   📖 Read chapter 142 - 143 of [Reincarnated Murim Lord](https://anilist.co/manga/176790) (00:20 13 October 2026)
--   📖 Read chapter 40 of [The Shepherd Wizard](https://anilist.co/manga/208208) (00:11 13 October 2026)
--   📖 Read chapter 28 of [Dungeon-eul Geurineun Hwaga](https://anilist.co/manga/213942) (13:06 12 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
