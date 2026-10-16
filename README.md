@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 57 of [The Patron of Villains](https://anilist.co/manga/201009) (03:31 16 October 2026)
 -   📖 Read chapter 333 - 334 of [Nano Machine](https://anilist.co/manga/120980) (03:00 15 October 2026)
 -   📖 Read chapter 120 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (02:54 15 October 2026)
 -   📖 Plans to read [Hyeonjilmusin](https://anilist.co/manga/209537) (02:45 15 October 2026)
 -   📺 Plans to watch [The Water Magician](https://anilist.co/anime/186052) (02:34 15 October 2026)
--   📖 Read chapter 191 of [Lout of Count’s Family](https://anilist.co/manga/123573) (02:18 14 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
