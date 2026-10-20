@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 29 of [Dungeon-eul Geurineun Hwaga](https://anilist.co/manga/213942) (03:01 20 October 2026)
+-   📖 Read chapter 11 of [Saekkibuteo Sijakaneun Angmasaenghwal](https://anilist.co/manga/216731) (02:58 20 October 2026)
+-   📖 Read chapter 176 of [The Novel's Extra](https://anilist.co/manga/152128) (02:53 20 October 2026)
+-   📖 Read chapter 41 of [The Shepherd Wizard](https://anilist.co/manga/208208) (02:46 20 October 2026)
 -   📖 Read chapter 40 of [Goedame Tteoreojyeodo Chulgeuneul Haeya Haneunguna](https://anilist.co/manga/212562) (17:24 19 October 2026)
--   📖 Read chapter 185 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (03:43 19 October 2026)
--   📖 Read chapter 192 of [Lout of Count’s Family](https://anilist.co/manga/123573) (08:17 18 October 2026)
--   📖 Read chapter 57 of [The Patron of Villains](https://anilist.co/manga/201009) (03:31 16 October 2026)
--   📖 Read chapter 333 - 334 of [Nano Machine](https://anilist.co/manga/120980) (03:00 15 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
