@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 19 of [Myeolgwisudojeon](https://anilist.co/manga/214315) (00:36 21 October 2026)
+-   📖 Read chapter 121 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (00:29 21 October 2026)
+-   📖 Read chapter 51 of [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (00:20 21 October 2026)
+-   📖 Read chapter 144 of [Reincarnated Murim Lord](https://anilist.co/manga/176790) (23:55 20 October 2026)
 -   📖 Read chapter 29 of [Dungeon-eul Geurineun Hwaga](https://anilist.co/manga/213942) (03:01 20 October 2026)
--   📖 Read chapter 11 of [Saekkibuteo Sijakaneun Angmasaenghwal](https://anilist.co/manga/216731) (02:58 20 October 2026)
--   📖 Read chapter 176 of [The Novel's Extra](https://anilist.co/manga/152128) (02:53 20 October 2026)
--   📖 Read chapter 41 of [The Shepherd Wizard](https://anilist.co/manga/208208) (02:46 20 October 2026)
--   📖 Read chapter 40 of [Goedame Tteoreojyeodo Chulgeuneul Haeya Haneunguna](https://anilist.co/manga/212562) (17:24 19 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
