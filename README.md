@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 335 of [Nano Machine](https://anilist.co/manga/120980) (00:26 24 October 2026)
+-   📖 Read chapter 58 of [The Patron of Villains](https://anilist.co/manga/201009) (00:26 24 October 2026)
+-   📖 Read chapter 41 of [Goedame Tteoreojyeodo Chulgeuneul Haeya Haneunguna](https://anilist.co/manga/212562) (00:17 24 October 2026)
 -   📖 Read chapter 19 of [Myeolgwisudojeon](https://anilist.co/manga/214315) (00:36 21 October 2026)
 -   📖 Read chapter 121 of [Myst, Might, Mayhem](https://anilist.co/manga/175946) (00:29 21 October 2026)
--   📖 Read chapter 51 of [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (00:20 21 October 2026)
--   📖 Read chapter 144 of [Reincarnated Murim Lord](https://anilist.co/manga/176790) (23:55 20 October 2026)
--   📖 Read chapter 29 of [Dungeon-eul Geurineun Hwaga](https://anilist.co/manga/213942) (03:01 20 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
