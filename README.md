@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 186 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (17:22 25 October 2026)
 -   📖 Read chapter 1 - 6 of [Mollangminjogui Cheonjae Gisa](https://anilist.co/manga/218784) (06:30 25 October 2026)
 -   📖 Plans to read [Mollangminjogui Cheonjae Gisa](https://anilist.co/manga/218784) (04:56 25 October 2026)
 -   📖 Read chapter 39 - 40 of [Life of a Demon Hunter](https://anilist.co/manga/208364) (02:20 25 October 2026)
 -   📖 Read chapter 31 - 32 of [The Martial Genius Who Remembers Everything](https://anilist.co/manga/211415) (01:47 25 October 2026)
--   📖 Read chapter 30 of [Dungeon-eul Geurineun Hwaga](https://anilist.co/manga/213942) (01:24 25 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
