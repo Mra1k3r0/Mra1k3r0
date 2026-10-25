@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 1 of [Mollangminjogui Cheonjae Gisa](https://anilist.co/manga/218784) (05:06 25 October 2026)
+-   📖 Read chapter 1 - 6 of [Mollangminjogui Cheonjae Gisa](https://anilist.co/manga/218784) (06:30 25 October 2026)
 -   📖 Plans to read [Mollangminjogui Cheonjae Gisa](https://anilist.co/manga/218784) (04:56 25 October 2026)
 -   📖 Read chapter 39 - 40 of [Life of a Demon Hunter](https://anilist.co/manga/208364) (02:20 25 October 2026)
 -   📖 Read chapter 31 - 32 of [The Martial Genius Who Remembers Everything](https://anilist.co/manga/211415) (01:47 25 October 2026)
