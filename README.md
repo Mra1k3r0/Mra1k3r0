@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 193 of [Lout of Count’s Family](https://anilist.co/manga/123573) (14:23 24 October 2026)
--   📖 Read chapter 335 of [Nano Machine](https://anilist.co/manga/120980) (00:26 24 October 2026)
--   📖 Read chapter 58 of [The Patron of Villains](https://anilist.co/manga/201009) (00:26 24 October 2026)
--   📖 Read chapter 41 of [Goedame Tteoreojyeodo Chulgeuneul Haeya Haneunguna](https://anilist.co/manga/212562) (00:17 24 October 2026)
--   📖 Read chapter 19 of [Myeolgwisudojeon](https://anilist.co/manga/214315) (00:36 21 October 2026)
+-   📖 Read chapter 1 of [Mollangminjogui Cheonjae Gisa](https://anilist.co/manga/218784) (05:06 25 October 2026)
+-   📖 Plans to read [Mollangminjogui Cheonjae Gisa](https://anilist.co/manga/218784) (04:56 25 October 2026)
+-   📖 Read chapter 39 - 40 of [Life of a Demon Hunter](https://anilist.co/manga/208364) (02:20 25 October 2026)
+-   📖 Read chapter 31 - 32 of [The Martial Genius Who Remembers Everything](https://anilist.co/manga/211415) (01:47 25 October 2026)
+-   📖 Read chapter 30 of [Dungeon-eul Geurineun Hwaga](https://anilist.co/manga/213942) (01:24 25 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
