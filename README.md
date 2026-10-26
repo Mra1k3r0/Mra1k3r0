@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 52 of [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (07:22 26 October 2026)
 -   📖 Read chapter 145 of [Reincarnated Murim Lord](https://anilist.co/manga/176790) (02:06 26 October 2026)
 -   📖 Read chapter 186 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (17:22 25 October 2026)
 -   📖 Read chapter 1 - 6 of [Mollangminjogui Cheonjae Gisa](https://anilist.co/manga/218784) (06:30 25 October 2026)
 -   📖 Plans to read [Mollangminjogui Cheonjae Gisa](https://anilist.co/manga/218784) (04:56 25 October 2026)
--   📖 Read chapter 39 - 40 of [Life of a Demon Hunter](https://anilist.co/manga/208364) (02:20 25 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
