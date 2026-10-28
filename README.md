@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 20 of [Myeolgwisudojeon](https://anilist.co/manga/214315) (13:27 28 October 2026)
+-   📖 Read chapter 42 of [The Shepherd Wizard](https://anilist.co/manga/208208) (12:23 28 October 2026)
 -   📖 Read chapter 177 of [The Novel's Extra](https://anilist.co/manga/152128) (18:49 26 October 2026)
 -   📖 Read chapter 52 of [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (07:22 26 October 2026)
 -   📖 Read chapter 145 of [Reincarnated Murim Lord](https://anilist.co/manga/176790) (02:06 26 October 2026)
--   📖 Read chapter 186 of [Revenge of the Baskerville Bloodhound](https://anilist.co/manga/163824) (17:22 25 October 2026)
--   📖 Read chapter 1 - 6 of [Mollangminjogui Cheonjae Gisa](https://anilist.co/manga/218784) (06:30 25 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
