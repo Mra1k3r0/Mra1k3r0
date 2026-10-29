@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 100 - 103 of [The Heavenly Demon Wants a Quiet Life](https://anilist.co/manga/185816) (01:08 29 October 2026)
 -   📖 Read chapter 20 of [Myeolgwisudojeon](https://anilist.co/manga/214315) (13:27 28 October 2026)
 -   📖 Read chapter 42 of [The Shepherd Wizard](https://anilist.co/manga/208208) (12:23 28 October 2026)
 -   📖 Read chapter 177 of [The Novel's Extra](https://anilist.co/manga/152128) (18:49 26 October 2026)
 -   📖 Read chapter 52 of [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (07:22 26 October 2026)
--   📖 Read chapter 145 of [Reincarnated Murim Lord](https://anilist.co/manga/176790) (02:06 26 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
