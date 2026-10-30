@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 20 - 22 of [That Time I Got Reincarnated as a Slime Season 4](https://anilist.co/anime/182205) (09:04 30 October 2026)
+-   📖 Read chapter 59 of [The Patron of Villains](https://anilist.co/manga/201009) (05:07 30 October 2026)
 -   📖 Read chapter 100 - 103 of [The Heavenly Demon Wants a Quiet Life](https://anilist.co/manga/185816) (01:08 29 October 2026)
 -   📖 Read chapter 20 of [Myeolgwisudojeon](https://anilist.co/manga/214315) (13:27 28 October 2026)
 -   📖 Read chapter 42 of [The Shepherd Wizard](https://anilist.co/manga/208208) (12:23 28 October 2026)
--   📖 Read chapter 177 of [The Novel's Extra](https://anilist.co/manga/152128) (18:49 26 October 2026)
--   📖 Read chapter 52 of [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (07:22 26 October 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
