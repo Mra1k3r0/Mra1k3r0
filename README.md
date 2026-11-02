@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Completed [The Water Magician](https://anilist.co/anime/186052) (00:48 02 November 2026)
--   📺 Watched episode 9 - 12 of [The Water Magician](https://anilist.co/anime/186052) (00:45 02 November 2026)
--   📺 Watched episode 6 - 8 of [The Water Magician](https://anilist.co/anime/186052) (11:15 01 November 2026)
--   📖 Read chapter 42 of [Goedame Tteoreojyeodo Chulgeuneul Haeya Haneunguna](https://anilist.co/manga/212562) (02:50 31 October 2026)
--   📖 Read chapter 336 of [Nano Machine](https://anilist.co/manga/120980) (15:17 30 October 2026)
+-   📖 Read chapter 33 of [The Martial Genius Who Remembers Everything](https://anilist.co/manga/211415) (08:05 02 November 2026)
+-   📖 Read chapter 41 of [Life of a Demon Hunter](https://anilist.co/manga/208364) (07:54 02 November 2026)
+-   📖 Read chapter 7 of [Mollangminjogui Cheonjae Gisa](https://anilist.co/manga/218784) (07:50 02 November 2026)
+-   📖 Read chapter 31 of [Dungeon-eul Geurineun Hwaga](https://anilist.co/manga/213942) (07:41 02 November 2026)
+-   📖 Read chapter 53 of [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (07:36 02 November 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
