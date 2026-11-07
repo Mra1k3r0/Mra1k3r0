@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 43 of [Goedame Tteoreojyeodo Chulgeuneul Haeya Haneunguna](https://anilist.co/manga/212562) (08:40 07 November 2026)
 -   📖 Read chapter 60 of [The Patron of Villains](https://anilist.co/manga/201009) (03:58 07 November 2026)
 -   📖 Read chapter 108 of [The Legendary Hero is an Academy Honors Student](https://anilist.co/manga/185979) (01:55 06 November 2026)
 -   📖 Read chapter 105 - 107 of [The Legendary Hero is an Academy Honors Student](https://anilist.co/manga/185979) (10:08 05 November 2026)
 -   📖 Read chapter 43 of [The Shepherd Wizard](https://anilist.co/manga/208208) (01:51 03 November 2026)
--   📖 Read chapter 33 of [The Martial Genius Who Remembers Everything](https://anilist.co/manga/211415) (08:05 02 November 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
