@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 1 - 2 of [Chowolmuje](https://anilist.co/manga/219032) (23:38 08 November 2026)
 -   📖 Plans to read [Chowolmuje](https://anilist.co/manga/219032) (13:44 08 November 2026)
 -   📖 Read chapter 109 - 112 of [The Legendary Hero is an Academy Honors Student](https://anilist.co/manga/185979) (01:33 08 November 2026)
 -   📖 Read chapter 32 of [Dungeon-eul Geurineun Hwaga](https://anilist.co/manga/213942) (00:11 08 November 2026)
 -   📖 Read chapter 194 of [Lout of Count’s Family](https://anilist.co/manga/123573) (00:02 08 November 2026)
--   📖 Read chapter 43 of [Goedame Tteoreojyeodo Chulgeuneul Haeya Haneunguna](https://anilist.co/manga/212562) (08:40 07 November 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
