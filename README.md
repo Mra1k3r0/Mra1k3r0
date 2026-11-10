@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 178 - 179 of [The Novel's Extra](https://anilist.co/manga/152128) (04:04 10 November 2026)
 -   📖 Read chapter 34 of [The Martial Genius Who Remembers Everything](https://anilist.co/manga/211415) (12:33 09 November 2026)
 -   📖 Read chapter 54 of [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (12:18 09 November 2026)
 -   📖 Read chapter 1 - 2 of [Chowolmuje](https://anilist.co/manga/219032) (23:38 08 November 2026)
 -   📖 Plans to read [Chowolmuje](https://anilist.co/manga/219032) (13:44 08 November 2026)
--   📖 Read chapter 109 - 112 of [The Legendary Hero is an Academy Honors Student](https://anilist.co/manga/185979) (01:33 08 November 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
