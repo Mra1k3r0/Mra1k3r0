@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 56 - 58 of [Rebirth of the Divine Demon](https://anilist.co/manga/199222) (22:30 17 November 2026)
+-   📖 Read chapter 33 of [Dungeon-eul Geurineun Hwaga](https://anilist.co/manga/213942) (22:20 17 November 2026)
+-   📖 Read chapter 195 of [Lout of Count’s Family](https://anilist.co/manga/123573) (22:14 17 November 2026)
+-   📖 Read chapter 44 of [The Shepherd Wizard](https://anilist.co/manga/208208) (22:14 17 November 2026)
 -   📖 Read chapter 101 - 102 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (02:32 13 November 2026)
--   📖 Read chapter 178 - 179 of [The Novel's Extra](https://anilist.co/manga/152128) (04:04 10 November 2026)
--   📖 Read chapter 34 of [The Martial Genius Who Remembers Everything](https://anilist.co/manga/211415) (12:33 09 November 2026)
--   📖 Read chapter 54 of [The Sword-Eating Swordmaster](https://anilist.co/manga/204435) (12:18 09 November 2026)
--   📖 Read chapter 1 - 2 of [Chowolmuje](https://anilist.co/manga/219032) (23:38 08 November 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
