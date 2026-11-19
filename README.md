@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 180 of [The Novel's Extra](https://anilist.co/manga/152128) (21:27 18 November 2026)
 -   📖 Read chapter 85 of [The Genius Swordsman of Mount Hua](https://anilist.co/manga/188155) (12:38 18 November 2026)
 -   📖 Read chapter 61 of [The Patron of Villains](https://anilist.co/manga/201009) (12:38 18 November 2026)
 -   📖 Read chapter 44 of [Goedame Tteoreojyeodo Chulgeuneul Haeya Haneunguna](https://anilist.co/manga/212562) (12:38 18 November 2026)
 -   📖 Read chapter 113 of [The Legendary Hero is an Academy Honors Student](https://anilist.co/manga/185979) (12:37 18 November 2026)
--   📖 Read chapter 35 of [The Martial Genius Who Remembers Everything](https://anilist.co/manga/211415) (10:58 18 November 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
