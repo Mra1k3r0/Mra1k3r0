@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 44 of [Life of a Demon Hunter](https://anilist.co/manga/208364) (07:11 22 November 2026)
+-   📖 Read chapter 103 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (07:07 22 November 2026)
+-   📖 Read chapter 34 of [Dungeon-eul Geurineun Hwaga](https://anilist.co/manga/213942) (05:19 22 November 2026)
+-   📖 Read chapter 62 of [Rebirth of the Divine Demon](https://anilist.co/manga/199222) (05:02 22 November 2026)
 -   📖 Read chapter 62 of [The Patron of Villains](https://anilist.co/manga/201009) (05:08 21 November 2026)
--   📖 Read chapter 196 of [Lout of Count’s Family](https://anilist.co/manga/123573) (05:00 21 November 2026)
--   📖 Read chapter 58 - 73 of [The Villain's Survival Route](https://anilist.co/manga/187427) (01:48 21 November 2026)
--   📖 Read chapter 146 - 148 of [Reincarnated Murim Lord](https://anilist.co/manga/176790) (10:49 20 November 2026)
--   📖 Read chapter 42 - 43 of [Life of a Demon Hunter](https://anilist.co/manga/208364) (00:34 20 November 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
