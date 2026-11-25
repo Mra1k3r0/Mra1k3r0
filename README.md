@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 10 - 11 of [Unrivaled Spear Ghost](https://anilist.co/manga/201755) (14:46 25 November 2026)
 -   📖 Read chapter 1 - 9 of [Unrivaled Spear Ghost](https://anilist.co/manga/201755) (19:34 24 November 2026)
 -   📖 Read chapter 87 of [The Genius Swordsman of Mount Hua](https://anilist.co/manga/188155) (18:30 24 November 2026)
 -   📖 Read chapter 44 of [Life of a Demon Hunter](https://anilist.co/manga/208364) (07:11 22 November 2026)
 -   📖 Read chapter 103 of [Blink Master of the Magic Academy](https://anilist.co/manga/178379) (07:07 22 November 2026)
--   📖 Read chapter 34 of [Dungeon-eul Geurineun Hwaga](https://anilist.co/manga/213942) (05:19 22 November 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
