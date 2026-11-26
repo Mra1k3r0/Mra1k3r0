@@ -40,7 +40,7 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Read chapter 10 - 12 of [Unrivaled Spear Ghost](https://anilist.co/manga/201755) (15:23 25 November 2026)
+-   📖 Read chapter 10 - 28 of [Unrivaled Spear Ghost](https://anilist.co/manga/201755) (01:21 26 November 2026)
 -   📖 Read chapter 1 - 9 of [Unrivaled Spear Ghost](https://anilist.co/manga/201755) (19:34 24 November 2026)
 -   📖 Read chapter 87 of [The Genius Swordsman of Mount Hua](https://anilist.co/manga/188155) (18:30 24 November 2026)
 -   📖 Read chapter 44 of [Life of a Demon Hunter](https://anilist.co/manga/208364) (07:11 22 November 2026)
