@@ -40,11 +40,11 @@
 
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 63 of [The Patron of Villains](https://anilist.co/manga/201009) (06:06 28 November 2026)
 -   📖 Read chapter 63 of [Rebirth of the Divine Demon](https://anilist.co/manga/199222) (09:36 27 November 2026)
 -   📖 Read chapter 10 - 60 of [Unrivaled Spear Ghost](https://anilist.co/manga/201755) (13:33 26 November 2026)
 -   📖 Read chapter 1 - 9 of [Unrivaled Spear Ghost](https://anilist.co/manga/201755) (19:34 24 November 2026)
 -   📖 Read chapter 87 of [The Genius Swordsman of Mount Hua](https://anilist.co/manga/188155) (18:30 24 November 2026)
--   📖 Read chapter 44 of [Life of a Demon Hunter](https://anilist.co/manga/208364) (07:11 22 November 2026)
 
 <!-- ANILIST_ACTIVITY:end -->
 
